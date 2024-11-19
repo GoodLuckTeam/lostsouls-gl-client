@@ -1,0 +1,53 @@
+
+[Supernatural]
+	#How much extra damage does a Supernatural do?
+	#Range: > 0
+	"Supernatural Damage" = 3
+	#How much extra speed does a Supernatural have in percentage?
+	#Range: > 0
+	"Supernatural Speed" = 15
+	#How much extra damage does a Werewolf take from iron in percentage?
+	#Range: > 0
+	"Werewolf Weakness" = 50
+	#Should vampires spawn within raids at night?
+	"Vampiric Raiders" = true
+	#How strong is the heal effect for the Leeching Enchantment?
+	#Range: > 0
+	"Vampiric Leech" = 1
+	#Should vampires be immune to sun damage?
+	"Vampiric Sunlight" = false
+	#How much health does a Vampire needs to be at in percentage to die instantly to a Wooden Sword?
+	#Range: 0.0 ~ 1.0
+	"Vampiric Weakness" = 0.6
+	#Should vampires have their original textures?
+	"Original Vampires" = false
+
+["Ritual Altar"]
+	#What should be the base power for soul enchanting?
+	#Range: > 0
+	Soulpower = 7
+	#Should contracts have a full description instead of a short & simple one?
+	Contracts = true
+	#Should the Vampirism Contract be Enabled? Note: This doesn't remove the item.
+	Vampirism = true
+	#Should the Vexation Contract be Enabled? Note: This doesn't remove the item.
+	Vexation = true
+	#Should the Pumpkin Head Contract be Enabled? Note: This doesn't remove the item.
+	Pumpkin = true
+	#Should the Reanimation Contract be Enabled? Note: This doesn't remove the item.
+	Reanimation = true
+	#Should the Knowledge Contract be Enabled? Note: This doesn't remove the item.
+	Knowledge = true
+	#Should the Fortune Contract be Enabled? Note: This doesn't remove the item.
+	Fortune = true
+	#Should the Reanimate Contract require a sacrifice?
+	"Ritual Sacrifice" = true
+
+[Misc]
+	#Should Vexes spawn from Grave Soil?
+	"Gravy Vexes" = true
+	#Should Spooks target armor stands?
+	"Possessed Armor" = true
+	#Should Angels have a holy aura that burns nearby vampires and undead?
+	"Holy Blessing" = true
+

@@ -1,0 +1,19 @@
+{
+  "configVersion": 2,
+  "enabledByDefault": true,
+  "xOffset": 0,
+  "sneakXOffset": 0,
+  "sitXOffset": 0,
+  "renderStuckFeatures": true,
+  "vanillaHands": false,
+  "doubleHands": false,
+  "autoVanillaHands": [
+    "twilightforest:filled_ore_map",
+    "twilightforest:filled_magic_map",
+    "twilightforest:filled_maze_map",
+    "antiqueatlas:antique_atlas"
+  ],
+  "autoToggleModItems": [
+    "exposure:camera"
+  ]
+}

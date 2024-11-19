@@ -1,0 +1,15 @@
+{
+    "name": "Потерянное Око",
+    "icon": "endrem:lost_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Поговаривают, что оно было выковано первыми кузнецами времени."
+        },
+        {
+            "type": "text",
+            "text": "Потерянное око можно получить победив Предвестника"
+        }
+    ]
+}

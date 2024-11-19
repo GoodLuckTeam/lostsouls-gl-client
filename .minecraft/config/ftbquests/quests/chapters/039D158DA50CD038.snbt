@@ -1,0 +1,1840 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "039D158DA50CD038"
+	group: "24431910BCDF246B"
+	icon: {
+		Count: 1
+		id: "vinery:jo_special_mixture"
+		tag: {
+			Year: 0
+		}
+	}
+	id: "039D158DA50CD038"
+	images: [
+		{
+			height: 2.0d
+			image: "vinery:block/apple_leaves_bushy2"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:item/vinery_standard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "vinery:item/mash"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/corn"
+			rotation: -80.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/beer_elemental_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/beer_standard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/breathalyzer_orange"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/wild_hops_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/potato"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:item/apple_tree_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			height: 2.0d
+			image: "mynethersdelight:block/powdery_cannon_large_leaves_bloomed"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cane_base_leaves_bloomed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cannon_small_leaves_bloomed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "nethervinery:textures/mob_effect/improved_hearthstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/blazefire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "nethervinery:item/crimson_nether_bag"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "nethervinery:item/netherite_nectar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "nethervinery:item/lava_fizz"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "nethervinery:item/improved_lava_fizz"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "brewery:item/barrel_main"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/popped_chorus_fruit"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 0.02564102564102564d
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 0.02564102564102564d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 0.02564102564102564d
+			x: 1.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "bygonenether:item/netherite_scrap_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:textures/mob_effect/trading.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:block/taiga_grape_bush_stage3_red"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:item/basket"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "vinery:item/calendar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "vinery:block/apple_leaves_bushy4"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:block/savanna_grape_bush_stage3_red"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "vinery:block/apple_leaves_bushy1"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Вы начинаете свой путь пьяного мастера."]
+			icon: "vinery:fermentation_barrel"
+			id: "50F2A8631FEE8DBD"
+			rewards: [{
+				id: "53F2F402844F3DCB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "09C790AB99775E55"
+					item: "vinery:fermentation_barrel"
+					type: "item"
+				}
+				{
+					id: "799882DFA7FFAAD7"
+					item: "vinery:apple_press"
+					type: "item"
+				}
+				{
+					id: "2E7C99DAE629BC21"
+					item: "vinery:grapevine_pot"
+					type: "item"
+				}
+				{
+					id: "308EAD77C2BE5823"
+					item: "vinery:wine_bottle"
+					type: "item"
+				}
+				{
+					id: "753CC0ED7D10C6BC"
+					item: "brewery:beer_mug"
+					type: "item"
+				}
+			]
+			title: "Начинающий алкоголик"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			description: ["Да, там тоже можно делать вино."]
+			icon: "nethervinery:crimson_fermentation_barrel"
+			id: "77139E7560FAD096"
+			tasks: [
+				{
+					id: "5395219F1598C52D"
+					item: "nethervinery:crimson_apple_press"
+					type: "item"
+				}
+				{
+					id: "79FC0B5C7BF49FB1"
+					item: "nethervinery:crimson_grapevine_pot"
+					type: "item"
+				}
+				{
+					id: "22851474DC6CB0CF"
+					item: "nethervinery:crimson_fermentation_barrel"
+					type: "item"
+				}
+			]
+			title: "Адский винодел"
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["50F2A8631FEE8DBD"]
+			description: ["Все эти саженцы пригодятся для создания алкоголя из мода Let's do: Vinery"]
+			icon: "vinery:taiga_grape_seeds_red"
+			id: "2676DFC6960AEC07"
+			rewards: [{
+				id: "6F421FE718C556C2"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "0C7F3B4E8FAEF1F3"
+					item: "vinery:white_grape_seeds"
+					type: "item"
+				}
+				{
+					id: "75667F5816612FC6"
+					item: "vinery:savanna_grape_seeds_red"
+					type: "item"
+				}
+				{
+					id: "33CCF19684315AC5"
+					item: "vinery:savanna_grape_seeds_white"
+					type: "item"
+				}
+				{
+					id: "0BBA218D48D4C0F5"
+					item: "vinery:taiga_grape_seeds_red"
+					type: "item"
+				}
+				{
+					id: "63F66B4ECB21F2EB"
+					item: "vinery:taiga_grape_seeds_white"
+					type: "item"
+				}
+				{
+					id: "343C55DB4FCE21E1"
+					item: "vinery:jungle_grape_seeds_red"
+					type: "item"
+				}
+				{
+					id: "365CFFCA82C2B227"
+					item: "vinery:jungle_grape_seeds_white"
+					type: "item"
+				}
+				{
+					id: "7FA3A84DEEFCD86D"
+					item: "vinery:red_grape_seeds"
+					type: "item"
+				}
+				{
+					id: "3650B7A554747BEE"
+					item: "vinery:apple_tree_sapling"
+					type: "item"
+				}
+				{
+					id: "08A0FFD68D174544"
+					item: "vinery:dark_cherry_sapling"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "1B663D692BD78A8D"
+					item: { Count: 3, id: "vinery:grapevine_stem" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "547A726C17E56D32"
+					item: { Count: 3, id: "vinery:oak_lattice" }
+					type: "item"
+				}
+			]
+			title: "Коллекционер саженцев"
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77139E7560FAD096"]
+			description: ["Удивительно, как там может расти виноград?"]
+			icon: "nethervinery:crimson_grape_seeds"
+			id: "2BF2F646B7720CD2"
+			rewards: [{
+				id: "316220D0CB1E42B6"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "4E22102E169724EC"
+					item: "nethervinery:crimson_grape_seeds"
+					type: "item"
+				}
+				{
+					id: "57DA692846CF6FA1"
+					item: "nethervinery:warped_grape_seeds"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "4B5ED6050B4D1E3B"
+					item: { Count: 3, id: "nethervinery:obsidian_stem" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "077C0F3A25F894AA"
+					item: { Count: 3, id: "nethervinery:crimson_lattice" }
+					type: "item"
+				}
+			]
+			title: "Адские ростки"
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2BF2F646B7720CD2"]
+			description: ["Урожай необычного винограда"]
+			icon: "nethervinery:warped_grape"
+			id: "2D69B22360702903"
+			rewards: [{
+				id: "16762CAA6D48E674"
+				type: "xp"
+				xp: 650
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "7F58ACC2B5CBB721"
+					item: { Count: 16, id: "nethervinery:crimson_grape" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "03744BAB80089D23"
+					item: { Count: 16, id: "nethervinery:warped_grape" }
+					type: "item"
+				}
+			]
+			title: "Огненный виноград"
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2676DFC6960AEC07"]
+			description: ["Первый урожай. Как же это прекрасно!"]
+			icon: "vinery:savanna_grapes_red"
+			id: "71B35515C7B1CB21"
+			rewards: [{
+				id: "3E2B71884223B873"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					count: 16L
+					id: "246110BA5E3F2D74"
+					item: { Count: 16, id: "vinery:red_grape" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "3F26B2F6760C2F48"
+					item: { Count: 16, id: "vinery:taiga_grapes_white" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0127C48E28078574"
+					item: { Count: 16, id: "vinery:jungle_grapes_red" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "43A78EC71592E7BF"
+					item: { Count: 16, id: "vinery:jungle_grapes_white" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "70B16FA2DBFEACB6"
+					item: { Count: 32, id: "vinery:cherry" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "6A35DE761AA9C672"
+					item: { Count: 32, id: "minecraft:apple" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "263C1754E2398191"
+					item: { Count: 16, id: "vinery:white_grape" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "09E7A6824CBDA4C2"
+					item: { Count: 16, id: "vinery:taiga_grapes_red" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4D19372A55E2B015"
+					item: { Count: 16, id: "vinery:savanna_grapes_red" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4E8E44C773137AA7"
+					item: { Count: 16, id: "vinery:savanna_grapes_white" }
+					type: "item"
+				}
+			]
+			title: "Виноградарь"
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["71B35515C7B1CB21"]
+			description: ["А вы явный любитель попить."]
+			icon: "vinery:red_savanna_grapejuice"
+			id: "3039A97F1F761E26"
+			tasks: [
+				{
+					count: 8L
+					id: "70EF748656D08282"
+					item: { Count: 8, id: "vinery:white_jungle_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2E2F2D2F1B37B987"
+					item: { Count: 8, id: "vinery:red_savanna_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "54AE2EE71E66FA70"
+					item: { Count: 8, id: "vinery:white_savanna_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "475881868AFD7B05"
+					item: { Count: 8, id: "vinery:red_taiga_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2174E1D984E55C82"
+					item: { Count: 8, id: "vinery:apple_juice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "19B738A4A9CCB671"
+					item: { Count: 8, id: "vinery:red_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6B66F83B60FEBB3A"
+					item: { Count: 8, id: "vinery:white_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "250C815C6A0CFAB2"
+					item: { Count: 8, id: "vinery:white_taiga_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5560B41B795F3142"
+					item: { Count: 8, id: "vinery:red_jungle_grapejuice" }
+					type: "item"
+				}
+			]
+			title: "Соковыжималка"
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2D69B22360702903"]
+			description: ["Стоит ли проверить на вкус?"]
+			icon: "nethervinery:crimson_grapejuice"
+			id: "0F79968128D01CF0"
+			rewards: [{
+				id: "43022429CBA1FAFE"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "192D6A5C592AE597"
+					item: { Count: 8, id: "nethervinery:crimson_grapejuice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "14459E782D834B37"
+					item: { Count: 8, id: "nethervinery:warped_grapejuice" }
+					type: "item"
+				}
+			]
+			title: "Горячительный сок"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["71B35515C7B1CB21"]
+			description: ["Это ваше первое вино. Поздравляю!"]
+			icon: {
+				Count: 1
+				id: "vinery:cherry_wine"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "6F5AB53C0A92EF40"
+			rewards: [{
+				id: "0975672C175BB8B4"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "549FFB0B377433F3"
+					item: {
+						Count: 4
+						id: "vinery:cherry_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "630980229B620422"
+					item: {
+						Count: 4
+						id: "vinery:noir_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "72B9BA668E9D6AB3"
+					item: {
+						Count: 4
+						id: "vinery:apple_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7A3FAEBA8A89D292"
+					item: {
+						Count: 4
+						id: "vinery:red_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Винодел-новичок"
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6F5AB53C0A92EF40"]
+			description: ["У этого вина вкус явно интереснее."]
+			icon: {
+				Count: 1
+				id: "vinery:eiswein"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "00433474FB6A80D8"
+			rewards: [{
+				id: "44CEC01801E014FA"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "14DC74DAE1E46E2C"
+					item: {
+						Count: 4
+						id: "vinery:magnetic_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "43B1F6E8A495B055"
+					item: {
+						Count: 4
+						id: "vinery:eiswein"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "36C2D1CC5C714F62"
+					item: {
+						Count: 3
+						id: "vinery:bottle_mojang_noir"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1BCCC44C5A4EB86F"
+					item: {
+						Count: 4
+						id: "vinery:clark_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Винодел-любитель"
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["00433474FB6A80D8"]
+			description: ["А вы всё глубже изучаете древнее искусство виноделия."]
+			icon: {
+				Count: 1
+				id: "vinery:stal_wine"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "09E7690EC7E606A9"
+			rewards: [{
+				id: "5A20AA5FB1601AF7"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "0DC102F479B4FE7D"
+					item: {
+						Count: 4
+						id: "vinery:solaris_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7BAE47295CCFEF6D"
+					item: {
+						Count: 4
+						id: "vinery:strad_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "760F50C87DADB1A5"
+					item: {
+						Count: 4
+						id: "vinery:stal_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "76FB0878151BF01C"
+					item: {
+						Count: 4
+						id: "vinery:glowing_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "58C656ABC921AE78"
+					item: {
+						Count: 4
+						id: "vinery:villagers_fright"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Бывалый винодел"
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["09E7690EC7E606A9"]
+			description: ["Вы почти достигли вершины мастерства."]
+			icon: {
+				Count: 1
+				id: "vinery:creepers_crush"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "14B38BE51EE58905"
+			rewards: [{
+				id: "1494A43F1B6F73B8"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "square"
+			tasks: [
+				{
+					count: 3L
+					id: "3E928A302A09D6CE"
+					item: {
+						Count: 3
+						id: "vinery:creepers_crush"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "360D0FA498175846"
+					item: {
+						Count: 3
+						id: "vinery:lilitu_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6335EDB42E3DB461"
+					item: {
+						Count: 3
+						id: "vinery:cristel_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "142BDF77F0358F0F"
+					item: {
+						Count: 3
+						id: "vinery:chenet_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "56B108ADF4BE768B"
+					item: {
+						Count: 3
+						id: "vinery:knulp_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Винодел-знаток"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["14B38BE51EE58905"]
+			description: ["Мне больше нечему вас учить. Титул пьяного мастера теперь по праву ваш."]
+			icon: {
+				Count: 1
+				id: "vinery:jellie_wine"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "066700C046B23CF0"
+			rewards: [{
+				id: "1E83855AD468EFF6"
+				type: "xp"
+				xp: 2000
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					count: 3L
+					id: "53A3CF9609DA974F"
+					item: {
+						Count: 3
+						id: "vinery:jellie_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "7F51808110A6EC63"
+					item: {
+						Count: 3
+						id: "vinery:chorus_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "62293C4D9A23D754"
+					item: {
+						Count: 3
+						id: "vinery:mellohi_wine"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Винодел-мастер"
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3039A97F1F761E26"]
+			description: ["Похоже, у сока всё-таки был срок годности..."]
+			icon: {
+				Count: 1
+				id: "vinery:apple_cider"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "6C887FF8757301F6"
+			shape: "square"
+			tasks: [
+				{
+					count: 4L
+					id: "1B37B9AB2C59BFA0"
+					item: {
+						Count: 4
+						id: "vinery:apple_cider"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "56552232A9130A7C"
+					item: {
+						Count: 4
+						id: "vinery:kelp_cider"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Сэр Сидр"
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["50F2A8631FEE8DBD"]
+			description: ["Приготовление алкоголя - сложный и долгий процесс."]
+			icon: "brewery:corn_seeds"
+			id: "0CF20AE2BD773055"
+			rewards: [{
+				id: "682E72FAD77EBFF6"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "1E1A94490C6D6601"
+					item: { Count: 16, id: "brewery:barley_seeds" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "281292BF36230E07"
+					item: { Count: 16, id: "brewery:corn_seeds" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "36484E0145E42347"
+					item: { Count: 16, id: "brewery:hops_seeds" }
+					type: "item"
+				}
+			]
+			title: "Пьяный фермер"
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0CF20AE2BD773055"]
+			description: ["А вот и первый урожай хмеля."]
+			icon: "brewery:hops"
+			id: "000C935229FFA675"
+			rewards: [{
+				id: "068C73C4810266D8"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					count: 16L
+					id: "59A518C5EB664E22"
+					item: { Count: 16, id: "brewery:corn" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4F406CEE42864298"
+					item: { Count: 16, id: "brewery:barley" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "344ACD78E100A32B"
+					item: { Count: 16, id: "brewery:hops" }
+					type: "item"
+				}
+			]
+			title: "Хмельной урожай"
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["58BD3B1419B0AB8E"]
+			description: ["Вы начинаете постигать технику пивоварения."]
+			icon: "brewery:wooden_brewingstation"
+			id: "60FBDA362C8B7584"
+			rewards: [{
+				id: "609E672447A90E55"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "2CFF1C4A1B71EF2B"
+					item: { Count: 2, id: "brewery:wooden_brewingstation" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "2AA4CCC9F7BA52F0"
+					item: { Count: 2, id: "brewery:silo_wood" }
+					type: "item"
+				}
+			]
+			title: "Пивовар-новичок"
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["000C935229FFA675"]
+			description: ["Да, пришлось ждать не только пока урожай вырастет, но и пока высохнет."]
+			icon: "brewery:dried_corn"
+			id: "58BD3B1419B0AB8E"
+			rewards: [{
+				id: "7491FC3F2E5189DD"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "5963B7050D6EDB84"
+					item: { Count: 16, id: "brewery:dried_barley" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "301A9A0EE68CF1C4"
+					item: { Count: 16, id: "brewery:dried_wheat" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "22F1A10D8156BBD7"
+					item: { Count: 16, id: "brewery:dried_corn" }
+					type: "item"
+				}
+			]
+			title: "Сушка"
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["60FBDA362C8B7584"]
+			description: ["Вечер будет весёлым."]
+			icon: "brewery:beer_hops"
+			id: "456CA99CBB26DACA"
+			rewards: [{
+				id: "652E3E7EA7D6F343"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "3AC719117ED93079"
+					item: { Count: 8, id: "brewery:beer_wheat" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "58F1778943959A63"
+					item: { Count: 8, id: "brewery:beer_barley" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1C80F007BF13799B"
+					item: { Count: 8, id: "brewery:beer_hops" }
+					type: "item"
+				}
+			]
+			title: "База пивоварения"
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["60FBDA362C8B7584"]
+			description: ["А вы быстро учитесь."]
+			icon: "brewery:copper_brewingstation"
+			id: "25DFDFBE391CE674"
+			rewards: [{
+				id: "2702F32EDF25F46D"
+				type: "xp"
+				xp: 750
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					count: 2L
+					id: "4C46779E54E568DA"
+					item: { Count: 2, id: "brewery:copper_brewingstation" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6C220C7781B1321A"
+					item: { Count: 2, id: "brewery:silo_copper" }
+					type: "item"
+				}
+			]
+			title: "Бывалый пивовар"
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["25DFDFBE391CE674"]
+			description: ["\"Виски – это ответ. Что был за вопрос?\""]
+			icon: "brewery:whiskey_maggoallan"
+			id: "61BB93B0BBF42B57"
+			rewards: [{
+				id: "5759D3E640F0A2C5"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "7B78A481C3A3C1B3"
+					item: { Count: 8, id: "brewery:whiskey_jojannik" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "4A56797B301573F7"
+					item: { Count: 8, id: "brewery:whiskey_lilitusinglemalt" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0229CEBD74B0DB37"
+					item: { Count: 8, id: "brewery:whiskey_cristelwalker" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "505101160EFBC89E"
+					item: { Count: 8, id: "brewery:whiskey_maggoallan" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0ADD9E40BA4D5A40"
+					item: { Count: 8, id: "brewery:whiskey_carrasconlabel" }
+					type: "item"
+				}
+			]
+			title: "Без бутылки виски не светят тебе..."
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["25DFDFBE391CE674"]
+			description: ["Это вершина пивоваренного искусства."]
+			id: "7C9F0B40B63DEE9C"
+			rewards: [{
+				id: "1BC307A06ECA6692"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4E43CB0A60DF2441"
+				item: "brewery:netherite_brewingstation"
+				type: "item"
+			}]
+			title: "Легендарный пивовар"
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7C9F0B40B63DEE9C"]
+			description: ["\"Свет без пива - это тьма.\""]
+			id: "21BEFF6393042A67"
+			rewards: [
+				{
+					id: "538478D68B26E672"
+					item: "brewery:beer_elemental_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "6C0528B0CA725AF2"
+					type: "xp"
+					xp: 2000
+				}
+				{
+					id: "190A4ABE6D237974"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A4CA08FF707C722"
+					item: "brewery:breathalyzer"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "72198242B5AF829A"
+				item: { Count: 8, id: "brewery:beer_haley" }
+				type: "item"
+			}]
+			title: "Пустой взгляд"
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["000C935229FFA675"]
+			description: ["Все и так всё поняли."]
+			icon: "brewery:fried_chicken"
+			id: "08FA5A2EE9E2B976"
+			rewards: [
+				{
+					id: "4A6354CBF31E424B"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "54FD955D32DE957E"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_regalia"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "07678F07CD40A640"
+					item: { Count: 8, id: "brewery:half_chicken" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2E56E24C54E895DD"
+					item: { Count: 8, id: "brewery:sausage" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "04B88F6D74E9437D"
+					item: { Count: 8, id: "brewery:pork_knuckle" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "22AEED32E35E9B0A"
+					item: { Count: 8, id: "brewery:fried_chicken" }
+					type: "item"
+				}
+			]
+			title: "Вкусно и точка."
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08FA5A2EE9E2B976"]
+			description: ["Близкие сердцу крендели."]
+			icon: "brewery:pretzel"
+			id: "692C6A150386F5F1"
+			rewards: [
+				{
+					id: "27480224C7BF2383"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "20B9E45D339B6806"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_trousers"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "77091682A56B8EDF"
+					item: { Count: 8, id: "brewery:pretzel" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "57FD90B6531A9A88"
+					item: { Count: 8, id: "brewery:gingerbread" }
+					type: "item"
+				}
+			]
+			title: "Привет из солнечной Германии"
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["08FA5A2EE9E2B976"]
+			description: ["Есть тут у нас один любитель..."]
+			icon: "brewery:mashed_potatoes"
+			id: "472EBEE3A3B7D6F7"
+			rewards: [
+				{
+					id: "01396F6FC8ACCC29"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F3B27343F5A1BEA"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					count: 8L
+					id: "16B7A7DA3C620A95"
+					item: { Count: 8, id: "brewery:mashed_potatoes" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5C9A41BCEDEB8581"
+					item: { Count: 8, id: "brewery:dumplings" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "48A8997A4C64E891"
+					item: { Count: 8, id: "brewery:potato_salad" }
+					type: "item"
+				}
+			]
+			title: "Горячая картошка"
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0F79968128D01CF0"]
+			description: ["Очень интересные напитки."]
+			icon: {
+				Count: 1
+				id: "nethervinery:blazewine_pinot"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "0982D6959EDB4DA2"
+			rewards: [{
+				id: "607DAED9FF566B08"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "61F3543620CA70D0"
+					item: {
+						Count: 4
+						id: "nethervinery:blazewine_pinot"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3F645DC91E2F1184"
+					item: {
+						Count: 4
+						id: "nethervinery:ghastly_grenache"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "282CEA8AB4B31AE7"
+					item: {
+						Count: 4
+						id: "nethervinery:netherite_nectar"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Горячее вино"
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0F79968128D01CF0"]
+			description: ["И всё-таки детям его давать не стоит."]
+			icon: {
+				Count: 1
+				id: "nethervinery:nether_fizz"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "4038C2A4F3537B86"
+			rewards: [{
+				id: "08B65EADC0006B9D"
+				type: "xp"
+				xp: 750
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					count: 4L
+					id: "3527C5AC7F19D7AE"
+					item: {
+						Count: 4
+						id: "nethervinery:lava_fizz"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "24C497D4D056A2E7"
+					item: {
+						Count: 4
+						id: "nethervinery:nether_fizz"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Детское шампанское"
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0F79968128D01CF0"]
+			description: ["Такое лучше не пить на Новый год."]
+			icon: {
+				Count: 1
+				id: "nethervinery:improved_nether_fizz"
+				tag: {
+					Year: 0
+				}
+			}
+			id: "57A93772EEC0027D"
+			rewards: [{
+				id: "012F5544BD3B3C79"
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					count: 4L
+					id: "4835068118E74487"
+					item: {
+						Count: 4
+						id: "nethervinery:improved_lava_fizz"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "19163C1627DDDEBF"
+					item: {
+						Count: 4
+						id: "nethervinery:improved_nether_fizz"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Не детское шампанское"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			description: ["Очередной секретный квест. Можешь считать себя настоящим ценителем вина!"]
+			icon: "vinery:wandering_winemaker_spawn_egg"
+			id: "6DDACC734738E599"
+			invisible: true
+			rewards: [
+				{
+					id: "140D727029AE5BB4"
+					type: "xp"
+					xp: 7500
+				}
+				{
+					count: 8
+					id: "069A38F2D91A16B0"
+					item: "gnumus:gnumus_cheese"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4AFB9F29E5F9B2E7"
+					item: "miners_delight:baked_squid"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "330C064CAB1E9357"
+					item: "miners_delight:weird_caviar"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "vinery:main/wine_collector"
+				criterion: ""
+				icon: {
+					Count: 1
+					id: "vinery:jellie_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				id: "7CC726C16DDDE095"
+				type: "advancement"
+			}]
+			title: "Настоящий аристократ"
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2676DFC6960AEC07"]
+			description: ["Отличная одежда для фермера."]
+			icon: {
+				Count: 1
+				id: "vinery:straw_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5039FBC53BD978CF"
+			rewards: [
+				{
+					count: 4
+					id: "385E39602C524075"
+					item: "realmrpg_quests:potion_of_oblivion"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "251A3D4A6156803C"
+					item: "minecraft:bone_meal"
+					type: "item"
+				}
+				{
+					id: "794F5B9A2D58EF49"
+					type: "xp"
+					xp: 2500
+				}
+				{
+					count: 8
+					id: "68630861A6EB729B"
+					item: "born_in_chaos_v1:mint_ice_cream"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "2260CF6E0CE5C53E"
+					item: {
+						Count: 1
+						id: "vinery:winemaker_apron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "685ECDB90542CC52"
+					item: {
+						Count: 1
+						id: "vinery:winemaker_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DFB02D1B12C9F94"
+					item: {
+						Count: 1
+						id: "vinery:winemaker_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E4F9706F0997222"
+					item: {
+						Count: 1
+						id: "vinery:straw_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			description: ["Ну как вам эффект?"]
+			id: "309DC34F1866EE66"
+			invisible: true
+			rewards: [
+				{
+					id: "6B6E8BC37C68C062"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:water"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0329AEE5DF4976F4"
+					item: "minecraft:milk_bucket"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					count: 16L
+					id: "5785D6DF992F5549"
+					item: {
+						Count: 16
+						id: "vinery:jo_special_mixture"
+						tag: {
+							Year: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					advancement: "vinery:main/get_drunk"
+					criterion: ""
+					id: "4876C0F36851BEE4"
+					type: "advancement"
+				}
+			]
+			x: -12.0d
+			y: -0.5d
+		}
+	]
+	title: "&d2.3&r: &lАлкоголь"
+}

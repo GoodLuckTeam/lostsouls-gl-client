@@ -1,0 +1,1513 @@
+{
+	autofocus_id: "0D040E301EEAE02D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "39812F33EA22906B"
+	group: "24431910BCDF246B"
+	icon: "bakery:bread_crate"
+	id: "39812F33EA22906B"
+	images: [
+		{
+			height: 1.0d
+			image: "bakery:block/street_sign_front"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/yeast"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/sweetberry_jam"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/bread"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/bakery_standard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/chocolate_gateau_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/chocolate_tart_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.2d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/cupcake_display"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/small_cooking_pan"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "create:fluid/chocolate_flow"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "create:fluid/chocolate_flow"
+			rotation: 0.0d
+			width: 0.03125d
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/chocolate_bucket"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/strawberry"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:textures/mob_effect/stuffed.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/bar_of_chocolate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/sweetberry_cupcake"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/flowering_azalea_leaves_bushy1"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:item/dried_black_tea"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:item/dried_green_tea"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:item/milk_coffee"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			height: 1.4d
+			image: "herbalbrews:block/cauldron_top_2"
+			rotation: 0.0d
+			width: 1.4d
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/monsters_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.7d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:item/witch_hat"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:item/rooibos_leaf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:textures/mob_effect/fortune.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Вы начинаете свой путь пекаря."]
+			icon: {
+				Count: 1
+				id: "bakery:small_cooking_pot"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0D040E301EEAE02D"
+			rewards: [{
+				id: "4E9C3C212201DA17"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "3A32F24DC8B40A66"
+					item: {
+						Count: 1
+						id: "bakery:small_cooking_pot"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "699CC49B0A77B83B"
+					item: "bakery:brick_stove"
+					type: "item"
+				}
+				{
+					id: "78A5272ABEA35B17"
+					item: "bakery:crafting_bowl"
+					type: "item"
+				}
+				{
+					id: "04CA7DA6AD99A0CD"
+					item: "bakery:baker_station"
+					type: "item"
+				}
+			]
+			title: "Начинающий пекарь"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D040E301EEAE02D"]
+			description: ["Очередные ингриденты для готовки."]
+			icon: "bakery:strawberry"
+			id: "262AA679D42ECBF4"
+			rewards: [{
+				id: "08CC73E5DE68801A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "07DB1740964ABA03"
+					item: { Count: 8, id: "bakery:strawberry_seeds" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7B1479BED7A52885"
+					item: { Count: 8, id: "bakery:oat_seeds" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "3C7766B4DBF0A831"
+					item: { Count: 16, id: "bakery:strawberry" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0205349EB4FE1043"
+					item: { Count: 16, id: "bakery:oat" }
+					type: "item"
+				}
+			]
+			title: "Клубника и овёс"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D040E301EEAE02D"]
+			description: ["Дрожжи нужны не для того, чтобы кидать в унитаз."]
+			icon: "bakery:dough"
+			id: "637D255E6F4459DB"
+			rewards: [{
+				id: "5258CAEC3FD35CD5"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "630BC18D6B528077"
+					item: { Count: 4, id: "bakery:cake_dough" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "09B6EDB1BE1348AA"
+					item: { Count: 4, id: "bakery:sweet_dough" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "272BBD64B644B5BD"
+					item: { Count: 6, id: "bakery:dough" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "328DB8F2D3F16BD7"
+					item: { Count: 4, id: "bakery:yeast" }
+					type: "item"
+				}
+			]
+			title: "Подготовка к выпеканию"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0D040E301EEAE02D"]
+			description: ["А куда же без этого настоящему пекарю."]
+			icon: {
+				Count: 1
+				id: "bakery:bread_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "54D282CDE4B4C938"
+			rewards: [{
+				id: "38A9044443764AF0"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "7BEBC783B48399AC"
+					item: {
+						Count: 1
+						id: "bakery:bread_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48FB6229C6C4992F"
+					item: {
+						Count: 1
+						id: "bakery:rolling_pin"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "047239E4EEFE66D3"
+					item: "bakery:jar"
+					type: "item"
+				}
+			]
+			title: "Инструменты пекаря"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["54D282CDE4B4C938"]
+			description: ["Специально для того, чтобы показать всем ваши творения."]
+			icon: "bakery:cake_stand"
+			id: "219B4AC46BE85484"
+			rewards: [{
+				id: "1C9EFF411F2789EE"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "0D021A2FCD68A8E8"
+					item: "bakery:cupcake_display"
+					type: "item"
+				}
+				{
+					id: "37329688B0F45A8B"
+					item: "bakery:cake_display"
+					type: "item"
+				}
+				{
+					id: "37D009285B874C27"
+					item: "bakery:breadbox"
+					type: "item"
+				}
+				{
+					id: "04E5B5CDE1CAB891"
+					item: "bakery:wall_display"
+					type: "item"
+				}
+				{
+					id: "7FA31EB316F5E64D"
+					item: "bakery:cake_stand"
+					type: "item"
+				}
+				{
+					id: "57CA1099F4C012F1"
+					item: "bakery:tray"
+					type: "item"
+				}
+			]
+			title: "Выставка"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["637D255E6F4459DB"]
+			description: ["Батона больше нет с нами."]
+			icon: "bakery:toast"
+			id: "0A64F8E4E9674C59"
+			rewards: [{
+				id: "3EA4EEA833644CBF"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "601C8D8AA6D4A862"
+					item: { Count: 4, id: "bakery:bread" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "78978E660AA3ADE8"
+					item: { Count: 4, id: "bakery:baguette" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "094F1FC973CCBDE8"
+					item: { Count: 4, id: "bakery:crusty_bread" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "74B255441DCCAF5A"
+					item: { Count: 4, id: "bakery:toast" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7ADD2CB8C1C0852A"
+					item: { Count: 4, id: "bakery:braided_bread" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "42140E07C0E6575C"
+					item: { Count: 4, id: "bakery:croissant" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0723A4625C991D6C"
+					item: { Count: 4, id: "bakery:bun" }
+					type: "item"
+				}
+			]
+			title: "Простая выпечка"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["219B4AC46BE85484"]
+			description: ["Атмосферно."]
+			icon: "bakery:street_sign"
+			id: "26667A49602865F4"
+			rewards: [{
+				id: "38960F5B9E48EFD1"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "7AC19C5313D6E255"
+					item: "bakery:street_sign"
+					type: "item"
+				}
+				{
+					id: "6144FA86B844B967"
+					item: "bakery:iron_table"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "61E1B13749AA2951"
+					item: "bakery:iron_chair"
+					type: "item"
+				}
+			]
+			title: "Кафе под открытым небом"
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["219B4AC46BE85484"]
+			description: ["Полезные вещи для интерьера."]
+			icon: "bakery:wall_cabinet"
+			id: "445395C4CC42250D"
+			rewards: [{
+				id: "7A84285B4F9C9985"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "33E76F73B813D7A5"
+					item: "bakery:brick_counter"
+					type: "item"
+				}
+				{
+					id: "39648E6792269F00"
+					item: "bakery:drawer"
+					type: "item"
+				}
+				{
+					id: "419CF2E897D54D36"
+					item: "bakery:cabinet"
+					type: "item"
+				}
+				{
+					id: "2510E3C310EE233E"
+					item: "bakery:wall_cabinet"
+					type: "item"
+				}
+			]
+			title: "Интерьер пекарни"
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["262AA679D42ECBF4"]
+			description: ["Да - это они."]
+			icon: "bakery:sweetberry_jam"
+			id: "4136E21A1E21C5FA"
+			rewards: [{
+				id: "3884A3203E13C7B5"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "54D29F7B5A2C7FB9"
+					item: { Count: 4, id: "bakery:sweetberry_jam" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3954E64E0017DA17"
+					item: "bakery:strawberry_jam"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0B4CC2DE1C453EDE"
+					item: { Count: 4, id: "bakery:glowberry_jam" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "29AE0AD76F4702AA"
+					item: { Count: 4, id: "bakery:apple_jam" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "070D4DEA542E28C1"
+					item: "bakery:chocolate_jam"
+					type: "item"
+				}
+			]
+			title: "Бабушкины закрутки"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			description: ["Зачем?..."]
+			icon: "bakery:stone_bricks_stove"
+			id: "13F072CD438F5D2A"
+			invisible: true
+			rewards: [
+				{
+					id: "51CCD2CD554ADFCC"
+					type: "xp"
+					xp: 2500
+				}
+				{
+					id: "0733A633AF1D9E31"
+					item: "bakery:wandering_baker_spawn_egg"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "14F6124433C50566"
+					item: "bakery:stone_bricks_stove"
+					type: "item"
+				}
+				{
+					id: "35049BAFF205C13D"
+					item: "bakery:cobblestone_stove"
+					type: "item"
+				}
+				{
+					id: "2FD75E6B9796D72C"
+					item: "bakery:deepslate_stove"
+					type: "item"
+				}
+				{
+					id: "46EE0CCC3CD0C228"
+					item: "bakery:granite_stove"
+					type: "item"
+				}
+				{
+					id: "42F067B587840361"
+					item: "bakery:mud_stove"
+					type: "item"
+				}
+				{
+					id: "1770BC02AA289EF0"
+					item: "bakery:sandstone_stove"
+					type: "item"
+				}
+				{
+					id: "39F079A10CBED2EE"
+					item: "bakery:end_stove"
+					type: "item"
+				}
+				{
+					id: "251466B3F5CEC73C"
+					item: "bakery:red_nether_bricks_stove"
+					type: "item"
+				}
+				{
+					id: "2C4D84BFE82B8E41"
+					item: "bakery:quartz_stove"
+					type: "item"
+				}
+				{
+					id: "24F420B7AE8D8DA5"
+					item: "bakery:brick_stove"
+					type: "item"
+				}
+			]
+			title: "Сборщик духовок"
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A64F8E4E9674C59"]
+			description: ["Сэндвич из хлеба и мяса... Звучит забавно."]
+			icon: "bakery:sandwich"
+			id: "203A4D6E314685E3"
+			rewards: [{
+				id: "0DA6D45B3076F12A"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "338E9CDE5077BDE9"
+					item: { Count: 4, id: "bakery:vegetable_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7C5204BADE19AAA9"
+					item: { Count: 4, id: "bakery:sandwich" }
+					type: "item"
+				}
+			]
+			title: "Бутерброды"
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["637D255E6F4459DB"]
+			description: ["\"DOOMvenik ещё ни разу не проиграл.\""]
+			icon: "bakery:strawberry_glazed_cookie"
+			id: "117A4E87379D144F"
+			rewards: [{
+				id: "5627ECE4C06A4E42"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "57D808704EA63D52"
+					item: { Count: 4, id: "bakery:strawberry_glazed_cookie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4EA4890070E73FDF"
+					item: { Count: 4, id: "bakery:chocolate_glazed_cookie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "70DE622FAEA33EF9"
+					item: { Count: 4, id: "bakery:sweetberry_glazed_cookie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "420A475D8FDAA4BC"
+					item: { Count: 4, id: "bakery:misslilitu_biscuit" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "77E4639FECD80E0D"
+					item: { Count: 4, id: "bakery:waffle" }
+					type: "item"
+				}
+			]
+			title: "Печенька"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4136E21A1E21C5FA"]
+			description: ["Выглядят аппетитно."]
+			icon: "bakery:apple_cupcake"
+			id: "16C56E551AC17784"
+			rewards: [{
+				id: "7FBC4AA102FCDB7C"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "07C27E175C793FCA"
+					item: { Count: 4, id: "bakery:strawberry_cupcake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "622C2F249E1CE4BB"
+					item: { Count: 4, id: "bakery:sweetberry_cupcake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0A9591FBB9D8989A"
+					item: { Count: 4, id: "bakery:apple_cupcake" }
+					type: "item"
+				}
+			]
+			title: "Кексы"
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["637D255E6F4459DB"]
+			description: ["Пирожков с капустой в сборке нет."]
+			icon: "bakery:linzer_tart"
+			id: "1BABE9CD979E7E47"
+			rewards: [{
+				id: "6ABB8743F6B5A858"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "30737D48D28C3979"
+					item: { Count: 4, id: "bakery:linzer_tart" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1B0BBF1BF2A2BF01"
+					item: { Count: 4, id: "bakery:apple_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2008FD04DBC14BB5"
+					item: "bakery:glowberry_tart"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3722BFCDD536938B"
+					item: { Count: 4, id: "bakery:chocolate_tart" }
+					type: "item"
+				}
+			]
+			title: "Пироги"
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["637D255E6F4459DB"]
+			description: ["Сахарный диабет передёт привет."]
+			icon: "bakery:sweetberry_cake"
+			id: "66C4F35670A11042"
+			rewards: [{
+				id: "602FAF80E54D9892"
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					count: 4L
+					id: "5A8377118F2BCB6D"
+					item: { Count: 4, id: "bakery:strawberry_cake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7CE5EEC00E078934"
+					item: { Count: 4, id: "bakery:sweetberry_cake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "21DA2102534D9399"
+					item: { Count: 4, id: "bakery:chocolate_cake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "23E23B7C49F10F93"
+					item: { Count: 4, id: "bakery:chocolate_gateau" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5E18A8F549376F01"
+					item: { Count: 4, id: "bakery:bundt_cake" }
+					type: "item"
+				}
+			]
+			title: "Тортики"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4136E21A1E21C5FA"]
+			description: ["\"Ну такие вкусные дырочки\" - DOOMvenik"]
+			icon: "bakery:cornet"
+			id: "00961AB544612C82"
+			rewards: [{
+				id: "4EDDE1BC9EEED976"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "686D3B326D007F28"
+					item: { Count: 2, id: "bakery:jam_roll" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "18330158EC83C3CC"
+					item: { Count: 2, id: "bakery:cornet" }
+					type: "item"
+				}
+			]
+			title: "Рогалики"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4136E21A1E21C5FA"]
+			description: ["Не каждый ел такое."]
+			icon: "bakery:pudding"
+			id: "5FE2E98F31F86843"
+			rewards: [{
+				id: "6FDAF4D0E66403A2"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "295F3172D2B4F52C"
+					item: { Count: 3, id: "bakery:chocolate_truffle" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "19650BD1BFB4A910"
+					item: { Count: 3, id: "bakery:pudding" }
+					type: "item"
+				}
+			]
+			title: "Люксовая еда"
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A64F8E4E9674C59"]
+			description: ["Её можно поставить."]
+			id: "7451BCBD5ECAF026"
+			rewards: [{
+				id: "6597C1C7F6CF46B6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "47AFC9F5AE8EAEA9"
+				item: "bakery:bread_crate"
+				type: "item"
+			}]
+			title: "Хлебная корзина"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			description: ["Квест для парочек."]
+			icon: "bakery:chocolate_box"
+			id: "18C8BCD674682F5A"
+			invisible: true
+			rewards: [
+				{
+					id: "7C60D09C17195E5A"
+					type: "xp"
+					xp: 1500
+				}
+				{
+					count: 3
+					id: "553AC9A5DBFC643D"
+					item: "epicsamurai:ruby"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "130C43CA2B6433FD"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "23316EC0F56A3490"
+					item: "epicsamurai:jade"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "6DAC9237FCBCB031"
+					item: "bakery:chocolate_box"
+					type: "item"
+				}
+				{
+					id: "3C1162D1BEAD6306"
+					item: "irons_spellbooks:mana_ring"
+					type: "item"
+				}
+			]
+			title: "Романтический ужин"
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			description: ["Отличный мод для тех, кто любит безалкогольные напитки."]
+			id: "4D00501812196BAE"
+			rewards: [{
+				id: "62BC8227D1E4B013"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1FE400AC0AD50F88"
+				title: "Приветствуем в HetbalBrews!"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4D00501812196BAE"]
+			description: ["Ох уж эти чайники..."]
+			icon: "herbalbrews:copper_tea_kettle"
+			id: "0735DAEAD7C90AD7"
+			rewards: [{
+				id: "68E04585950308CA"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "35FC453595CABC4B"
+					item: "herbalbrews:stove"
+					type: "item"
+				}
+				{
+					id: "466194012E94F13E"
+					item: "herbalbrews:tea_kettle"
+					type: "item"
+				}
+				{
+					id: "0E50EA9C30DA3D6D"
+					item: "herbalbrews:copper_tea_kettle"
+					type: "item"
+				}
+			]
+			title: "Варка чая"
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4D00501812196BAE"]
+			description: ["Только для настоящих колдунов."]
+			id: "18192764B477D2D7"
+			rewards: [{
+				id: "3704E9AFE648C550"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "square"
+			tasks: [{
+				id: "26C3DEDFFFA23C80"
+				item: "herbalbrews:cauldron"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4D00501812196BAE"]
+			description: ["Растения, которые нужны для приготовления напитков."]
+			icon: "herbalbrews:wild_coffee_plant"
+			id: "336BB4A8E9DE0A95"
+			rewards: [{
+				id: "5DBDC446BC835E8A"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "2A91F3FB331568D7"
+					item: { Count: 3, id: "herbalbrews:wild_coffee_plant" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2086DE9618CB86D8"
+					item: { Count: 3, id: "herbalbrews:wild_yerba_mate_plant" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "16ABB914EAF2424D"
+					item: { Count: 3, id: "herbalbrews:wild_rooibos_plant" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "244DBB9F3904AF1A"
+					item: { Count: 3, id: "herbalbrews:hibiscus" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "56D51A495506BFD5"
+					item: { Count: 3, id: "herbalbrews:lavender" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "335652A45E462C8E"
+					item: { Count: 3, id: "herbalbrews:tea_blossom" }
+					type: "item"
+				}
+			]
+			title: "Полезные растения"
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["336BB4A8E9DE0A95"]
+			description: ["Растения, уже подготовленные для варки напитков."]
+			icon: "herbalbrews:coffee_beans"
+			id: "0E9DAD44DD160B4E"
+			rewards: [{
+				id: "7ECC5300DAC84C4B"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "6445703E94B4CCC8"
+					item: { Count: 4, id: "herbalbrews:green_tea_leaf" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "14CF8F71D6DAFC09"
+					item: { Count: 3, id: "herbalbrews:yerba_mate_leaf" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "04CA62E492A4E1EF"
+					item: "herbalbrews:coffee_beans"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "56472919818471B9"
+					item: { Count: 4, id: "herbalbrews:dried_green_tea" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "62C74A9AAD6FB062"
+					item: { Count: 4, id: "herbalbrews:dried_black_tea" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7EE794CAB9015F06"
+					item: { Count: 4, id: "herbalbrews:dried_oolong_tea" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "37A89543360B89DD"
+					item: { Count: 4, id: "herbalbrews:lavender_blossom" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0C3BB14789B95AAB"
+					item: { Count: 4, id: "herbalbrews:yerba_mate_leaf" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "134BBAB22B8C85E6"
+					item: { Count: 4, id: "herbalbrews:rooibos_leaf" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "347DCB91826B0062"
+					item: { Count: 4, id: "herbalbrews:tea_blossom" }
+					type: "item"
+				}
+			]
+			title: "Сушёные растения"
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0735DAEAD7C90AD7"]
+			description: ["Ничего необычного. Просто чай."]
+			icon: "herbalbrews:black_tea"
+			id: "53C5504730842406"
+			rewards: [{
+				id: "5E17DD69F566EECB"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "0C33103CCE662895"
+					item: { Count: 3, id: "herbalbrews:green_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "568BBFBC88A68018"
+					item: { Count: 3, id: "herbalbrews:black_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2A23CC4DA7C5D3CB"
+					item: { Count: 3, id: "herbalbrews:hibiscus_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6AB90903C6ABF9CB"
+					item: { Count: 3, id: "herbalbrews:lavender_tea" }
+					type: "item"
+				}
+			]
+			title: "Обычный чай"
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0735DAEAD7C90AD7"]
+			description: ["Матча или..."]
+			icon: "herbalbrews:oolong_tea"
+			id: "6EBB48BD21BE7EDD"
+			rewards: [{
+				id: "7354F0721E1B98EA"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "0547A4A114040CE5"
+					item: { Count: 3, id: "herbalbrews:yerba_mate_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "27DD6E59B8AED327"
+					item: { Count: 3, id: "herbalbrews:rooibos_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "4927C9FC1AE0278E"
+					item: { Count: 3, id: "herbalbrews:oolong_tea" }
+					type: "item"
+				}
+			]
+			title: "Люксовый чай"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0735DAEAD7C90AD7"]
+			description: ["Только не переборщите."]
+			icon: "herbalbrews:coffee"
+			id: "6CD359CE6901E99E"
+			rewards: [{
+				id: "3E94E48DD6174C19"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "61E1725268EB5AB9"
+					item: { Count: 3, id: "herbalbrews:coffee" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "782A3508261BB06F"
+					item: { Count: 3, id: "herbalbrews:milk_coffee" }
+					type: "item"
+				}
+			]
+			title: "Кофемашина"
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["18192764B477D2D7"]
+			description: ["Зелья, дающие серьёзное преимущество в бою."]
+			icon: "herbalbrews:feral_flask"
+			id: "51821FFF001A051C"
+			rewards: [{
+				id: "35A37EC6607823B1"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "00490AD7C47875AC"
+					item: { Count: 3, id: "herbalbrews:armor_flask" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "389CEFA9C32ECF15"
+					item: { Count: 3, id: "herbalbrews:damage_flask" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6AE4656ED9597B7D"
+					item: { Count: 3, id: "herbalbrews:feral_flask" }
+					type: "item"
+				}
+			]
+			title: "Необычные зелья"
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["18192764B477D2D7"]
+			description: ["Зелья, дающие ещё более серьёзное преимущество в бою."]
+			icon: "herbalbrews:feral_flask_big"
+			id: "58D9B4E20FADDCF1"
+			rewards: [{
+				id: "1B1516E68A9C715E"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "53A7314935D25AE3"
+					item: { Count: 3, id: "herbalbrews:armor_flask_big" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2B76A89898B3FA16"
+					item: { Count: 3, id: "herbalbrews:damage_flask_big" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "53586A1456E0F98A"
+					item: { Count: 3, id: "herbalbrews:feral_flask_big" }
+					type: "item"
+				}
+			]
+			title: "Большие необычные зелья"
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			description: ["Немалое количество листьев."]
+			icon: "herbalbrews:dried_green_tea_leaf_block"
+			id: "21569BB793FFB579"
+			invisible: true
+			rewards: [
+				{
+					id: "3116697344919843"
+					type: "xp"
+					xp: 1750
+				}
+				{
+					id: "2614A2B7E1D7289D"
+					item: "betterend:guidebook"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					count: 3L
+					id: "1B8CC1FDB3A62B99"
+					item: { Count: 3, id: "herbalbrews:tea_leaf_crate" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2ECD714DA651FE0B"
+					item: { Count: 3, id: "herbalbrews:green_tea_leaf_block" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "0497A4161391D344"
+					item: { Count: 3, id: "herbalbrews:dried_green_tea_leaf_block" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "44D710C63B993398"
+					item: { Count: 3, id: "herbalbrews:black_tea_leaf_block" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "7777251AF6E71018"
+					item: { Count: 3, id: "herbalbrews:mixed_tea_leaf_block" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "262808DD5BCDE824"
+					item: { Count: 3, id: "herbalbrews:oolong_tea_leaf_block" }
+					type: "item"
+				}
+			]
+			title: "Чайный магнат"
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "herbalbrews:witch_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "25F5C7D646D4F0BE"
+			invisible: true
+			rewards: [
+				{
+					id: "50206E20DAD1C14E"
+					type: "xp"
+					xp: 750
+				}
+				{
+					id: "2F6C221DC18FF550"
+					item: {
+						Count: 1
+						id: "endrem:witch_eye"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "37E700809DFBF40A"
+					item: "herbalbrews:damage_flask_big"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5FA6E23DEBFF19FA"
+					item: "herbalbrews:armor_flask_big"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					count: 3L
+					id: "60ABA6132B87E559"
+					item: {
+						Count: 3
+						id: "herbalbrews:jug"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7710D1755EFBD617"
+					item: "herbalbrews:cauldron"
+					type: "item"
+				}
+				{
+					id: "37558F48D0CBA54B"
+					item: {
+						Count: 1
+						id: "herbalbrews:witch_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7AE4D731556BF048"
+					item: {
+						Count: 1
+						id: "herbalbrews:top_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Атрибуты ведьмы"
+			x: -1.0d
+			y: 7.5d
+		}
+	]
+	title: "&d2.2&r: &lВыпечка"
+}

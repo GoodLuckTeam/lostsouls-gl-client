@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "mythicmobs:automaton_head"
+    },
+    "title": {
+      "translate": "advancements.mythicmobs.title"
+    },
+    "description": {
+      "translate": "advancements.mythicmobs.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "background": "mythicmobs:textures/block/bronze_block_cut_side.png"
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

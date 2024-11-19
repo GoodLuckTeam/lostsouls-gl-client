@@ -1,0 +1,11 @@
+{
+    "name": "Руководство Mine Cells",
+    "icon": "minecells:minecells_guidebook",
+    "category": "patchouli:minecells_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Чтобы узнать больше информации об этом измерении вам нужно Руководство Mine Cells"
+        }
+    ]
+}

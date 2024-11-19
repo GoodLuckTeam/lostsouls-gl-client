@@ -1,0 +1,15 @@
+{
+    "name": "Око Стража",
+    "icon": "endrem:guardian_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Оно видело, как многие воины тонули в морских глубинах."
+        },
+        {
+            "type": "text",
+            "text": "Око стража можно получить победив Древнего Стража."
+        }
+    ]
+}

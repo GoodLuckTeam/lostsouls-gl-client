@@ -1,0 +1,15 @@
+{
+    "name": "Проклятое Око",
+    "icon": "endrem:cursed_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Могущественный, но разрушительный артефакт. Пиглины поклялись защищать его ценой своей жизни."
+        },
+        {
+            "type": "text",
+            "text": "Проклятое око можно найти в бастионе пиглинов."
+        }
+    ]
+}

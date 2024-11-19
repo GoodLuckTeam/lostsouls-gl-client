@@ -1,0 +1,317 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dr"
+	group: ""
+	icon: {
+		Count: 1
+		id: "relics:aqua_walker"
+		tag: {
+			abilities: {
+				walking: {
+					points: 0
+					stats: {
+						time: 57.49224d
+					}
+				}
+			}
+		}
+	}
+	id: "26C73B03C6536E13"
+	images: [
+		{
+			click: "https://vk.com/talesteam"
+			height: 1.0d
+			hover: ["ВК Tale's Studio"]
+			image: "relics:item/magic_mirror_2"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			click: " https://boosty.to/talesteam"
+			height: 1.0d
+			hover: ["Boosty"]
+			image: "relics:item/magic_mirror_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			click: "https://discord.gg/ekR2dPSuk2"
+			height: 1.0d
+			hover: ["Дискорд Tale's Studio"]
+			image: "relics:item/magic_mirror_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/dragonegg_amythest"
+			rotation: -10.0d
+			width: 1.0d
+			x: -0.5204081632653086d
+			y: -6.659863945578209d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/dragonskin_spell_book"
+			rotation: 10.0d
+			width: 1.0d
+			x: 0.25510204081632537d
+			y: -6.802721088435348d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/void_core"
+			rotation: -10.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/divine_pearl"
+			rotation: -7.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/abyss_eye"
+			rotation: 8.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 25.0d
+			image: "ftbquests:block/menuanim"
+			rotation: 0.0d
+			width: 25.0d
+			x: -1.0d
+			y: -13.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&6✅&r Сборка модов Lost Souls для Minecraft создана с целью обогатить игровой опыт и добавить больше фэнтезийных элементов в выживание игроков."
+				""
+				"&d✅&r Благодаря включенным модам как для Fabric, так и для Forge, игроки получают широкие возможности для настройки игрового процесса."
+				""
+				"&6✅&r Переведенная на русский язык, сборка облегчает взаимодействие с игровым контентом для русскоязычных игроков!"
+				""
+				"&d✅&r Кроме того, присутствие собственного ресурс-пака с переработанными текстурами большинства модов придает единый стиль всей сборки , что улучшает  впечатления от визуальной составляющей сборки !"
+				""
+				"&6✅&r Также части оружий из сборки добавлены качественные 3д-модели , что добавляет большего визуального наслаждения при его использовании!"
+				"Удачного пути , исследователь !"
+			]
+			hide: true
+			icon: "minecells:conjunctivius_respawn_rune"
+			id: "2D8EB2902477E0E0"
+			rewards: [{
+				id: "1B2F7CCBA68A8A51"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "5C53F6888CE40CA5"
+				title: "&dLost Souls"
+				type: "checkmark"
+			}]
+			x: -0.010204081632650741d
+			y: -4.714285714285701d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"&dLost Souls&r имеет различные механики, которые сделают геймплей на сборке гараздо интереснее и разнообразнее. На следующих страницах можете ознакомится со всеми новыми механиками."
+				"{@pagebreak}"
+				"&dI&r: Диета"
+				""
+				"Теперь вам нужно будет соблюдать диету, питаясь разной едой, всего есть пять шкал: фрукты, зёрна, протеины, овощи и сахар. В описании каждой еды будет написано, какую шкалу еда будет заполнять при поедании."
+				"{@pagebreak}"
+				"&dII&r: Выносливость"
+				""
+				"Вы можете заметить, что над шкалой голода появилась новый индикатор. Данная шкала показывает вашу выносливость. При надевании брони, ваша выносливость будет уменьшаться. А нужна она для кувырков, которые будут сильно помогать в бою, позволяя вам уворачиваться от атак противника. Повысить кол-во выносливости при надетой броне можно с помощью зачарования \"Лёгкость\"."
+				"{@pagebreak}"
+				"&dIII&r: Старинный атлас"
+				""
+				"В данной сборке, вместо мини-карты, вы сможете создать старинный атлас. Он является полной заменой мини-карты. Создайте данный атлас с помощью книги и компаса."
+				"{@pagebreak}"
+				"&dIV&r: Механика сна"
+				""
+				"Теперь, чтобы пропустить ночь, вам нужно будет зажать пробел, когда вы ляжете. Так-же можно будет вертеть головой и смотреть в любое направление. Иногда ваш сон могут побеспокить кошмары."
+				"{@pagebreak}"
+				"&dV&r: Пространственные слёзы"
+				""
+				"Теперь, чтобы попасть в незер, силы огнива не хватит, поэтому вам нужны пространственные слезы. Соберите их при помощи бутылки нажав по плачущему обсидиану и активируйте ими портал в незер. Также вы сможете их в сундуках у разрушенных порталов."
+				"{@pagebreak}"
+				"&dVI&r: Двенадцать очей Эндера"
+				""
+				"Теперь по всему миру вам нужно будет находить очи, с их помощью вы сможете активировать портал в энд, а обычные перестанут работать."
+				"{@pagebreak}"
+				"&dVII&r: Элитры и глайдеры"
+				""
+				"Теперь вы не сможете использовать элитры в верхнем мире и незере из-за другой гравитации. Вместо элитр вы сможете создать планеры, которые будут заменой."
+			]
+			icon: "minecells:insufferable_crypt_dimensional_rune"
+			id: "2F8849247EFF51EF"
+			rewards: [{
+				id: "3DAE3F98881BCAD3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [{
+				id: "4546A3A8CFE0C9FA"
+				title: "&dМеханики"
+				type: "checkmark"
+			}]
+			x: 1.6224489795918373d
+			y: -4.741496598639429d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"Автором данного проекта является блогер &dStefjinvu&r. Он также является основателем студии по майнкрафту &dTale's Studio&r. "
+				""
+				"Через что можно связаться?"
+				""
+				"&dDiscord&r - stefjinvu"
+				"&dПочта&r - managerlostsouls10@gmail.com"
+				"&dTelegramm&r - @stefjinvu"
+			]
+			icon: {
+				Count: 1
+				id: "minecells:insufferable_crypt_doorway"
+				tag: {
+					BlockEntityTag: { }
+				}
+			}
+			id: "5BA63489CDEC91F3"
+			rewards: [{
+				id: "6A5BC1FEA7C0709F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [{
+				id: "1CC81354065A0FF8"
+				title: "&dАвтор сборки"
+				type: "checkmark"
+			}]
+			x: -1.9285714285714306d
+			y: -4.73469387755101d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"На сборке есть моды, которые желательно изучить полностью, ведь они делают игру очень интересной и атмосферной. На следующей страницах есть весь список основных модов."
+				"{@pagebreak}"
+				"&dI&r: Mine Cells;"
+				"&dII&r: Twilight Forest;"
+				"&dIII&r: Ice And Fire;"
+				"&dIV&r: Create;"
+				"&dV&r: Iron's Spellnbooks;"
+			]
+			icon: {
+				Count: 1
+				id: "relics:shadow_glaive"
+				tag: {
+					abilities: {
+						glaive: {
+							points: 0
+							stats: {
+								bounces: 4.99972d
+								damage: 2.28923d
+								radius: 3.66389d
+								recharge: 15.27127d
+							}
+						}
+						saw: {
+							points: 0
+							stats: {
+								damage: 1.04973d
+								speed: 16.17236d
+							}
+						}
+					}
+					charges: 8
+				}
+			}
+			id: "2ED0A803003B8475"
+			rewards: [{
+				id: "330F27C09348CDA5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [{
+				id: "3FDE7F498DCC3AE0"
+				title: "&dОсновные моды"
+				type: "checkmark"
+			}]
+			x: -0.010204081632650741d
+			y: -6.537414965986365d
+		}
+		{
+			dependencies: ["2D8EB2902477E0E0"]
+			description: [
+				"Сборка наполнена различными уникальными аспектами, которых нету в большинстве других сборках. На следующей странице, вы увидите весь список уникальных аспектов нашей сборки."
+				"{@pagebreak}"
+				"&dI&r: Кастомный текстур-пак;"
+				"&dII&r: Красивые квесты;"
+				"&dIII&r: Полный перевод всех модов;"
+				"&dIV&r: Кастомные 3д-модели;"
+			]
+			icon: "cataclysm:abyss_eye"
+			id: "4188FC0C261F2F71"
+			rewards: [{
+				id: "35C174BD1774251E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.1d
+			tasks: [{
+				id: "43B0B3331F8DFFBC"
+				title: "&dУникальность"
+				type: "checkmark"
+			}]
+			x: -0.010204081632650741d
+			y: -2.7619047619047308d
+		}
+		{
+			dependencies: ["2F8849247EFF51EF"]
+			description: ["Создайте старинный атлас, чтобы ориентироваться в мире &6Lost&r &dSouls&r!"]
+			id: "24B46540C32946C4"
+			rewards: [{
+				id: "3E5288FA520CB845"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1561FB5CFEECB084"
+				item: "antiqueatlas:empty_antique_atlas"
+				type: "item"
+			}]
+			x: 1.6020408163265287d
+			y: -6.55782312925168d
+		}
+	]
+	title: "&d&l=>&r &lО сборке"
+}

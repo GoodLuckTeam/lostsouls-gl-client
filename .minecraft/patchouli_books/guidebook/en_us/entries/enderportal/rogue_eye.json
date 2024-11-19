@@ -1,0 +1,15 @@
+{
+    "name": "Око Изгоя",
+    "icon": "endrem:rogue_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Считается, что этот глаз дал нашим предкам знания о Редстоуне."
+        },
+        {
+            "type": "text",
+            "text": "Око изгоя можно получить победив Нагу."
+        }
+    ]
+}

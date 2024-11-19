@@ -1,0 +1,1029 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d42r"
+	group: "50EFD5363B6B9FFE"
+	icon: {
+		Count: 1
+		id: "irons_spellbooks:villager_spell_book"
+		tag: {
+			ISB_Spells: {
+				data: [ ]
+				maxSpells: 10
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+	}
+	id: "04C7248E8EBA9F53"
+	images: [
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: -90.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/entity/deepling/deepling_warlock_mark2.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:textures/particle/electricity_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_holy"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7277210884353593d
+			y: 3.154761904761905d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_holy"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.6904761904761614d
+			y: -1.031292517006797d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_holy"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5761904761904475d
+			y: -1.0598639455782184d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_holy"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.6333333333333115d
+			y: 0.9401360544217781d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_holy"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7190476190476005d
+			y: 0.911564625850346d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "merchantmarkers:textures/entity/villager/markers/paladins__monk.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "paladins:textures/mob_effect/priest_absorption.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "paladins:textures/spell/judgement.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "paladins:textures/spell/holy_shock.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "bygonenether:item/netherite_scrap_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 0.02564102564102564d
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 0.02564102564102564d
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 0.02564102564102564d
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "bygonenether:item/netherite_bell"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "spelunkery:item/rough_diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/diamond"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/raw_iron"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/iron_sheet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 5.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Первым делом, вам нужно создать стол монаха и дать жителю новую профессию - &eсвященник&r. У него вы сможете покупать разные полезные предметы."]
+			id: "7CDFEC8E01E2187D"
+			rewards: [{
+				id: "384FB4D1B37FE70C"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "5956CF4C57C2AFD6"
+				item: "paladins:monk_workbench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Создавайте &dмагические руны&r различных стихий, чтобы колдовать заклинаниями из посохов и жезлов."]
+			id: "1F65A8652097909B"
+			rewards: [
+				{
+					id: "76C09911A48A8ACC"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:healing"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06AEF352DC8127AC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "6E40C68C8F0D9268"
+				item: "runes:healing_stone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["&6Стол привязки заклинаний&r - позволит накладывать магические заклинания на магическую книгу."]
+			id: "4F03B24BF039C81C"
+			rewards: [{
+				id: "293567706567ACC1"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "681048176815C237"
+				item: "spell_engine:spell_binding"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.7999999999999998d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			hide_dependency_lines: true
+			id: "0D0EE8C1EDAB01A9"
+			rewards: [{
+				id: "65197A014FBE116D"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "4B96FD8B1AC37DDD"
+				item: {
+					Count: 1
+					id: "paladins:prior_robe_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			id: "67C0346A2E8472F6"
+			rewards: [{
+				id: "05EF664C3AB216AD"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "78095389A24756E2"
+				item: {
+					Count: 1
+					id: "paladins:prior_robe_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			hide_dependency_lines: true
+			id: "6FF33AAAACCB92A4"
+			rewards: [{
+				id: "0DDA84AEB96BF394"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "4349DADE82664A6C"
+				item: {
+					Count: 1
+					id: "paladins:prior_robe_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			hide_dependency_lines: false
+			id: "29AAAFC68C53163D"
+			rewards: [{
+				id: "6EE69AB6868085B3"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "0ABB1A9EEDB618F0"
+				item: {
+					Count: 1
+					id: "paladins:prior_robe_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["37DEF1AB18DE3733"]
+			description: ["Создайте магические посохи и жезлы, чтобы колдовать ими магические заклинания с помощью рун."]
+			id: "519E47497DA97E8E"
+			rewards: [{
+				id: "4ED430E3E077961C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0E371B19E668C349"
+				item: {
+					Count: 1
+					id: "paladins:holy_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["37DEF1AB18DE3733"]
+			description: ["Создайте магические посохи и жезлы, чтобы колдовать ими магические заклинания с помощью рун."]
+			id: "45CF8A135AD20FD5"
+			rewards: [
+				{
+					id: "034E98F6599E285D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "0E15CA891790E4D7"
+					item: "spelunkery:diamond_shard"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6D1718B6272C8971"
+				item: {
+					Count: 1
+					id: "paladins:diamond_holy_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["37DEF1AB18DE3733"]
+			description: ["Создайте магические посохи и жезлы, чтобы колдовать ими магические заклинания с помощью рун."]
+			id: "51885BFDF074D243"
+			rewards: [
+				{
+					id: "7EC811546C3F0D8F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "57ECF8C844004FEE"
+					item: "epicsamurai:ruby"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5DE61C2CD38ACC82"
+				item: {
+					Count: 1
+					id: "paladins:netherite_holy_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			description: ["Поскольку, паладины - воины, сражающиеся вблизи и получающие большое количества урона, им нужно быстро востанавливать свое здоровье. Для этого у них есть книга: &eМанускрипт паладина&r, а также жезл, который позволит паладинам использовать заклинания исцеления."]
+			id: "083610AEBE0F1E40"
+			tasks: [{
+				id: "033D99C13A7234F0"
+				item: "paladins:paladin_spell_book"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			hide_dependency_lines: true
+			id: "07B22EC0CA509522"
+			rewards: [{
+				id: "3B27F679AE834153"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "7E73345CC23C3EA2"
+				item: {
+					Count: 1
+					id: "paladins:priest_robe_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			id: "12CB13FD93F26709"
+			rewards: [{
+				id: "6B38C80A1D5D4E9F"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "50AD6404900614B4"
+				item: {
+					Count: 1
+					id: "paladins:priest_robe_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			hide_dependency_lines: true
+			id: "38D4D99C455CE8AF"
+			rewards: [{
+				id: "083021F8D0765172"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "5A94C4A5062CC7E7"
+				item: {
+					Count: 1
+					id: "paladins:priest_robe_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			description: ["Паладина не существует."]
+			id: "6598464547C02B5E"
+			rewards: [{
+				id: "49E923FBD6B79256"
+				type: "xp"
+				xp: 900
+			}]
+			tasks: [
+				{
+					id: "5969D1AF34BC1460"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FD602B58BE894CD"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0630E6A998D304C4"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3D1EE0BAE0386DA3"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7CDFEC8E01E2187D"]
+			description: ["Купите у &eжреца&r комплект одеяний жреца. Чтобы повысить силу заклинаний, а также выглядеть как жрец."]
+			id: "1FC4DEAB4C314A59"
+			rewards: [{
+				id: "3AB35753A1BE2AA9"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "0FB2604C7D7FF285"
+				item: {
+					Count: 1
+					id: "paladins:priest_robe_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			description: ["Ave Maria!"]
+			id: "465815B30102FB92"
+			rewards: [{
+				id: "3355EA42F9DF3782"
+				type: "xp"
+				xp: 900
+			}]
+			tasks: [
+				{
+					id: "45B9EAEC4D9E22A8"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39B4C078689D6F95"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "597E65D9DEE1A640"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "504F6C57675472FD"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4F03B24BF039C81C"]
+			id: "37DEF1AB18DE3733"
+			rewards: [
+				{
+					id: "2CC1EB6F763C86BA"
+					type: "xp"
+					xp: 750
+				}
+				{
+					count: 5
+					id: "19501334D35A7C73"
+					item: "runes:healing_stone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "18B50E7D36E5D9CC"
+				item: "paladins:priest_spell_book"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "3D2D12F2B44EF1E8"
+			rewards: [{
+				id: "1C49CF6F860E82E4"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "25CB3665F8DEAD92"
+				item: {
+					Count: 1
+					id: "paladins:iron_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "0D0860057695B569"
+			rewards: [{
+				id: "70581729BF040802"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [{
+				id: "355F13BAA5EC3888"
+				item: {
+					Count: 1
+					id: "paladins:iron_great_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "722ED7481EBE117B"
+			rewards: [{
+				id: "69CEE903BF430C76"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [{
+				id: "31C44FC6A72E4793"
+				item: {
+					Count: 1
+					id: "paladins:iron_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3D2D12F2B44EF1E8"]
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "364D13D3AC422CBA"
+			rewards: [{
+				id: "5C9DA7E33B3F5373"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "5CBB318D7075B22F"
+				item: {
+					Count: 1
+					id: "paladins:diamond_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0D0860057695B569"]
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "2E061F46C34DE155"
+			rewards: [{
+				id: "318AC12DBC10BFEE"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "3710985AFC940AE9"
+				item: {
+					Count: 1
+					id: "paladins:diamond_great_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["722ED7481EBE117B"]
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "3216A4AF8405D6DB"
+			rewards: [{
+				id: "25B7F45CA86CE425"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "6E1C13D9E12A4BBA"
+				item: {
+					Count: 1
+					id: "paladins:diamond_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["364D13D3AC422CBA"]
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "1C9F5A14897E8F04"
+			rewards: [{
+				id: "1D4C5B80D8B28CDF"
+				type: "xp"
+				xp: 900
+			}]
+			tasks: [{
+				id: "628F7484BA41745D"
+				item: {
+					Count: 1
+					id: "paladins:netherite_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2E061F46C34DE155"]
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "1C316A400C923FF5"
+			rewards: [{
+				id: "58191ADD969EFBE5"
+				type: "xp"
+				xp: 900
+			}]
+			tasks: [{
+				id: "689247A72C9A0B10"
+				item: {
+					Count: 1
+					id: "paladins:netherite_great_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3216A4AF8405D6DB"]
+			description: ["У &eпаладина&r есть огромный ассортимент оружия. Выберите подходящее для себя и создайте его. А затем сражайтесь как настоящий паладин!"]
+			id: "5FBA8A5B101EAF4B"
+			rewards: [{
+				id: "5E5D9ACBC1427979"
+				type: "xp"
+				xp: 900
+			}]
+			tasks: [{
+				id: "43233C370A57D8AE"
+				item: {
+					Count: 1
+					id: "paladins:netherite_mace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["083610AEBE0F1E40"]
+			id: "02EEF46B2727CDBB"
+			rewards: [{
+				id: "056D5606F6529ACB"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "3E84C2947CEBA883"
+				item: {
+					Count: 1
+					id: "paladins:holy_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["083610AEBE0F1E40"]
+			id: "0010B2C57FB5709F"
+			rewards: [{
+				id: "450D473B3CF8C3DE"
+				type: "xp"
+				xp: 800
+			}]
+			tasks: [{
+				id: "4E6E792EF9615D0E"
+				item: {
+					Count: 1
+					id: "paladins:diamond_holy_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["083610AEBE0F1E40"]
+			id: "5A6656D0F7CAE4EB"
+			rewards: [{
+				id: "3E06C2FE723D0B4A"
+				type: "xp"
+				xp: 700
+			}]
+			tasks: [{
+				id: "11FD25A3E4E00FAE"
+				item: {
+					Count: 1
+					id: "paladins:netherite_holy_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			id: "0FF5AD7993EF6253"
+			rewards: [{
+				id: "2D45DEB4C82FB542"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [
+				{
+					id: "58847E51239E4B55"
+					item: {
+						Count: 1
+						id: "paladins:acolyte_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3022644E49E83ED2"
+					item: {
+						Count: 1
+						id: "paladins:diamond_holy_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E7253A7CE302BD9"
+					item: {
+						Count: 1
+						id: "paladins:holy_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B18F1D2F7A06FD2"
+					item: {
+						Count: 1
+						id: "paladins:netherite_holy_wand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: 0.5d
+		}
+	]
+	title: "&d5.2&r: &lПуть Священника"
+}

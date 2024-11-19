@@ -1,0 +1,15 @@
+{
+    "name": "Око Ада",
+    "icon": "endrem:nether_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Оно было потеряное во время битвы между Адом и Раем."
+        },
+        {
+            "type": "text",
+            "text": "Око Ада можно получить победив Незеритового Монстра."
+        }
+    ]
+}

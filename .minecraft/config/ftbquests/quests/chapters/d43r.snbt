@@ -1,0 +1,884 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d43r"
+	group: "50EFD5363B6B9FFE"
+	icon: {
+		Count: 1
+		id: "archers:ranger_armor_chest"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "3C839EA62FB4705A"
+	images: [
+		{
+			height: 1.0d
+			image: "endrem:item/rogue_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8299319727890975d
+			y: -0.454081632653093d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/arrow_quiver_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7210884353741633d
+			y: 0.9744897959183376d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/apple"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7006802721088548d
+			y: 1.6071428571428257d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:item/triple_bow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone_dust"
+			rotation: 20.0d
+			width: 1.0d
+			x: -0.9489795918367321d
+			y: -3.164965986394588d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/amythest_gem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.020408163265301482d
+			y: -3.1190476190476133d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_ingot"
+			rotation: -30.0d
+			width: 1.0d
+			x: -2.282312925170068d
+			y: -2.952380952380949d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/gold_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.8061224489795933d
+			y: -1.7380952380952301d
+		}
+		{
+			height: 1.0d
+			image: "nethervinery:item/netherite_nectar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9013605442176882d
+			y: -1.261904761904745d
+		}
+		{
+			height: 1.0d
+			image: "quark:item/diamond_heart"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0034013605442098d
+			y: -1.0476190476190368d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_lightning"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/azurefabric"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:block/cistus"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/moldycheese"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/batwing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/musketeerhat"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/musketeerbluecoat"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/musketeerpants"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/musketeerboots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.7d
+			y: 2.1d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/musket_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/forgottensteelingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/musketammo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "warriorsofpastepoch:item/ammobag"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			id: "3898383F01ADDAA6"
+			rewards: [
+				{
+					count: 16
+					id: "73DA80AEFD305AAC"
+					item: "alexscaves:seeking_arrow"
+					type: "item"
+				}
+				{
+					id: "43F975EAE744FBAA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "55C2DAF4398EA499"
+				item: {
+					Count: 1
+					id: "archers:netherite_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			id: "1114877B6B20DDE6"
+			rewards: [
+				{
+					id: "22E073FD7F313678"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 24
+					id: "5A10D4B1CD5BD906"
+					item: {
+						Count: 1
+						id: "minecraft:tipped_arrow"
+						tag: {
+							Potion: "minecraft:long_weakness"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "56690347C77E6AF2"
+				item: {
+					Count: 1
+					id: "archers:royal_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			hide_dependency_lines: true
+			id: "6A8F0488720E1B9C"
+			rewards: [
+				{
+					id: "3571D9B312A1E530"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 16
+					id: "7F8E9AEC151D46EB"
+					item: {
+						Count: 1
+						id: "minecraft:tipped_arrow"
+						tag: {
+							Potion: "minecraft:long_weakness"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7E248174E5B6EBF0"
+				item: {
+					Count: 1
+					id: "archers:mechanic_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			hide_dependency_lines: true
+			id: "07E250F9FFF8E0BA"
+			rewards: [
+				{
+					id: "03E927550C7C2740"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 10
+					id: "2006936A1C15BC10"
+					item: {
+						Count: 1
+						id: "minecraft:tipped_arrow"
+						tag: {
+							Potion: "minecraft:weakness"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "28B50C1858450364"
+				item: {
+					Count: 1
+					id: "archers:composite_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			id: "6DC4D302BC363564"
+			rewards: [
+				{
+					count: 16
+					id: "3A7336AD375AC9EB"
+					item: {
+						Count: 1
+						id: "minecraft:tipped_arrow"
+						tag: {
+							Potion: "alexsmobs:strong_soulsteal"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3EF19218C8B3FFD1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "4D025E8B9F270AC0"
+				item: {
+					Count: 1
+					id: "archers:netherite_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			hide_dependency_lines: true
+			id: "3D3BBA6506FDEEE1"
+			rewards: [
+				{
+					id: "1585E4E6791EA4DD"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 32
+					id: "127DBB12310614EA"
+					item: "cataclysm:void_scatter_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "57DC85BAC2DC6143"
+				item: {
+					Count: 1
+					id: "archers:crystal_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: ["Для начала, вам нужно создать стол ремесленника. Когда житель подойдёт к нему и возьмёт профессию, начните его прокачивать, покупая разные товары."]
+			id: "30EB493ED921748C"
+			shape: "diamond"
+			tasks: [{
+				id: "6AD86D6DE82D249D"
+				item: "archers:archers_workbench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Купите у лучника комплект его брони. Одев которую, вы станете настоящим &aлучником&r."]
+			id: "233772E71B0B67F5"
+			rewards: [{
+				id: "534D254E5959C393"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "6508D0C750DAE294"
+				item: {
+					Count: 1
+					id: "archers:ranger_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Купите у лучника комплект его брони. Одев которую, вы станете настоящим &aлучником&r."]
+			id: "715DF234DA90BAB1"
+			rewards: [{
+				id: "3600EC0BFDDCDB92"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "46D2A82CEA297248"
+				item: {
+					Count: 1
+					id: "archers:ranger_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Купите у лучника комплект его брони. Одев которую, вы станете настоящим &aлучником&r."]
+			id: "60D9469F53D32333"
+			rewards: [{
+				id: "1E700B8156DC536B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2B805AEF5C53D4E9"
+				item: {
+					Count: 1
+					id: "archers:ranger_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Купите у лучника комплект его брони. Одев которую, вы станете настоящим &aлучником&r."]
+			id: "1070155DF648E922"
+			rewards: [{
+				id: "08C4799D0681A220"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "79E0123C34B264A7"
+				item: {
+					Count: 1
+					id: "archers:ranger_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			hide_dependency_lines: true
+			id: "7477AFD6186600D3"
+			rewards: [{
+				count: 16
+				id: "6B3ACE31A1754317"
+				item: {
+					Count: 1
+					id: "minecraft:tipped_arrow"
+					tag: {
+						Potion: "minecraft:harming"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D4014D22935AE96"
+				item: {
+					Count: 1
+					id: "archers:rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			id: "5012701A1E11339A"
+			rewards: [
+				{
+					count: 16
+					id: "39FBD454F1198215"
+					item: {
+						Count: 1
+						id: "minecraft:tipped_arrow"
+						tag: {
+							Potion: "minecraft:harming"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C5EDD25CE964F05"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "6557186695385460"
+				item: {
+					Count: 1
+					id: "archers:heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			hide_dependency_lines: true
+			id: "0E8442953468300A"
+			rewards: [
+				{
+					id: "7BBA684F49D84E28"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 16
+					id: "5107EC34CB4E6974"
+					item: "iceandfire:stymphalian_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2924076FB0393881"
+				item: {
+					Count: 1
+					id: "archers:netherite_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["Создавайте или покупайте &aлуки&r и &6арбалеты&r. Купить их можно у того-же лучника на последнем уровне прокачки."]
+			id: "094A07710DD7E16B"
+			rewards: [
+				{
+					count: 8
+					id: "23DE69FDF0276632"
+					item: "alexscaves:burrowing_arrow"
+					type: "item"
+				}
+				{
+					id: "246716514DFF1C7E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "22C0295DE5FD13F8"
+				item: {
+					Count: 1
+					id: "archers:netherite_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["30EB493ED921748C"]
+			description: ["У &aлучников&r как и у других классов есть своя книга заклинаний. Накладывать заклинания можно на столе привязки заклинаний. Выбрав заклинания, положите книгу в особый слот в инвентаре, а затем активируйте заклинание."]
+			id: "33A5CF34F0D89D61"
+			rewards: [{
+				id: "681A69D747B9521B"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "1CE70E42897EDD71"
+				item: "archers:archer_spell_book"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "73DD1B94EFAEB56C"
+			tasks: [{
+				id: "3730613168A6F85F"
+				item: "warriorsofpastepoch:forgotten_steel"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "3023DF5314780C61"
+			tasks: [
+				{
+					count: 7L
+					id: "5B47A51459496CB3"
+					item: "warriorsofpastepoch:thickened_skin"
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "77A4203B78282B48"
+					item: { Count: 7, id: "warriorsofpastepoch:azure_fabric" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "46B7DB409617AB76"
+					item: { Count: 4, id: "warriorsofpastepoch:cistus" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "02BB30F4337493B3"
+			tasks: [{
+				id: "7C98CE052E89B847"
+				item: {
+					Count: 1
+					id: "warriorsofpastepoch:muketers_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "2D7EFC15B2F0693E"
+			tasks: [{
+				id: "15902196A99B9CF6"
+				item: {
+					Count: 1
+					id: "warriorsofpastepoch:muketers_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "26DCE234A4AC4863"
+			tasks: [{
+				id: "12EA138F9344D587"
+				item: {
+					Count: 1
+					id: "warriorsofpastepoch:muketers_armor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "3CC3570FF78E7C18"
+			tasks: [{
+				id: "67EFE5A68AB77CE5"
+				item: {
+					Count: 1
+					id: "warriorsofpastepoch:muketers_armor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "42BADAEC65B01184"
+			tasks: [
+				{
+					id: "6DC1FD49DD992C1B"
+					item: "warriorsofpastepoch:musket"
+					type: "item"
+				}
+				{
+					id: "4FA2686C64521237"
+					item: {
+						Count: 1
+						id: "gnumus:vintage_rifle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["42BADAEC65B01184"]
+			id: "4221B91CC64CF020"
+			tasks: [
+				{
+					count: 32L
+					id: "009D15042016F921"
+					item: { Count: 32, id: "warriorsofpastepoch:musket_ammo" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "5D0463400D925D93"
+					item: { Count: 32, id: "gnumus:vintage_bullet" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["42BADAEC65B01184"]
+			id: "6AE3CEF2E8E016A2"
+			tasks: [{
+				id: "2B6A353D9FE9F7BC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 14
+						}
+					}
+					id: "warriorsofpastepoch:ammo_bag"
+					tag: {
+						Inventory: {
+							Items: [ ]
+							Size: 14
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73DD1B94EFAEB56C"]
+			id: "26249D86004E8F74"
+			tasks: [
+				{
+					count: 2L
+					id: "0F177100D5E2BAC5"
+					item: { Count: 2, id: "warriorsofpastepoch:stale_cheese_sandwich" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "71E52EF496DDC09F"
+					item: { Count: 2, id: "warriorsofpastepoch:bat_soup" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+	title: "&d5.3&r: &lПуть Стрелка"
+}

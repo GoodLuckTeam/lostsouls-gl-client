@@ -1,0 +1,16 @@
+{
+    "name": "Око Нежети",
+    "icon": "endrem:undead_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Воспоминания о прошлых жизнях тех, кто живет в смерти."
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепт Ока Нежети",
+            "recipe": "endrem:undead_eye"
+        }
+    ]
+}

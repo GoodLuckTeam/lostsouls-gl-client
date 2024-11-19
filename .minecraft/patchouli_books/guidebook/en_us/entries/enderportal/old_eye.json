@@ -1,0 +1,15 @@
+{
+    "name": "Старинное Око",
+    "icon": "endrem:old_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Легенды гласят, что этот глаз когда-то принадлежал одному из великих песчаных червей."
+        },
+        {
+            "type": "text",
+            "text": "Старинное око можно получить победив Древние Останки."
+        }
+    ]
+}

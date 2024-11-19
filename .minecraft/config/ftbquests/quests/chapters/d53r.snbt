@@ -1,0 +1,516 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d53r"
+	group: "5EB751CA5EA0FA30"
+	icon: {
+		Count: 1
+		id: "gnumus:lucky_hat_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4B06A969DF3ED445"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/carrots_stage3_2"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5190476190476119d
+			y: 0.8122448979591894d
+		}
+		{
+			height: 1.0d
+			image: "gnumus:item/gnumdublonm"
+			rotation: -30.0d
+			width: 1.0d
+			x: -0.3789115646258594d
+			y: 1.1183673469387827d
+		}
+		{
+			height: 1.0d
+			image: "gnumus:item/gnumustotem"
+			rotation: -20.0d
+			width: 1.0d
+			x: -1.8891156462585101d
+			y: -0.4326530612244781d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/epic_ink"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1517006802721d
+			y: -1.9020408163265259d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/rare_ink"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0115646258503475d
+			y: -1.9224489795918416d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/old_boot"
+			rotation: 50.0d
+			width: 1.0d
+			x: -1.7534013605442027d
+			y: -3.4632653061224516d
+		}
+		{
+			height: 1.0d
+			image: "create:item/unprocessed_obsidian_sheet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.2772108843537353d
+			y: -4.487074829931977d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "gnumus:item/bool"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: ["По всему миру будут спавнится базы гнумусов, в которым вы сможете найти много всего полезного, в частности дублоны."]
+			id: "2CCD2B4A5FEB0042"
+			rewards: [{
+				id: "5D32B2C6A4930993"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "31CF7DCC409AB2EA"
+				item: "gnumus:gnumus_doubloons"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: ["Убив гнумуса, вы можете получить мешки, открыв которые, вы получите разные предметы."]
+			id: "3E884C799CE72B28"
+			rewards: [{
+				id: "70C1868A4A88B282"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7A45358C87EC3744"
+				item: "gnumus:gnumus_pouch"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: ["Убив гнумуса, вы можете получить мешки, открыв которые, вы получите разные предметы."]
+			id: "576B9E7734D81947"
+			rewards: [{
+				id: "4944CF35C6081C39"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4AB81E6F74E63D2D"
+				item: "gnumus:gnumus_pouch_2"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: ["Убив гнумуса, вы можете получить мешки, открыв которые, вы получите разные предметы."]
+			id: "31F32262B7CC128B"
+			rewards: [{
+				id: "56031935F0C6A637"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "13D41395CB898432"
+				item: "gnumus:gnumus_pouch_3"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"3E884C799CE72B28"
+				"31F32262B7CC128B"
+				"576B9E7734D81947"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"Вы можете получить &6древний металл&r, убив гнумуса или найдя их мешки."
+				"Из него можно сделать большое количество предметов."
+			]
+			id: "65C048FBAEA8F5E2"
+			rewards: [{
+				id: "61B0604ECB8B7552"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "114D0A7CD7DC69F5"
+					item: "gnumus:vintage_parts"
+					type: "item"
+				}
+				{
+					id: "4269EB972AF35470"
+					item: "gnumus:vintage_metal"
+					type: "item"
+				}
+				{
+					id: "6327ED8B496BC082"
+					item: "gnumus:vintage_alloy_ingot"
+					type: "item"
+				}
+			]
+			title: "Старинный металл"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			description: ["&6Гнумусы&r - раса, очень похожая на гоблинов. В качестве торговли между друг другом используют дублоны, похожие на золотые монеты."]
+			id: "427DE45088E01E0B"
+			rewards: [{
+				id: "73B17D6757B61CBA"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "42FAEAF7CDE6BB82"
+				title: "Гнумусы"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65C048FBAEA8F5E2"]
+			description: ["Создавайте различные предметы, используя древний металл."]
+			id: "4435A547B7E40B7D"
+			rewards: [{
+				id: "5EE452738E8D4CF2"
+				type: "xp"
+				xp: 400
+			}]
+			subtitle: "Броня"
+			tasks: [{
+				id: "371FC098FC866FF9"
+				item: {
+					Count: 1
+					id: "gnumus:gnumus_helmet_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["65C048FBAEA8F5E2"]
+			description: ["Создавайте различные предметы, используя древний металл."]
+			id: "20BEB9204DE7BE72"
+			rewards: [{
+				id: "16051EF4CA7EDB86"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Инструмент"
+			tasks: [{
+				id: "53CAA8A2730C11A5"
+				item: {
+					Count: 1
+					id: "gnumus:hammer_vintage_universal_tool"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["65C048FBAEA8F5E2"]
+			description: [
+				"Создавайте различные предметы, используя древний металл."
+				""
+				"&6P.S&r - Требуется для использования винтовки."
+			]
+			id: "7ABF8EE3C70AE92E"
+			rewards: [{
+				id: "6361BBF42B3236F7"
+				type: "xp"
+				xp: 300
+			}]
+			subtitle: "Огнестрельное оружие"
+			tasks: [{
+				id: "6FB572B90B0F9118"
+				item: "gnumus:vintage_bullet"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: ["Убив гнумуса, вы можете получить его когти или рога. Которые можно использовать в создании предметов."]
+			id: "48BE5C656140394E"
+			rewards: [{
+				id: "0E2E4DB3340E78FD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D9BF9858386A05F"
+				item: "gnumus:gnumus_horn"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: ["Убив гнумуса, вы можете получить его когти или рога. Которые можно использовать в создании предметов."]
+			id: "09682C2BA8E4669D"
+			rewards: [{
+				id: "1EA12EC661B5C2FB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "18ED6FA73954BA6C"
+				item: "gnumus:gnumus_claw"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09682C2BA8E4669D"]
+			description: ["Используя коготь гнумуса создайте: &6саблю&r, &6кирку&r и &6шляпу&r."]
+			id: "77EA811D35CFA589"
+			rewards: [{
+				id: "33E4F75B8B20F693"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "436224F3E2E881C6"
+				item: {
+					Count: 1
+					id: "gnumus:gnumus_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["09682C2BA8E4669D"]
+			description: ["Используя коготь гнумуса создайте: &6саблю&r, &6кирку&r и &6шляпу&r."]
+			id: "6709471641CB8EE7"
+			rewards: [{
+				id: "1D1F62AA6E33C84E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "093D440377571C69"
+				item: {
+					Count: 1
+					id: "gnumus:gnumus_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09682C2BA8E4669D"]
+			description: ["Используя коготь гнумуса создайте: &6саблю&r, &6кирку&r и &6шляпу&r."]
+			id: "501DA6961DFCE76C"
+			rewards: [
+				{
+					id: "7DFACD1572C9E1F9"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3CA81D4829A2B60A"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "2CDE3BFAA0A16C18"
+				item: {
+					Count: 1
+					id: "gnumus:lucky_hat_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Стоять ковбой!"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["427DE45088E01E0B"]
+			description: [
+				"В лагерях гнумусов, выращивают перезрелую морковь, которую они  употребляют в пищу."
+				"Стань злодеем и укради всю перезрелую морковь, которую увидишь!!!"
+			]
+			id: "776AA1A6AE4B8432"
+			rewards: [
+				{
+					id: "2D8F3AFBE68B2708"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1BCFA5BA30D9FD2D"
+					item: "gnumus:pileof_gnumus_doubloons"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 100L
+				id: "1054ABE4E37BFD09"
+				item: "gnumus:overripe_carrot"
+				type: "item"
+			}]
+			title: "Вор морковки"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["65C048FBAEA8F5E2"]
+			description: ["Создавайте различные предметы, используя древний металл."]
+			id: "16F55C562EFAB9A5"
+			rewards: [{
+				id: "73BA35DC1ABB2C3A"
+				type: "xp"
+				xp: 300
+			}]
+			subtitle: "Оружие"
+			tasks: [{
+				id: "04D647CE2165EC1B"
+				item: {
+					Count: 1
+					id: "gnumus:vintage_gnumus_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["65C048FBAEA8F5E2"]
+			description: ["Сделайте старинную винтовку"]
+			id: "01A00842997A0B07"
+			rewards: [{
+				count: 32
+				id: "478A741F1669E126"
+				item: "gnumus:vintage_bullet"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B47F1B5EE4EC740"
+				item: {
+					Count: 1
+					id: "gnumus:vintage_rifle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+	]
+	title: "&d6.3&r: &lГнумусы"
+}

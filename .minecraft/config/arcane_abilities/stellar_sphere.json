@@ -1,0 +1,96 @@
+{
+  "ability": {
+    "abilities": {
+      "stellar_radiance": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 4,
+        "stats": {
+          "delay": {
+            "minInitialValue": 11.0,
+            "maxInitialValue": 16.0,
+            "minThresholdValue": 11.0,
+            "maxThresholdValue": 32.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 4.0
+          },
+          "radius": {
+            "minInitialValue": 2.0,
+            "maxInitialValue": 4.0,
+            "minThresholdValue": 4.0,
+            "maxThresholdValue": 10.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          }
+        }
+      },
+      "stellar_ascension": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 5,
+        "stats": {
+          "duration": {
+            "minInitialValue": 6.0,
+            "maxInitialValue": 8.0,
+            "minThresholdValue": 6.0,
+            "maxThresholdValue": 20.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 2.4
+          }
+        }
+      },
+      "stellar_shower": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 5,
+        "stats": {
+          "duration": {
+            "minInitialValue": 11.0,
+            "maxInitialValue": 16.0,
+            "minThresholdValue": 11.0,
+            "maxThresholdValue": 32.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 4.0
+          },
+          "heal": {
+            "minInitialValue": 2.0,
+            "maxInitialValue": 3.0,
+            "minThresholdValue": 2.0,
+            "maxThresholdValue": 10.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.4
+          },
+          "radius": {
+            "minInitialValue": 4.0,
+            "maxInitialValue": 5.0,
+            "minThresholdValue": 4.0,
+            "maxThresholdValue": 20.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 3.0
+          },
+          "dmg": {
+            "minInitialValue": 6.0,
+            "maxInitialValue": 8.0,
+            "minThresholdValue": 6.0,
+            "maxThresholdValue": 13.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 20,
+    "step": 100
+  },
+  "loot": {
+    "entries": {
+      "[\\w]+:chests\\/[\\w_\\/]*(frosz?|taiga|cold|winter|snow|icey?|glac)[\\w_\\/]*": 0.025,
+      "minecraft:chests/village/village_fletcher": 0.025,
+      "[\\w]+:chests\\/[\\w_\\/]*legendary[\\w_\\/]*": 0.075,
+      "minecraft:chests/igloo_chest": 0.025
+    }
+  }
+}

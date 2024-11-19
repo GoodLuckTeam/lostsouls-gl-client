@@ -1,0 +1,15 @@
+{
+    "name": "Зловещее Око",
+    "icon": "endrem:evil_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Священный талисман, который, как говорят, защищает своего владельца от неудач."
+        },
+        {
+            "type": "text",
+            "text": "Зловещее око можно купить у крестьянина священника."
+        }
+    ]
+}

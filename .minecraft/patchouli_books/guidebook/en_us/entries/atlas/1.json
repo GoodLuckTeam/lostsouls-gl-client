@@ -1,0 +1,20 @@
+{
+    "name": "Атлас",
+    "icon": "minecraft:book",
+    "category": "patchouli:atlas_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Что такое атлас? Атлас это карта всех исследованных вами территории. Он является заменой миникарты на нашем проекте. В атласе можно ставить и давать названия своим меткам. Создается при помощи книги и компаса."
+        },
+        {
+            "type": "image",
+            "text": "",
+            "title": "",
+            "border": true,
+            "images": [
+                "patchouli:atlas.png"
+            ]
+        }
+    ]
+}

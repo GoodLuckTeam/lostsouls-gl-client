@@ -1,0 +1,15 @@
+{
+    "name": "Око Иссушителя",
+    "icon": "endrem:wither_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Стало свидетелем разрушения. Может быть, он также стал свидетелем исчезновения ваших вещей."
+        },
+        {
+            "type": "text",
+            "text": "Магическое око можно получить победив иссушителя."
+        }
+    ]
+}

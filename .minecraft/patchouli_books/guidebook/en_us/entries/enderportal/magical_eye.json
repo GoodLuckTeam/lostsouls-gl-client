@@ -1,0 +1,15 @@
+{
+    "name": "Магическое Око",
+    "icon": "endrem:magical_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Без этого ока у Вызывателя нет силы."
+        },
+        {
+            "type": "text",
+            "text": "Магическое око можно получить победив Игниса."
+        }
+    ]
+}

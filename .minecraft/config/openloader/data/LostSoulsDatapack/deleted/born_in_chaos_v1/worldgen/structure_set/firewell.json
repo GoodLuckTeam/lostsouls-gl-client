@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "born_in_chaos_v1:firewell",
+      "weight": 0
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 33,
+    "separation": 2,
+    "salt": 2021465820
+  }
+}

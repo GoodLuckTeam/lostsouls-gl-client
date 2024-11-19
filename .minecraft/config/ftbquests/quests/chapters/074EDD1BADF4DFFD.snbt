@@ -1,0 +1,1115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "074EDD1BADF4DFFD"
+	group: "5EB751CA5EA0FA30"
+	icon: "call_of_yucutan:warrior_helmet"
+	id: "074EDD1BADF4DFFD"
+	images: [
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/mayan_calendar_awake"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_amulet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/fist_of_doom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/fragments_of_death"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/mystic_vine"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/sentient_vine"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/hanging_vine_hook"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/hurucan_mask"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/warrior_mask"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/monkey_mask"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.3d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/music_disc_awakening"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/music_disc_xibalba"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/mangrove_leaves_bushy_inventory"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/blowgun"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/obsidian_arrow_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 3.3d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/obsidian_tecpatl"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/obsidian_spear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/silex_tecpatl"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/flint_spear"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/wooden_tecpatl"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/wooden_spear"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/mangrove_leaves_bushy_inventory"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/chili_pepper"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.1d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/jade_shovel"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.8d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/ancient_gold_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/hematite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:block/chili_pepper_5"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "call_of_yucutan:item/fragments_of_rebirth"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.5d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["В джунглях вы можете найти древние руины давно забытой цивилизации. Интересно, что же вас там ждёт?"]
+			icon: {
+				Count: 1
+				id: "endrem:rogue_eye"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "361850D53F4ABBFC"
+			rewards: [{
+				id: "01BDB20425DFD5F9"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					icon: {
+						Count: 1
+						id: "call_of_yucutan:fist_of_doom"
+						tag: { }
+					}
+					id: "0A3A7669C6F50605"
+					structure: "call_of_yucutan:deadly_crypt"
+					type: "structure"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "call_of_yucutan:wand_of_radiance"
+						tag: { }
+					}
+					id: "57D6045A192A4C2A"
+					structure: "call_of_yucutan:overgrown_temple"
+					type: "structure"
+				}
+			]
+			title: "Древние руины"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["361850D53F4ABBFC"]
+			description: ["Зловещий дух, которому поклонялась древняя цивилизация."]
+			id: "06E2585918DA76CC"
+			rewards: [{
+				id: "5AEE47E499BEB4EB"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "52101C82751A398C"
+				item: "call_of_yucutan:ah_puch_idol"
+				type: "item"
+			}]
+			title: "Ах Пуч"
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["361850D53F4ABBFC"]
+			description: ["Древний бог, которому совершались жертвоприножения."]
+			id: "56BC98570E0521CA"
+			rewards: [{
+				id: "0AFBC934AC5B35EF"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "6D5C66A091AC6490"
+				item: "call_of_yucutan:kukulkan_idol"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["361850D53F4ABBFC"]
+			description: ["Новая руда, из которой можно сделать много интересных вещей."]
+			id: "1ABF98A309F62B97"
+			rewards: [{
+				id: "74D867D520A35E58"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 16L
+				id: "0953F22065A8DA6B"
+				item: { Count: 16, id: "call_of_yucutan:jade" }
+				type: "item"
+			}]
+			title: "Жадеит"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1ABF98A309F62B97"]
+			description: ["Полный комплект жадеитовой брони даёт вам иммунитет к иссушению и отравлению."]
+			id: "21956A506B8C3222"
+			rewards: [{
+				id: "13170DAF10658F97"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "682ECB31ABFA79B8"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:jades_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1ABF98A309F62B97"]
+			description: ["Полный комплект жадеитовой брони даёт вам иммунитет к иссушению и отравлению."]
+			id: "3C726B83F3C081A3"
+			rewards: [{
+				id: "1516C0B7EB4506AD"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "333D219DF5FF8192"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:jades_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1ABF98A309F62B97"]
+			description: ["Полный комплект жадеитовой брони даёт вам иммунитет к иссушению и отравлению."]
+			id: "3D137B70687E16CE"
+			rewards: [{
+				id: "5FF75C610E73A3D6"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "0A08C445CFDFCF34"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:jades_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1ABF98A309F62B97"]
+			description: ["Полный комплект жадеитовой брони даёт вам иммунитет к иссушению и отравлению."]
+			id: "6C74C13B4BFC6449"
+			rewards: [{
+				id: "3797526AFAC34A97"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "5B710862F208663C"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:jades_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1ABF98A309F62B97"]
+			description: ["Жадеитовые инструменты обладают меньшей дальностью, но довольно эффективны."]
+			icon: {
+				Count: 1
+				id: "call_of_yucutan:jade_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "11A312E979871E9F"
+			rewards: [{
+				id: "43ED3CB83BFAE8D7"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "47EEBD74C1A47CA9"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:jade_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B19596189A26CF3"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:jade_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1DBED3CC1AAC3B15"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:jade_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "115B7C733D71FE02"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:jade_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D5019867C6FA60E"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:jade_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Жадеитовые инструменты"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["06E2585918DA76CC"]
+			description: ["Вещь, необходимая для создания мощных артефактов."]
+			id: "5BE42E42BEE2056A"
+			rewards: [{
+				id: "40716B4F876063AB"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "0FFF11B2DD3B05CA"
+				item: "call_of_yucutan:fragment_of_death"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56BC98570E0521CA"]
+			description: ["Вещь, необходимая для создания мощных артефактов."]
+			id: "5B440808A7611168"
+			rewards: [{
+				id: "749E0E2452C6F0FE"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [{
+				id: "21B7DE755CCA847B"
+				item: "call_of_yucutan:fragment_of_rebirth"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5BE42E42BEE2056A"]
+			id: "5A9105E6A0D9081A"
+			rewards: [{
+				id: "30D64FBA1B838E6E"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "166E6470DBB7EDD8"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:fist_of_doom"
+					tag: {
+						punchCooldown: 400.0d
+						soundToggle: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5B440808A7611168"]
+			description: ["Очень мощный артефакт, впитавший в себя силу солнечного света."]
+			id: "10CC4A99207BC3B1"
+			rewards: [{
+				id: "3C34806DB6D76D73"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "1298583C2E626617"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:wand_of_radiance"
+					tag: {
+						rayCooldown: 400.0d
+						soundToggle: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["56BC98570E0521CA"]
+			description: ["Материалы, которые древняя цивилизация использовала для создания невероятных вещей."]
+			icon: "call_of_yucutan:ancient_gold_ingot"
+			id: "5EA6969A17770B85"
+			rewards: [{
+				id: "24188C631CD34F85"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "44F3EEFB490E8DDB"
+					item: { Count: 16, id: "call_of_yucutan:ancient_gold_ingot" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "5B4BA8275D03B898"
+					item: { Count: 16, id: "call_of_yucutan:hematite" }
+					type: "item"
+				}
+			]
+			title: "Древние материалы"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5EA6969A17770B85"]
+			description: ["Самый первый календарь в мире."]
+			id: "3990969E1F150D71"
+			rewards: [{
+				id: "5D30F898225C0936"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6B44FF357229C1F2"
+				item: "call_of_yucutan:mayan_calendar"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5EA6969A17770B85"]
+			description: ["Эти блоки предназначены для создания и перенапраления солнечных лучей."]
+			icon: "call_of_yucutan:solar_projector"
+			id: "34469135915B4F29"
+			rewards: [{
+				id: "7E5865A8C5264EEF"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "4B25E7C3781DA5EE"
+					item: "call_of_yucutan:solar_projector"
+					type: "item"
+				}
+				{
+					id: "351EE6CE47B9910D"
+					item: "call_of_yucutan:reflector"
+					type: "item"
+				}
+				{
+					id: "5A17AC1F67C195CA"
+					item: "call_of_yucutan:hematite_block"
+					type: "item"
+				}
+			]
+			title: "Энергия солнца"
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3990969E1F150D71"]
+			description: ["Вершина древнего искусства."]
+			icon: "call_of_yucutan:jade_amulet"
+			id: "7308C653CEC358E8"
+			rewards: [{
+				id: "217A0197BFF37B18"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "67ADB737FBE7FCF9"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:hematite_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "727C7C8A99D82F68"
+					item: "call_of_yucutan:jade_amulet"
+					type: "item"
+				}
+			]
+			title: "Древние технологии"
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["361850D53F4ABBFC"]
+			description: ["Древнеее оружие из обсидиана."]
+			id: "4AFB9C6DE4FA4EE5"
+			rewards: [{
+				id: "05F1E3C5D03C30AC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "47E6D459534AE4A1"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:macuahuitl"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4AFB9C6DE4FA4EE5"]
+			description: ["Примитивное оружие из дерева."]
+			icon: {
+				Count: 1
+				id: "call_of_yucutan:wooden_tecpatl"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7793770F8AF1D029"
+			rewards: [{
+				id: "1F7402638F8C32A2"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "1C85373074DDD12D"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:wooden_tecpatl"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C725B367215A457"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:wooden_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4AFB9C6DE4FA4EE5"]
+			description: ["Более эффективные в отличие от своих деревянных аналогов."]
+			icon: {
+				Count: 1
+				id: "call_of_yucutan:silex_tecpatl"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2C3FAA320C2B3023"
+			rewards: [{
+				id: "6F10F90442683B57"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "702F002193E6C3BF"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:silex_tecpatl"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06A8E924F96EB851"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:flint_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4AFB9C6DE4FA4EE5"]
+			description: ["Оружие, созданное из обсидиана. Крайне острое, так что будьте осторожны."]
+			icon: {
+				Count: 1
+				id: "call_of_yucutan:obsidian_tecpatl"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0EB06F42B423E7C9"
+			rewards: [{
+				id: "68B712F4E3C3F25D"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [
+				{
+					id: "5A2F1E5F75F95FE1"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:obsidian_tecpatl"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "288D03C83CE6305E"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:obsidian_spear"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4AFB9C6DE4FA4EE5"]
+			description: ["Духовая трубка - вещь, созданная для тихих и скрытных убийств."]
+			icon: {
+				Count: 1
+				id: "call_of_yucutan:blow_gun"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3CEF0D11722CB1F8"
+			rewards: [{
+				id: "03DBF773E0AB994E"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "106132FFA956E8DC"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:blow_gun"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "00D9E52CEB5D2E00"
+					item: { Count: 16, id: "call_of_yucutan:obsidian_arrow" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "16966A220FA05041"
+					item: { Count: 16, id: "call_of_yucutan:poisonous_dart" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4AFB9C6DE4FA4EE5"]
+			description: ["Когда-то перец Чили добавляли в смесь, которая позже была названа шоколадом."]
+			icon: "call_of_yucutan:chili_pepper"
+			id: "5D8C57A4653A017A"
+			rewards: [{
+				id: "44EEC323572BA388"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "6F1715CACBEBE246"
+					item: "call_of_yucutan:chili_pepper_seeds"
+					type: "item"
+				}
+				{
+					id: "59BB8A1FDA265A4E"
+					item: "call_of_yucutan:chili_pepper"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "52641CB8F4521A86"
+					item: { Count: 3, id: "call_of_yucutan:xocolatl" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			description: ["Древние маски, сделанные в честь различных существ."]
+			id: "79B83B3186F38ABA"
+			rewards: [{
+				id: "2274A4656701B8FC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4C0266329D0EA729"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:warrior_helmet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			description: ["Древние маски, сделанные в честь различных существ."]
+			id: "5217B0133E5971BC"
+			rewards: [{
+				id: "71726A2D6B1189E3"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4001E5A0D86B9AA2"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:huracan_helmet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			description: ["Древние маски, сделанные в честь различных существ."]
+			id: "17284733AFCACAA2"
+			rewards: [{
+				id: "3C1C3956A803E391"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "2549BB2E4E5E47CF"
+				item: {
+					Count: 1
+					id: "call_of_yucutan:monkey_helmet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			description: ["На них записана музыка давно прошедших эпох."]
+			icon: "call_of_yucutan:music_disc_awakening"
+			id: "2775642CFD3183EA"
+			rewards: [{
+				id: "22AAA7DE345D7B8B"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					id: "78C283D21D2F758C"
+					item: "call_of_yucutan:music_disc_xibalba"
+					type: "item"
+				}
+				{
+					id: "3455BADA5F6AD779"
+					item: "call_of_yucutan:music_disc_awakening"
+					type: "item"
+				}
+			]
+			title: "Древние пластинки"
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["06E2585918DA76CC"]
+			description: ["А они необычно прочные для лиан..."]
+			id: "1D245ACAD2FF2054"
+			rewards: [{
+				id: "2E4103C1B7E9F774"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				count: 3L
+				id: "153D6582814F0FEF"
+				item: { Count: 3, id: "call_of_yucutan:mystic_vine" }
+				type: "item"
+			}]
+			title: "Мистические лианы"
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1D245ACAD2FF2054"]
+			description: ["Полезные инструменты, созданные по давно утерянной технологии."]
+			icon: {
+				Count: 1
+				id: "call_of_yucutan:sentient_vine"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5A124EAF955DBC01"
+			rewards: [{
+				id: "5C4D1F1F866F59B8"
+				type: "xp"
+				xp: 650
+			}]
+			tasks: [
+				{
+					id: "2F6746C29C2030BE"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:hanging_vine_hook"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7FA39B2E5DB1B945"
+					item: {
+						Count: 1
+						id: "call_of_yucutan:sentient_vine"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Забытые инструменты"
+			x: -7.5d
+			y: 0.5d
+		}
+	]
+	title: "&d6.8&r: &lДревние джунгли"
+}

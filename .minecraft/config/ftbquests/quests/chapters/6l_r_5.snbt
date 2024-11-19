@@ -1,0 +1,2009 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6l_r_5"
+	group: "50EFD5363B6B9FFE"
+	icon: {
+		Count: 1
+		id: "epicsamurai:red_samurai_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "5D168B290BC76106"
+	images: [
+		{
+			height: 1.0d
+			image: "epicsamurai:item/ruby_old"
+			rotation: -20.0d
+			width: 1.0d
+			x: 0.2500000000000213d
+			y: -2.0119047619047663d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/emerald_stoneplate_ring"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.3261904761904546d
+			y: -0.9214285714285708d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/deathworm_chitin_white"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.730952380952381d
+			y: 1.1357142857142861d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			height: 5.0d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/blaze_spell_book"
+			rotation: 10.0d
+			width: 1.0d
+			x: 2.6714285714285424d
+			y: -2.86836734693874d
+		}
+		{
+			height: 1.0d
+			image: "seadwellers:item/aquamarine"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.448299319727873d
+			y: -3.9979591836734443d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/iron_spell_book"
+			rotation: -10.0d
+			width: 1.0d
+			x: 5.492857142857119d
+			y: -1.6540816326530248d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/magical_eye"
+			rotation: 40.0d
+			width: 1.0d
+			x: 5.2785714285713965d
+			y: -2.9397959183673166d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "epicsamurai:item/ruby_old"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.49285714285714d
+			y: 2.3102040816326834d
+		}
+		{
+			height: 1.0d
+			image: "biomesoplenty:block/flowering_oak_sapling"
+			rotation: 45.0d
+			width: 1.0d
+			x: 4.635714285714293d
+			y: 3.488775510204114d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/accessories/netherite_gloves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.428571428571438d
+			y: 1.1714285714285708d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&dНефрит&r - Драгоценный камень зелёного цвета. Он считается улучшенной копией изумрудов, но обладает большой магической силой."]
+			hide: true
+			id: "62F4248CBD599FAF"
+			rewards: [{
+				id: "2D173F8C48A4BBF2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "55A8E82D2783EA17"
+				item: "epicsamurai:jade"
+				title: "Нефрит"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: ["&dАквамарин&r - Древний кусок льда, который из-за длительного нахождения в очень холодных условиях превратился в камень, получив волшебные свойства."]
+			hide: true
+			id: "3973B48BAB322619"
+			rewards: [{
+				id: "172D8B29C84A779B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "62FFFED483D34050"
+				item: "epicsamurai:aquamarine"
+				title: "Аквамарин"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: ["&dРубин&r - Драгоценный камень алового цвета. Он владеет большой твёрдостью."]
+			hide: true
+			id: "063492B4C1EB30A9"
+			rewards: [{
+				id: "078404AD06491191"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1594F9A2FC58F6A5"
+				item: "epicsamurai:ruby"
+				title: "Рубин"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			description: ["&dОникс&r - Самый древний и загадочный камень из всех. Никто не знает его происхождения..."]
+			hide: true
+			id: "33618AAEC2F4C634"
+			rewards: [{
+				id: "742068B4C4D14C7B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6010D2B710C04F97"
+				item: "epicsamurai:onyx"
+				title: "Оникс"
+				type: "item"
+			}]
+			title: "Оникс"
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			description: ["Создайте сталь в миксере из Create"]
+			hide: true
+			id: "0426BAB752452394"
+			rewards: [{
+				id: "330728B3D0A62341"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				id: "2085E5CE95EA9835"
+				item: "epicsamurai:steel_ingot"
+				title: "Стальной слиток"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте Катану, это одно из прочнейших оружий самурая"]
+			id: "7A65D895EEEFBD75"
+			rewards: [{
+				id: "362A9DF0A2DFBB34"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			subtitle: "Леонардо?"
+			tasks: [{
+				id: "135D0956B9793746"
+				item: {
+					Count: 1
+					id: "epicsamurai:katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте одно из незаменимых метательных оружий самурая Кунай"]
+			id: "490213E075212897"
+			rewards: [{
+				id: "29641904B23A6401"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2606C5389D11ED75"
+				item: {
+					Count: 1
+					id: "epicsamurai:kunai"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте Оружие которое подойдет начинающему Самураю"]
+			id: "7A690DACAC189949"
+			rewards: [
+				{
+					id: "74E04649B6B7723E"
+					item: {
+						Count: 1
+						id: "epicsamurai:kama"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03388240EF835D9D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "79762CE1C36EA920"
+				item: {
+					Count: 1
+					id: "epicsamurai:kama"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте Сай чтобы стать одним из Черепашек ниндзя"]
+			id: "40E5E6DFAD3CEF72"
+			rewards: [
+				{
+					id: "12BED9C3EE33F999"
+					item: {
+						Count: 1
+						id: "epicsamurai:sai"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32D764F59F7B57F5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			subtitle: "Рафаэль?"
+			tasks: [{
+				id: "7BDFE662CD88795F"
+				item: {
+					Count: 1
+					id: "epicsamurai:sai"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте одно из незаменимых орудий Самурая"]
+			id: "323DD7AD5AEBC7FC"
+			rewards: [
+				{
+					count: 6
+					id: "133B05B1B183ADFA"
+					item: "epicsamurai:shuriken"
+					type: "item"
+				}
+				{
+					id: "1A18F0B8EAE5B2AC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "4A5A8822888E946C"
+				item: "epicsamurai:shuriken"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"063492B4C1EB30A9"
+				"62F4248CBD599FAF"
+				"3973B48BAB322619"
+				"33618AAEC2F4C634"
+			]
+			description: ["Броня самурая очень практична. Она прочна, красива и удобна. В неё вставляются красивые камни создавая впечатление, что перед вами самый красивый воин мира."]
+			icon: {
+				Count: 1
+				id: "epicsamurai:straw_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "12D1D7399337C13C"
+			rewards: [{
+				id: "34572A4DEDF57FE8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.1d
+			tasks: [{
+				id: "359028E831A4286E"
+				title: "Броня Самурая"
+				type: "checkmark"
+			}]
+			x: 1.6500000000000001d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Если вы брезгливый Самурай тогда создайте Камаяри"]
+			id: "21836290F8BF394B"
+			rewards: [{
+				id: "363551CD9C349F13"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0FB50E67F9E40001"
+				item: {
+					Count: 1
+					id: "epicsamurai:kamayari"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте одну из версий Катаны это Вакидзаси"]
+			id: "235945CD9C086E6A"
+			rewards: [{
+				id: "467207E0229C7C48"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1B8F2D5723A29A04"
+				item: {
+					Count: 1
+					id: "epicsamurai:wakizashi"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Если вы брезгливый Самурай тогда создайте Нагинату"]
+			id: "7614D4ECE33EA278"
+			rewards: [{
+				id: "44621B658BAB7E81"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "511B43DF055E85E3"
+				item: {
+					Count: 1
+					id: "epicsamurai:naginata"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте оружие которое станет продолжением вашей руки"]
+			id: "5856FC8385A812C0"
+			rewards: [{
+				id: "79CB85EE6057603A"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "19908576578D248C"
+				item: {
+					Count: 1
+					id: "epicsamurai:shuko"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Создайте мошное оружие которое будет крушить черепушки сушеств что станут у вас на пути"]
+			id: "21891DD9502DE96F"
+			rewards: [{
+				id: "6DA54E683051F83C"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4590D740E879C48C"
+				item: {
+					Count: 1
+					id: "epicsamurai:tetsubo"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Улучшите Катану, зделав её прочнее и длинее"]
+			id: "663F97FCC0CF45A2"
+			rewards: [{
+				id: "54013D97E920A19B"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "668A07B111ED3BDA"
+				item: {
+					Count: 1
+					id: "epicsamurai:odachi"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0426BAB752452394"]
+			description: ["Если вы брезгливый Самурай тогда создайте Тонбукири"]
+			id: "033EE268A945F840"
+			rewards: [{
+				id: "090D2F8463484ACF"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2248D7E67BCD0AD5"
+				item: {
+					Count: 1
+					id: "epicsamurai:tonbukiri"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			description: ["Подожгите &o&bпламенем Ониби&r&r &4незеритовую катану&r на кузнечном столе"]
+			id: "795C663EAC9E39F7"
+			rewards: [{
+				id: "1063CCBE760162AC"
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			subtitle: "Сильнейшие оружия самурая"
+			tasks: [{
+				id: "62AF53C8C0B6A6EF"
+				item: {
+					Count: 1
+					id: "epicsamurai:katana_kitsune_blue"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			description: ["На кузнечном столе расплавте &o&6рог Они&r&r и окуните в него &4незеритовую катану&r"]
+			id: "29A897266248E8E8"
+			rewards: [{
+				id: "6D8354F3200713A6"
+				item: "epicsamurai:oni_mask"
+				type: "item"
+			}]
+			shape: "diamond"
+			subtitle: "Сильнейшие оружия самурая"
+			tasks: [{
+				id: "322903176A7ED1F6"
+				item: {
+					Count: 1
+					id: "epicsamurai:katana_oni"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			description: ["Облейте на кузнечном столе &4Незеритовую катану&r кровью из &o&bхвоста кицуне&r&r"]
+			id: "7D443DE7FCC47512"
+			rewards: [
+				{
+					id: "3701CAF94C31F587"
+					item: "epicsamurai:kitsune_mask"
+					type: "item"
+				}
+				{
+					id: "0A7F66C444738CB9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "diamond"
+			subtitle: "Сильнейшие оружия самурая"
+			tasks: [{
+				id: "702B187D3C38362B"
+				item: {
+					Count: 1
+					id: "epicsamurai:katana_kitsune"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			description: ["На кузнечном столе облейте &o&4Незеритовую катану&r&r кислотой из &aязыка Аканаме&r"]
+			id: "080A50CBE120A77F"
+			rewards: [{
+				id: "609D78862DBE604A"
+				type: "xp"
+				xp: 400
+			}]
+			shape: "diamond"
+			subtitle: "Сильнейшие оружия самурая"
+			tasks: [{
+				id: "0FCB59A898C7646C"
+				item: {
+					Count: 1
+					id: "epicsamurai:katana_akaname"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			description: ["На кузечном столе по &o&4Незеритовой катане&r&r размажте &5глаз Джорогумо&r"]
+			id: "2F0E8A4BB2C7CFD0"
+			rewards: [
+				{
+					id: "7C96CB20E5311B3A"
+					item: {
+						Count: 1
+						id: "epicsamurai:straw_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78558EE311B08C8D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "diamond"
+			subtitle: "Сильнейшие оружия самурая"
+			tasks: [{
+				id: "32F86BFF9B53FF37"
+				item: {
+					Count: 1
+					id: "epicsamurai:katana_jorogumo"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая."]
+			id: "4F61F6092A425937"
+			rewards: [{
+				id: "10058808377A8E7D"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "009FDDB6259F104F"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67CF4BFBA9E869FD"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79374D8657ACE673"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49E0029AD36889B7"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Железная броня самурая"
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "1B6B8031FD81977F"
+			rewards: [{
+				id: "095F965E9E6BF307"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "2AC341CD52F057F3"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69E8BE36EDD9BE8F"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15C8707533F0831B"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35F8897434690C0C"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Легкая железная броня"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "4E3D2F96BA72979B"
+			rewards: [{
+				id: "0268DE7C8D87681C"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "1037007AD63AB689"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F1A59F46F55401C"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "655E2937EF4177DF"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32FC44C9BD6C42F1"
+					item: {
+						Count: 1
+						id: "epicsamurai:iron_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Железная броня мастера-самурая"
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			id: "2BB6D403BEA1A1FE"
+			rewards: [{
+				id: "671B5C5E007FB2FB"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "5577F11F5E182031"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7699BAE74A0B5376"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F133CE1C88544F2"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6EE9D88DCC47E8C2"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Серебряная броня самурая"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "40838148F39AE160"
+			rewards: [{
+				id: "7FF6982A9C280C1D"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "50CBB30B56B9B658"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D457048919CC100"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A22E9B1810E288E"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3BB62CB823D28EDA"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Лёгкая серебряная броня"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "3D938599238F6267"
+			rewards: [{
+				id: "3D38FD2A9C7F3534"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "3D2B0A3597C41C86"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0498EE86F41E130A"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3510B17DF790A40A"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6257C68282906EA8"
+					item: {
+						Count: 1
+						id: "epicsamurai:white_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Серебряная броня мастера-самурая"
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			id: "2D20F93DDDFC311B"
+			rewards: [{
+				id: "744AD01E38D2FCD6"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "5A3B32441827A7FC"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "05673B8F2A65C419"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D189409C29B7A40"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59E703DBC99BC9ED"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Золотая броня самурая"
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "2D83C1C2E374A49E"
+			rewards: [{
+				id: "210D0CF17D7B83D5"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "395A4CB4CEA24192"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B55AB7970A258F7"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3002D9F802A320E7"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7166BAB5120F9990"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Лёгкая золотая броня"
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "5B39D459AF299BA1"
+			rewards: [{
+				id: "0F44843020696B8A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "61C2F8581EB1FE0A"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68F84281B44BED6A"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D676D90A592A45A"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "154A87DE77DE7656"
+					item: {
+						Count: 1
+						id: "epicsamurai:gold_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Золотая броня мастера-самурая"
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			id: "7BE1C17A1B3B333A"
+			rewards: [{
+				id: "66C79D2A0D79980C"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "0D18855F41173EB2"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2BD98505C707D0C2"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F5B8728EF0279FB"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C29B0ACBDB793B4"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Алмазная броня самурая"
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "4EEB3EAEBFF8F409"
+			rewards: [{
+				id: "0DF5AA841132417A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "0D89BE8E0957A926"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22EA4D04AF99F116"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "019574B799B84FDB"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F962DA265D8C6C3"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Лёгкая алмазная броня"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "4143254B8FA9EF0B"
+			rewards: [{
+				id: "490040F9757924AA"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "788A6110D7EDBF87"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71DA18F596FD06B3"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "33366C628539E65F"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "753EE5B24EC1CBC4"
+					item: {
+						Count: 1
+						id: "epicsamurai:diamond_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Алмазная броня мастера-самурая"
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			id: "77847EED4EF83ECF"
+			rewards: [{
+				id: "052932228A22C318"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "507A23E359522BF7"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B477B2453D83DE0"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31199419C4ADA8D7"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "705FB505D473041D"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Незеритовая броня самурая"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "68BB0808D6368179"
+			rewards: [{
+				id: "37DC33FD58E4ABB5"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "409D266FFBED29A7"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_helmet_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "734382389C9437F4"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_chestplate_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7BE726E1123831AB"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_leggings_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7C1029FDA7F03E0C"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_boots_light"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Лёгкая незеритовая броня"
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "53C16D4E63F0ECE2"
+			rewards: [{
+				id: "6DEF74C03FA9B168"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "6F9F715DD7133389"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_helmet_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "163D160D50A31384"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_chestplate_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1FD0AFD95295E63B"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_leggings_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52FE2B4128B3C0F5"
+					item: {
+						Count: 1
+						id: "epicsamurai:netherite_samurai_boots_master"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Незеритовая броня мастера-самурая"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			id: "01FD9BBD6C269B18"
+			rewards: [{
+				id: "7BBF7CAD66B0388A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "1A81B22BF446E7BF"
+					item: {
+						Count: 1
+						id: "epicsamurai:red_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52854A878C700F03"
+					item: {
+						Count: 1
+						id: "epicsamurai:red_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "597C54BB0061F69A"
+					item: {
+						Count: 1
+						id: "epicsamurai:red_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3064D61B19D79B84"
+					item: {
+						Count: 1
+						id: "epicsamurai:red_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Рубиновая броня самурая"
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "63D4D04EB6870DE0"
+			rewards: [{
+				id: "1529174B219A6D3B"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "0A461B9692DC97AB"
+					item: {
+						Count: 1
+						id: "epicsamurai:amethyst_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "304D3C583AEB5485"
+					item: {
+						Count: 1
+						id: "epicsamurai:amethyst_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A46A1AF5043FC93"
+					item: {
+						Count: 1
+						id: "epicsamurai:amethyst_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62728DAAF8E6D1A1"
+					item: {
+						Count: 1
+						id: "epicsamurai:amethyst_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Аметистовая броня самурая"
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "69EB50B1B81F28B7"
+			rewards: [{
+				id: "5CC13409896E1166"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "5DF1F3F04FCF65C6"
+					item: {
+						Count: 1
+						id: "epicsamurai:quartz_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5638475DFCEAB9C6"
+					item: {
+						Count: 1
+						id: "epicsamurai:quartz_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C3F3191EA6DDAAA"
+					item: {
+						Count: 1
+						id: "epicsamurai:quartz_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "481CFA980DB100B5"
+					item: {
+						Count: 1
+						id: "epicsamurai:quartz_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Кварцевая броня самурая"
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "354F72014D820CD1"
+			rewards: [{
+				id: "6AD11ED44F5114C7"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "5ED8861B61A10BA9"
+					item: {
+						Count: 1
+						id: "epicsamurai:blue_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DB0D2D9520A2DDF"
+					item: {
+						Count: 1
+						id: "epicsamurai:blue_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "729135EE22E54646"
+					item: {
+						Count: 1
+						id: "epicsamurai:blue_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15898DF80A4A211C"
+					item: {
+						Count: 1
+						id: "epicsamurai:blue_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Аквамариновая броня самурая"
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "4B5544A9991BBE3C"
+			rewards: [{
+				id: "69962FF59CF48E30"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "303B7197153BB759"
+					item: {
+						Count: 1
+						id: "epicsamurai:green_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62DBBC43F1D18960"
+					item: {
+						Count: 1
+						id: "epicsamurai:green_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7ACCB5BED04DD097"
+					item: {
+						Count: 1
+						id: "epicsamurai:green_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "56C97D1939C9CE64"
+					item: {
+						Count: 1
+						id: "epicsamurai:green_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Нефритовая броня самурая"
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["12D1D7399337C13C"]
+			description: ["Создайте броню самурая"]
+			hide_dependency_lines: true
+			id: "60235356C10C1126"
+			rewards: [{
+				id: "6FEEBE538A36AF5A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "35AB31ED3733240D"
+					item: {
+						Count: 1
+						id: "epicsamurai:gray_samurai_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "19AD483DE76AA8BB"
+					item: {
+						Count: 1
+						id: "epicsamurai:gray_samurai_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "59B5D0408F3651ED"
+					item: {
+						Count: 1
+						id: "epicsamurai:gray_samurai_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54B791E88DEF69A1"
+					item: {
+						Count: 1
+						id: "epicsamurai:gray_samurai_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ониксовая броня самурая"
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+	title: "&d5.5&r: &lПуть Самурая"
+}

@@ -1,0 +1,45 @@
+{
+  "ability": {
+    "abilities": {
+      "compass": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 0,
+        "stats": {}
+      },
+      "instant_return": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 4,
+        "stats": {
+          "delay": {
+            "minInitialValue": 10.0,
+            "maxInitialValue": 5.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "MULTIPLY_TOTAL",
+            "upgradeModifier": -0.5
+          }
+        }
+      },
+      "set_beacon": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 0,
+        "stats": {}
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  },
+  "loot": {
+    "entries": {
+      "[\\w]+:chests\\/[\\w_\\/]*legendary[\\w_\\/]*": 0.075,
+      "[\\w]+:chests\\/[\\w_\\/]*rare[\\w_\\/]*": 0.075,
+      "[\\w]+:chests\\/[\\w_\\/]*(end|warp)[\\w_\\/]*": 0.025
+    }
+  }
+}

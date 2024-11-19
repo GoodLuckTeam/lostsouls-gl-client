@@ -1,0 +1,15 @@
+{
+    "name": "Чёрное Око",
+    "icon": "endrem:black_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Пираты говорят, что это око дало им возможность увидеть легендаруню Черную жемчужину."
+        },
+        {
+            "type": "text",
+            "text": "Чёрное око можно получть победив Хранителя древнего города."
+        }
+    ]
+}

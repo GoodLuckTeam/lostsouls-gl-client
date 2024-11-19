@@ -1,0 +1,827 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d55"
+	group: "5EB751CA5EA0FA30"
+	icon: "mowziesmobs:wrought_helmet"
+	id: "53D390B04F8A5C51"
+	images: [
+		{
+			height: 1.0d
+			image: "iceandfire:item/armor_silver_metal_chestplate"
+			rotation: -20.0d
+			width: 1.0d
+			x: -2.357142857142854d
+			y: -1.9214285714285815d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7448979591836888d
+			y: -2.0234693877551138d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/sculptor_staff_icon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.051020408163275d
+			y: -0.288775510204097d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/sculptor_staff_icon"
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.051020408163268d
+			y: -0.30918367346940556d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:textures/mob_effect/sunblock.png"
+			rotation: 50.0d
+			width: 1.0d
+			x: 1.2619047619047734d
+			y: 1.1668367346938666d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/ice_dragon_heart"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.928571428571452d
+			y: -1.9214285714285815d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/dragonsteel_ice_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.112244897959208d
+			y: -0.4112244897959272d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:textures/entity/sunbird_shine.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.4761904761904603d
+			y: 1.1668367346938666d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/globes/globe_sun"
+			rotation: 40.0d
+			width: 1.0d
+			x: 1.5238095238095397d
+			y: 2.0715986394557717d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/grant_suns_blessing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.4210854715202004E-14d
+			y: 1.0954081632652972d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/grant_suns_blessing"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			height: 1.5d
+			image: "mowziesmobs:textures/particle/sun.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.1428571428571246d
+			y: 2.928741496598626d
+		}
+		{
+			height: 1.5d
+			image: "mowziesmobs:textures/particle/sun.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.285714285714299d
+			y: 2.8573129251700564d
+		}
+		{
+			height: 1.5d
+			image: "mowziesmobs:textures/particle/sun.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.619047619047599d
+			y: 2.238265306122436d
+		}
+		{
+			height: 1.0d
+			image: "ecologics:item/sandcastle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/sand_paper"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.8734693877551223d
+			y: 5.5913265306122355d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: -90.0d
+			width: 1.0d
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/koboleton_bone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/koboleton_bone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/pure_darkness"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.805102040816287d
+			y: 5.662755102040812d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/redstone_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/witherite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.2642857142856627d
+			y: 7.138945578231279d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/witherite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.572448979591897d
+			y: 8.322619047619035d
+		}
+		{
+			height: 1.0d
+			image: "create:item/unprocessed_obsidian_sheet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/cinder_essence"
+			rotation: -40.0d
+			width: 1.0d
+			x: -3.5112244897959783d
+			y: 7.240986394557815d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:textures/particle/em_pulse.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/enderite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.3568027210884921d
+			y: 5.652891156462573d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.5d
+			y: 6.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["В глубоких подземельях существуют древние, каменные комнаты, в которых были запечатаны сильнейшие войны древнего мира. Их называют &6Железными кованными&r."]
+			id: "39138F98B62C2F28"
+			rewards: [{
+				id: "63C74BEA8B999CE8"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: "mowziesmobs:wrought_helmet"
+				id: "0AE9FFA87E41A65D"
+				title: "&6Победите&r: Железного кованного"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["39138F98B62C2F28"]
+			description: ["Победив &6железного кованного&r, вы получите &6молот тысячи металлов&r и &6древний шлем&r самого железного кованного."]
+			id: "0635C71D4F1DC02E"
+			rewards: [{
+				id: "5D40C105A8C986A0"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "1B28A641FD2ADCB6"
+				item: "mowziesmobs:wrought_helmet"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["39138F98B62C2F28"]
+			description: ["Победив &6железного кованного&r, вы получите &6молот тысячи металлов&r и &6древний шлем&r самого железного кованного."]
+			id: "7762780D35BAC37D"
+			rewards: [{
+				id: "1668DB3EE61E7CE6"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "2544174A6E8D492A"
+				item: "mowziesmobs:wrought_axe"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			description: ["В зимних биомах, обитают могучие существа именуемые ледочревами, они обладают древним артефактом - &bкристаллом льда&r. Это делает их невероятно сильными..."]
+			id: "7A7C44AD01530F6A"
+			rewards: [{
+				id: "0ABF2E648CC90C64"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: "mowziesmobs:music_disc_petiole"
+				id: "45AE03122780A1EE"
+				title: "&bПобедите&r: Ледочрева"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A7C44AD01530F6A"]
+			description: ["Победите &bледочрева&r и получите &bкристалл льда&r."]
+			id: "351968986DB34FB7"
+			rewards: [{
+				id: "0C7C1535CC5764E9"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "5F5DACAA1AF5CA5D"
+				item: {
+					Count: 1
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			description: ["В саваннах находится &eплемя солнца&r. В их деревне разбросаны магические маски, а всем племенем управляет их могучий вождь, обладающий &eмагией солнца&r."]
+			id: "5CBAE26863BCF4C0"
+			rewards: [{
+				id: "403DCAF2DD153E16"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: "mowziesmobs:sol_visage"
+				id: "2857FC6C83C2F3D8"
+				title: "&eПобедите&r: Птицу солнца"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CBAE26863BCF4C0"]
+			description: ["Убивая участников племени, вы получите &eмагические маски&r, которые даруют вам &eволшебные эффекты&r."]
+			id: "19C100C53FB5F083"
+			rewards: [{
+				id: "6834726D12228127"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A6E5E2B55F50239"
+				item: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_fury"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5CBAE26863BCF4C0"]
+			description: ["Убивая участников племени, вы получите &eмагические маски&r, которые даруют вам &eволшебные эффекты&r."]
+			id: "75A2690441D03972"
+			rewards: [{
+				id: "2062928846CD9533"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6C8D39D556224E2B"
+				item: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_fear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5CBAE26863BCF4C0"]
+			description: ["Убивая участников племени, вы получите &eмагические маски&r, которые даруют вам &eволшебные эффекты&r."]
+			id: "7B7A68AFE70F43EF"
+			rewards: [{
+				id: "27D3761E326488CB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3C86458039556F36"
+				item: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_rage"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5CBAE26863BCF4C0"]
+			description: ["Убивая участников племени, вы получите &eмагические маски&r, которые даруют вам &eволшебные эффекты&r."]
+			hide_dependency_lines: true
+			id: "26DA11F12092DB64"
+			rewards: [{
+				id: "080D3417F7038D09"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7091FB669830BEBB"
+				item: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_bliss"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5CBAE26863BCF4C0"]
+			description: ["Убивая участников племени, вы получите &eмагические маски&r, которые даруют вам &eволшебные эффекты&r."]
+			hide_dependency_lines: true
+			id: "522B3DD07227D989"
+			rewards: [{
+				id: "69D6961885778CE6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "75FD9F737D059B97"
+				item: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_misery"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5CBAE26863BCF4C0"]
+			description: ["Убивая участников племени, вы получите &eмагические маски&r, которые даруют вам &eволшебные эффекты&r."]
+			hide_dependency_lines: true
+			id: "05395DF6FD9DB026"
+			rewards: [{
+				id: "68BDCDA3235BFA22"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "66C96D7334BCFCEE"
+				item: {
+					Count: 1
+					id: "mowziesmobs:umvuthana_mask_faith"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			description: ["В водах этого мира, находится затопленный город, в котором уже очень давно живёт могущественное существо - &d&lЛевиафан&r."]
+			id: "66C656982568DDDF"
+			rewards: [{
+				id: "71D9F318DB7FE0B7"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				icon: "cataclysm:altar_of_abyss"
+				id: "4C56BC408992A189"
+				structure: "cataclysm:sunken_city"
+				title: "&dПосетите&r: Подводный город"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["66C656982568DDDF"]
+			description: ["Создайте ядро, которое выступит жертвой для бездны и призовёт &dЛевиафана&r."]
+			id: "69578FD021208CC5"
+			rewards: [{
+				id: "6E35BCD07A7B32C7"
+				type: "xp"
+				xp: 2500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "65A4F9475D8BC700"
+				item: "cataclysm:abyssal_sacrifice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["69578FD021208CC5"]
+			description: ["Одолейте &d&lЛевиафана&r и заполучите древний артефакт."]
+			id: "66AB17FEEDE7B50C"
+			rewards: [{
+				id: "1F1A11BEB4BB29D9"
+				type: "xp"
+				xp: 3000
+			}]
+			tasks: [
+				{
+					advancement: "cataclysm:kill_leviathan"
+					criterion: ""
+					icon: "cataclysm:abyss_eye"
+					id: "0ADF59752C1359AA"
+					title: "&dПобедите&r: Левиафана"
+					type: "advancement"
+				}
+				{
+					id: "175041D43BFFDC04"
+					item: "cataclysm:tidal_claws"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			description: ["В подземельях, можно найти древнюю &c&lзаброшенную фабрику&r. Посетите её и узнайте, что-же в ней таится..."]
+			id: "761C9E27035D154D"
+			rewards: [{
+				id: "631F3C3E41FA9081"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				icon: "cataclysm:emp"
+				id: "457A5E78E7E15BA7"
+				structure: "cataclysm:ancient_factory"
+				title: "&cПосетите&r: Древнюю фабрику"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["761C9E27035D154D"]
+			description: ["Оживите &c&lПредвестника&r с помощью звезды незера и победите его!"]
+			id: "022A4085E8DF05F5"
+			rewards: [{
+				id: "55A994ABF8667C4E"
+				type: "xp"
+				xp: 2500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "cataclysm:kill_harbinger"
+				criterion: ""
+				icon: "cataclysm:mech_eye"
+				id: "2DFD8CC011A3C157"
+				title: "&cПобедите&r: Предвестника"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["022A4085E8DF05F5"]
+			description: ["Победив предвестника, вы получите блок визерита, &c&lпеределайте&r его в слитки и создание механическое снаряжение."]
+			id: "6E8E757FF2606CC9"
+			rewards: [{
+				id: "6D4298208BF9586B"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6C8583B95D3FCF57"
+				item: "cataclysm:witherite_ingot"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6E8E757FF2606CC9"]
+			description: ["Создвайте полезные вещи из &c&lВизерита&r."]
+			id: "293C3C757D5A8BBE"
+			rewards: [{
+				id: "20B14B2723522273"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "59D77F20DFCBDD9E"
+				item: "cataclysm:wither_assault_shoulder_weapon"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6E8E757FF2606CC9"]
+			description: ["Создвайте полезные вещи из &c&lВизерита&r."]
+			id: "03D2ED18460758AA"
+			rewards: [{
+				id: "1CD096FDCF2122A9"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "0568CA4318FA1FE8"
+				item: "cataclysm:meat_shredder"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6E8E757FF2606CC9"]
+			description: ["Создвайте полезные вещи из &c&lВизерита&r."]
+			id: "36784AD8C7A9D1F4"
+			rewards: [{
+				id: "10CB7BD89C3B0D6F"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "636EB6190DC8C6A0"
+				item: {
+					Count: 1
+					id: "cataclysm:laser_gatling"
+					tag: {
+						Charged: 0b
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6E8E757FF2606CC9"]
+			description: ["Создвайте полезные вещи из &c&lВизерита&r."]
+			id: "3541B2B36B96C9E1"
+			rewards: [{
+				id: "7EB0C0E4B10A7251"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "04FABC77EE643CC6"
+				item: "cataclysm:mechanical_fusion_anvil"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			description: ["В пустынях найдите &e&lпроклятую пирамиду&r, где вас ждут опасные испытания!"]
+			id: "48D260824FC2917B"
+			rewards: [{
+				id: "108DE1169968797A"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				icon: "cataclysm:music_disc_ancient_remnant"
+				id: "552489E644ED0881"
+				structure: "cataclysm:cursed_pyramid"
+				title: "&eПосетите&r: Проклятую пирамиду"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["48D260824FC2917B"]
+			description: ["Призовите &e&lдревнего ревенанта&r и одолейте его!"]
+			id: "6233C98EB8C754E0"
+			rewards: [{
+				id: "1113C88D0CC9AC47"
+				type: "xp"
+				xp: 2500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				icon: "cataclysm:desert_eye"
+				id: "767A2DCD19DFCFFA"
+				title: "&eПобедите&r: Древнего ревенанта"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6233C98EB8C754E0"]
+			description: ["Убив ревенанта, вы получите слиток &e&lдревнего металла&r, а убив стражников пирамиды, получите &e&lкости&r. Обьеденив эти два материала, вы можете создать снаряжение."]
+			id: "5E01542E6A9F802F"
+			rewards: [{
+				id: "536A04E2FAE0F837"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "34639FD599E36627"
+					item: "cataclysm:ancient_metal_ingot"
+					type: "item"
+				}
+				{
+					id: "110C54E85FFC5EFA"
+					item: "cataclysm:koboleton_bone"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5E01542E6A9F802F"]
+			id: "3FB6A1A32750E29B"
+			rewards: [{
+				id: "3C8778ABA6990BC6"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [{
+				id: "04E3DCD2315309FF"
+				item: {
+					Count: 1
+					id: "cataclysm:bone_reptile_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["5E01542E6A9F802F"]
+			description: ["Создайте &e&lнагрудник&r и &e&lшлем&r из костей и слитков древнего металла."]
+			id: "05FBFF541780508A"
+			rewards: [{
+				id: "4D742FEB54CE62B1"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [{
+				id: "2FE92F8D34A99DB6"
+				item: {
+					Count: 1
+					id: "cataclysm:bone_reptile_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+	]
+	title: "&d6.5&r: &lБоссы"
+}

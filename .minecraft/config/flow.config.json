@@ -1,0 +1,21 @@
+{
+	"easeInType": "easeInOutExpo",
+	"easeInAnimationType": "slideUp",
+	"easeOutType": "easeInOutExpo",
+	"easeOutAnimationType": "slideUp",
+	"easeInDuration": 0.2,
+	"easeOutDuration": 0.2,
+	"disableEaseIn": false,
+	"disableEaseOut": false,
+	"bgColorTint": -16777216,
+	"bgBlurIntensity": 0.6,
+	"disableBgBlur": false,
+	"disableBgTint": false,
+	"disabledScreens": [
+		"com.github.alexmodguy.alexcaves.client.gui.SpelunkeryTableScreen",
+		"com.github.alexmodguy.alexcaves.client.gui.SpelunkeryTableWordButton",
+		"top.theillusivec4.curios.client.gui.CuriosScreen"
+	],
+	"disableCrossInventoryAnimations": false,
+	"disableMouseMovement": false
+}

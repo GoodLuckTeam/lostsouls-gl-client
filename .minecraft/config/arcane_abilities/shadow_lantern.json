@@ -1,0 +1,89 @@
+{
+  "ability": {
+    "abilities": {
+      "dusk_stealth": {
+        "requiredPoints": 2,
+        "requiredLevel": 0,
+        "maxLevel": 4,
+        "stats": {
+          "delay": {
+            "minInitialValue": 32.0,
+            "maxInitialValue": 14.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": -1.0
+          },
+          "light": {
+            "minInitialValue": 3.0,
+            "maxInitialValue": 8.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          },
+          "speed": {
+            "minInitialValue": 0.1,
+            "maxInitialValue": 0.35,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.35
+          }
+        }
+      },
+      "light_beam": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "duration": {
+            "minInitialValue": 4.0,
+            "maxInitialValue": 10.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          },
+          "radius": {
+            "minInitialValue": 7.0,
+            "maxInitialValue": 20.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "MULTIPLY_BASE",
+            "upgradeModifier": 0.5
+          }
+        }
+      },
+      "time_magic": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 10,
+        "stats": {
+          "delay": {
+            "minInitialValue": 30.0,
+            "maxInitialValue": 20.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": -1.0
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 10,
+    "step": 200
+  },
+  "loot": {
+    "entries": {
+      "[\\w]+:chests\\/[\\w_\\/]*(mineshaft|city|stronghold)[\\w_\\/]*": 0.025,
+      "minecraft:chests/woodland_mansion": 0.025,
+      "[\\w]+:chests\\/[\\w_\\/]*(pillag|outpost)[\\w_\\/]*": 0.025,
+      "[\\w]+:chests\\/[\\w_\\/]*legendary[\\w_\\/]*": 0.075,
+      "[\\w]+:chests\\/[\\w_\\/]*rare[\\w_\\/]*": 0.075
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"waterSplash": true,
+	"cascades": false,
+	"waterfallSpray": false,
+	"fireflies": true,
+	"fallingLeaves": true,
+	"caveDust": true,
+	"excludeCaveDust": [
+		"minecraft:lush_caves",
+		"minecraft:dripstone_caves",
+		"minecraft:deep_dark"
+	],
+	"chestBubbles": true,
+	"soulSandBubbles": true,
+	"barrelBubbles": true,
+	"poppingBubbles": true,
+	"rainRipples": true,
+	"waterDripRipples": true,
+	"cakeEatingParticles": true,
+	"emissiveLavaDrips": true
+}

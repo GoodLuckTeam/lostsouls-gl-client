@@ -1,0 +1,20 @@
+{
+    "name": "Как открыть портал?",
+    "icon": "twilightforest:twilight_portal_miniature_structure",
+    "category": "patchouli:twilightforest_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Чтобы открыть портал в Сумеречный лес нужно сделать источник воды и окружить его любыми цветками, после чего в источник воды нужно бросить алмаз."
+        },
+        {
+            "type": "image",
+            "text": "",
+            "title": "",
+            "border": true,
+            "images": [
+                "patchouli:twilight_portal.png"
+            ]
+        }
+    ]
+}

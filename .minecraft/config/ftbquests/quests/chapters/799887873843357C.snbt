@@ -1,0 +1,519 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "799887873843357C"
+	group: "50EFD5363B6B9FFE"
+	icon: {
+		Count: 1
+		id: "rogues:assassin_armor_head"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "799887873843357C"
+	images: [
+		{
+			height: 1.0d
+			image: "rogues:item/netherite_dagger"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -0.2d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/diamond_dagger"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.2d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/iron_dagger"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.2d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/assassin_armor_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/assassin_armor_chest"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/assassin_armor_legs"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/assassin_armor_feet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/rogue_armor_feet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/rogue_armor_legs"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/rogue_armor_chest"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/rogue_armor_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/iron_sickle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/diamond_sickle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/netherite_sickle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 6.0d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Теперь вы настоящий ассасин."]
+			id: "64557C8E9EFBAA8A"
+			rewards: [{
+				id: "3338489C8306961C"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "504D7A510678B796"
+				item: {
+					Count: 1
+					id: "rogues:assassin_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Теперь вы настоящий ассасин."]
+			id: "5D899BA95770D0E7"
+			rewards: [{
+				id: "2EAC00E2712FDAEC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "61C2460260156266"
+				item: {
+					Count: 1
+					id: "rogues:assassin_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			description: ["Теперь вы настоящий ассасин."]
+			id: "0566FAEDEB28A4CE"
+			rewards: [{
+				id: "2C19CEB3DEFBA961"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "77E2ADD028816D98"
+				item: {
+					Count: 1
+					id: "rogues:assassin_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			description: ["Теперь вы настоящий ассасин."]
+			id: "29B13BE46282C2A3"
+			rewards: [{
+				id: "7B32954A3E3F25F9"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "34AAEC8BB1574446"
+				item: {
+					Count: 1
+					id: "rogues:assassin_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Отличная броня, для любителей быстро бить и передвигаться, но защищает очень слабо."]
+			id: "5AED59E5D272E248"
+			rewards: [{
+				id: "7C7823EE984971EC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "0D8E21CEBA0FF8BA"
+				item: {
+					Count: 1
+					id: "rogues:rogue_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			description: ["Отличная броня, для любителей быстро бить и передвигаться, но защищает очень слабо."]
+			id: "39844B2AEE29BEBB"
+			rewards: [{
+				id: "6367EB3AADE905A9"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "3FA8A557420052AA"
+				item: {
+					Count: 1
+					id: "rogues:rogue_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			description: ["Отличная броня, для любителей быстро бить и передвигаться, но защищает очень слабо."]
+			id: "3EDE87AE4B1FD498"
+			rewards: [{
+				id: "6FC34693A44D8DB2"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "71FBC0F2F5A45D0E"
+				item: {
+					Count: 1
+					id: "rogues:rogue_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			description: ["Отличная броня, для любителей быстро бить и передвигаться, но защищает очень слабо."]
+			id: "418995CD5B7D2DC3"
+			rewards: [{
+				id: "759905A29914FD47"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "65DCEE72F3B75F90"
+				item: {
+					Count: 1
+					id: "rogues:rogue_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			description: ["На вид безобидная вещь для сбора пшеницы оказалась смертельным оружием."]
+			id: "48B0932CC50F8F4D"
+			rewards: [
+				{
+					id: "20388AFC29AD4537"
+					item: {
+						Count: 1
+						id: "rogues:iron_sickle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "220A192F198B2004"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [{
+				id: "0708DE0E393413E8"
+				item: {
+					Count: 1
+					id: "rogues:iron_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			description: ["На вид безобидная вещь для сбора пшеницы оказалась смертельным оружием."]
+			id: "2F30F9F972D20B81"
+			rewards: [
+				{
+					id: "49A432CECA46DF09"
+					item: {
+						Count: 1
+						id: "rogues:diamond_sickle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "382F78F9F40C6EB2"
+					type: "xp"
+					xp: 650
+				}
+			]
+			tasks: [{
+				id: "69C4FB9D78B01A4F"
+				item: {
+					Count: 1
+					id: "rogues:diamond_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			description: ["На вид безобидная вещь для сбора пшеницы оказалась смертельным оружием."]
+			id: "5900C178C1432408"
+			rewards: [
+				{
+					id: "0F8BCB2133BCC58B"
+					item: {
+						Count: 1
+						id: "rogues:netherite_sickle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0A2C996A8F34D298"
+					type: "xp"
+					xp: 900
+				}
+			]
+			tasks: [{
+				id: "7C1958160910E255"
+				item: {
+					Count: 1
+					id: "rogues:netherite_sickle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			description: ["Кинжалы - отличный выбор для скрытных убийц."]
+			id: "430857D3F41F3549"
+			rewards: [
+				{
+					id: "2EF29036376DE59A"
+					item: {
+						Count: 1
+						id: "rogues:iron_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "556D5FC577676DD0"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [{
+				id: "18720B654F46CFD6"
+				item: {
+					Count: 1
+					id: "rogues:iron_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			description: ["Кинжалы - отличный выбор для скрытных убийц."]
+			id: "079A337445F706A7"
+			rewards: [
+				{
+					id: "4FE9132D4E379F71"
+					item: {
+						Count: 1
+						id: "rogues:diamond_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "406C22805F00E55A"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [{
+				id: "5566E81C429B8141"
+				item: {
+					Count: 1
+					id: "rogues:diamond_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: ["Кинжалы - отличный выбор для скрытных убийц."]
+			id: "1DD7635B0AD00EEF"
+			rewards: [
+				{
+					id: "66F1053FA57A86C9"
+					item: {
+						Count: 1
+						id: "rogues:netherite_dagger"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58C3E0803BBD8FAC"
+					type: "xp"
+					xp: 750
+				}
+			]
+			tasks: [{
+				id: "62F676681F9D085F"
+				item: {
+					Count: 1
+					id: "rogues:netherite_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+	]
+	title: "&d5.6&r: &lПуть Ассасина"
+}

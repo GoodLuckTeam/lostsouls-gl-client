@@ -1,0 +1,176 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d51r"
+	group: "5EB751CA5EA0FA30"
+	icon: "domesticationinnovation:pet_bed_red"
+	id: "193B07A4E1CBF1EB"
+	images: [
+		{
+			height: 1.0d
+			image: "relics:item/wool_mitten"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.380952380952394d
+			y: -0.5496598639455712d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/feather"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.1904761904761756d
+			y: -0.5496598639455712d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/accessories/golden_feather"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.721088435374135d
+			y: -0.48843537414965255d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/magical_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "geckolib:item/wolf_armor_helmet"
+			rotation: -30.0d
+			width: 1.0d
+			x: 0.6598639455782163d
+			y: -0.5292517006802626d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&6Лежанка&r позволит воскрешаться вашим питомцам после смерти. Если они умрут, они появятся на ней рано утром. Но только если вы ранее посадили питомца на эту лежанку."]
+			id: "6FB81B132F2E6D9F"
+			rewards: [
+				{
+					id: "7DBEDEF698191C5B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "63F200BE4AE4BF42"
+					item: "farmersdelight:dog_food"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "6A19D2EF115F5A14"
+				item: "domesticationinnovation:pet_bed_red"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			description: ["&6Пёрышко на палке&r может пригодится тогда, когда вы ведёте своего питомца куда-либо. Для них это словно... Игрушка?"]
+			id: "1F4CE37DA0533A7C"
+			rewards: [{
+				id: "1EFDF63FFCF1E691"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "57B7CAB941995F75"
+				item: {
+					Count: 1
+					id: "domesticationinnovation:feather_on_a_stick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			description: ["При помощи &6жетона&r, вы сможете накладывать зачарования на своих питомцев. Найдя чародейскую книгу, обьедините её вместе с жетоном на наковальне, а затем нажмите ПКМ по питомцу. Также жетон работает как бирка, но только на прирученных животных."]
+			id: "68DA39A993C36346"
+			rewards: [
+				{
+					id: "54B79348B9F78A42"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5969AFABC31F1316"
+					item: "domesticationinnovation:deed_of_ownership"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "47B2D5B699691A5E"
+				item: "domesticationinnovation:collar_tag"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			description: ["&6Командный барабан&r позволит вам использовать его рядом с большим количеством ваших питомцев, чтобы командовать целым стадом, а не по отдельности использовать команды."]
+			id: "62B7D6070919E167"
+			rewards: [{
+				id: "609E2F45E6BC0371"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "39A262B0EBD5CE8D"
+				item: "domesticationinnovation:drum"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+	]
+	title: "&d6.1&r: &lПитомцы"
+}

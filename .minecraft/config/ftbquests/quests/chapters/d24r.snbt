@@ -1,0 +1,580 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d24r"
+	group: "7A6FEFAE00EAC5F4"
+	icon: "cataclysm:altar_of_fire"
+	id: "603CF737ACE702A8"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/nether_eye"
+			rotation: -20.0d
+			width: 1.0d
+			x: 4.114625850340154d
+			y: -0.9479591836734684d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.55034013605443d
+			y: 0.3425170068027157d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/cinder_essence"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.836054421768715d
+			y: 1.464965986394553d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/music_disc_ignis"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/music_disc_ignis"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			height: 4.0d
+			image: "cataclysm:textures/entity/flame_strike_sigil.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			height: 3.5d
+			image: "ftbquests:block/nether"
+			rotation: 0.0d
+			width: 15.0d
+			x: 3.0d
+			y: -6.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Постройте рамку портала в Незер и активируйте портал с помощью &dпространственных слёз&r. Получить их можно собрав в бутылку при помощи плачущего обсидиана."]
+			icon: "irons_spellbooks:fireward_ring"
+			id: "5B182959C194C268"
+			rewards: [{
+				id: "0B0A7817E93D2359"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecells:red_putrid_sapling"
+				id: "0D8626A387026675"
+				title: "&6Посетите&r: Незер"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5B182959C194C268"]
+			description: ["В Незере можно найти древнюю, огненую арену. В ней давным-давно был запечатан сильнейший демон по имени &6Игнис&r."]
+			id: "5583DDC65B23E8F8"
+			rewards: [{
+				id: "6BCF1512F6A8F3FD"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				icon: "cataclysm:altar_of_fire"
+				id: "13A86CC52269AE58"
+				structure: "cataclysm:burning_arena"
+				title: "&6Найдите&r: Огненую арену"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5583DDC65B23E8F8"]
+			description: ["Убейте ревенантов, что обитают на огненой арене и создайте пылающий пепел, с его помощью вы сможете призвать &6Игниса&r. Возложив пепел на &6алтарь огня&r."]
+			id: "6754281E829AAED9"
+			rewards: [
+				{
+					count: 2
+					id: "69D8D2F7B02A85D6"
+					item: "cataclysm:dying_ember"
+					type: "item"
+				}
+				{
+					id: "69763D02AFC0A691"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "73C497B989292050"
+					item: "cataclysm:dying_ember"
+					type: "item"
+				}
+				{
+					id: "14C6307C677206D7"
+					item: "cataclysm:burning_ashes"
+					type: "item"
+				}
+			]
+			title: "Огненый пепел"
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6754281E829AAED9"]
+			description: [
+				"Призовите &6Игниса&r положив на огненый алтарь пылающий пепел. А затем одолейте его и заполучите слитки очень могущественного металла - &6Игнитиума&r."
+				""
+				"&6Игнис&r - величественный демон, который раньше был человеком, но тьма, что появилась в его душе поглотила его, в связи с чем он стал могучим демоном..."
+			]
+			id: "3E8999363AF94B8E"
+			rewards: [
+				{
+					id: "5C1279940731277B"
+					item: "cataclysm:monstrous_eye"
+					type: "item"
+				}
+				{
+					id: "29C83A7BA989F1CF"
+					type: "xp"
+					xp: 3000
+				}
+				{
+					id: "30717B655D524BF4"
+					item: "iceandfire:summoning_crystal_fire"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					Count: 1
+					id: "cataclysm:ignitium_elytra_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "71BB3A3DA3BA65EB"
+				title: "&6Победите&r: Игниса"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3E8999363AF94B8E"]
+			description: ["Победите Игниса и получите древние слитки &6Игнитиума&r."]
+			id: "6DEA161FC0BAF335"
+			rewards: [{
+				id: "7FADC740C24809DA"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4D21378711627390"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6DEA161FC0BAF335"]
+			description: ["Используя слитки &6игнитиума&r создайте мощное снаряжение. Которое точно не подведёт вас в бою..."]
+			id: "573AC9DC73B2CCE8"
+			rewards: [
+				{
+					id: "02C516DD4E8ECD4F"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "277B08A300131E51"
+					item: "minecraft:netherite_upgrade_smithing_template"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "225DBC8A3A30A4F7"
+				item: {
+					Count: 1
+					id: "cataclysm:ignitium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6DEA161FC0BAF335"]
+			description: ["Используя слитки &6игнитиума&r создайте мощное снаряжение. Которое точно не подведёт вас в бою..."]
+			id: "7C73324F8156602C"
+			rewards: [
+				{
+					id: "00A58179ECAE38E3"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "6159A280A9C2E457"
+					item: "cataclysm:ignitium_upgrade_smithing_template"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "0572CCB622C3F665"
+				item: {
+					Count: 1
+					id: "cataclysm:ignitium_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6DEA161FC0BAF335"]
+			description: ["Используя слитки &6игнитиума&r создайте мощное снаряжение. Которое точно не подведёт вас в бою..."]
+			id: "5ED6B16E5C7303AF"
+			rewards: [
+				{
+					id: "296752B8A5F118F1"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "5C89CBC6C0810796"
+					item: "minecraft:netherite_upgrade_smithing_template"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "01FFAE4A50117DDE"
+				item: {
+					Count: 1
+					id: "cataclysm:ignitium_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6DEA161FC0BAF335"]
+			description: ["Используя слитки &6игнитиума&r создайте мощное снаряжение. Которое точно не подведёт вас в бою..."]
+			id: "1965F1DD63E622EC"
+			rewards: [
+				{
+					id: "38DEA0EF21124023"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "6A3B6A624C701539"
+					item: "cataclysm:ignitium_upgrade_smithing_template"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "23B2F6FFAE507661"
+				item: {
+					Count: 1
+					id: "cataclysm:ignitium_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6DEA161FC0BAF335"]
+			description: ["Используя слитки &6игнитиума&r создайте мощное снаряжение. Которое точно не подведёт вас в бою..."]
+			id: "551562CB9D0696B5"
+			rewards: [{
+				id: "068A4708AF5BE90C"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1747B8B58B0EE456"
+				item: "cataclysm:the_incinerator"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6DEA161FC0BAF335"]
+			description: ["Используя слитки &6игнитиума&r создайте мощное снаряжение. Которое точно не подведёт вас в бою..."]
+			id: "6ACBF71317EB9937"
+			rewards: [{
+				id: "5D6FFB4B5144366E"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "78009EAF88348582"
+				item: "cataclysm:bulwark_of_the_flame"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5B182959C194C268"]
+			description: ["В Незере можно найти &6древнюю кузницу&r, где работали могучие древние кузнецы-демоны. И они создавали там что-то по истинне &dмогущественное&r."]
+			id: "6A3D6B55024629BC"
+			rewards: [{
+				id: "5DD7A219ABDEF295"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: "cataclysm:altar_of_amethyst"
+				id: "645D308B93A58D97"
+				structure: "cataclysm:soul_black_smith"
+				title: "&6Найдите&r: Огненую кузницу"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6A3D6B55024629BC"]
+			description: ["В древней кузнице, живёт &6незеритовое чудище&r, обладающее огромной силой. Не один воин не сможет его победить!"]
+			id: "1EB0BDB3D736BECB"
+			rewards: [
+				{
+					id: "54431D3B4B5D9B7C"
+					item: "cataclysm:flame_eye"
+					type: "item"
+				}
+				{
+					id: "25FDAC4FC0DB120D"
+					type: "xp"
+					xp: 2000
+				}
+				{
+					count: 4
+					id: "7C7A922221A29918"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					Count: 1
+					id: "cataclysm:monstrous_helm"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5687D6F44D69C6F0"
+				title: "&6Победите&r: Незеритовое чудище"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1EB0BDB3D736BECB"]
+			description: ["Победите незеритовое чудище и заполучите могущественный молот, именуемый &6адским горном&r. "]
+			id: "749AFB05FE0DC800"
+			rewards: [{
+				id: "3E274F5C2ABD40D3"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "77A629796EDB0F9A"
+				item: {
+					Count: 1
+					id: "cataclysm:infernal_forge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1EB0BDB3D736BECB"]
+			description: ["Заполучите &6рог незеритового чудища&r и создайте рогатый, чудовищный шлем. В битве он вас не подведёт!"]
+			id: "04F57D34787F6474"
+			rewards: [{
+				id: "4CB47FCB310344BB"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "07C49A69287C9A52"
+				item: {
+					Count: 1
+					id: "cataclysm:monstrous_helm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5B182959C194C268"]
+			description: ["В &6Незере&r есть новые виды эндерменов. Убив их, вы получите особые очи, которые имеют &dволшебные свойства&r."]
+			id: "57F2B66D9AE3CB2B"
+			rewards: [{
+				id: "2D46DA23B5F219E5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2477343D60E2DA48"
+				item: "endermanoverhaul:crimson_pearl"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5B182959C194C268"]
+			description: ["В &6Незере&r есть новые виды эндерменов. Убив их, вы получите особые очи, которые имеют &dволшебные свойства&r."]
+			id: "42909D78749F220F"
+			rewards: [{
+				id: "68CBB7325F0CB77D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0CA315373542F344"
+				item: "endermanoverhaul:warped_pearl"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5B182959C194C268"]
+			description: ["Создайте вкусный &6незерский салат&r из местных грибов."]
+			id: "1DE4D856DEEB5B50"
+			rewards: [
+				{
+					id: "55D3C02871324066"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "786D37A8C860B825"
+					item: "nethervinery:crimson_grape_seeds"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "35B83EC7E290DADF"
+					item: "nethervinery:warped_grape_seeds"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2E02E7A1D50621F3"
+				item: "farmersdelight:nether_salad"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+	]
+	title: "&d3.3&r: &lНезер"
+}

@@ -1,0 +1,80 @@
+{
+  "ability": {
+    "abilities": {
+      "light_step": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 3,
+        "stats": {
+          "modifier": {
+            "minInitialValue": 0.0,
+            "maxInitialValue": 3.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          },
+          "heal": {
+            "minInitialValue": 0.0,
+            "maxInitialValue": 1.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          }
+        }
+      },
+      "air_strike": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 5,
+        "stats": {
+          "damage": {
+            "minInitialValue": 1.0,
+            "maxInitialValue": 6.0,
+            "minThresholdValue": 6.0,
+            "maxThresholdValue": 13.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          },
+          "radius": {
+            "minInitialValue": 2.0,
+            "maxInitialValue": 5.0,
+            "minThresholdValue": 4.0,
+            "maxThresholdValue": 6.0,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 2.0
+          }
+        }
+      },
+      "parachute_descent": {
+        "requiredPoints": 1,
+        "requiredLevel": 0,
+        "maxLevel": 5,
+        "stats": {
+          "delay": {
+            "minInitialValue": 5.0,
+            "maxInitialValue": 10.0,
+            "minThresholdValue": 4.9E-324,
+            "maxThresholdValue": 1.7976931348623157E308,
+            "upgradeOperation": "ADD",
+            "upgradeModifier": 1.0
+          }
+        }
+      }
+    }
+  },
+  "leveling": {
+    "initialCost": 100,
+    "maxLevel": 20,
+    "step": 100
+  },
+  "loot": {
+    "entries": {
+      "[\\w]+:chests\\/[\\w_\\/]*(frosz?|taiga|cold|winter|snow|icey?|glac)[\\w_\\/]*": 0.025,
+      "minecraft:chests/village/village_fletcher": 0.025,
+      "[\\w]+:chests\\/[\\w_\\/]*legendary[\\w_\\/]*": 0.075,
+      "minecraft:chests/igloo_chest": 0.025
+    }
+  }
+}

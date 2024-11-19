@@ -1,0 +1,993 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d44r"
+	group: "50EFD5363B6B9FFE"
+	icon: {
+		Count: 1
+		id: "rogues:berserker_armor_head"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4FA7084D9AD393CE"
+	images: [
+		{
+			height: 0.0d
+			image: "born_in_chaos_v1:textures/mob_effect/ramp5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:textures/mob_effect/demoralize.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.005952380952379599d
+			y: -7.071428571428569d
+		}
+		{
+			height: 1.0d
+			image: "alexs_armoury:textures/items/netherite_double_axe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			corner: true
+			height: 1.0d
+			image: "alexs_armoury:textures/items/netherite_double_axe_gui.png"
+			rotation: -85.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.4d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_netherite_helmet_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_netherite_chestplate_item"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_neetherite_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_netherite_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_iron_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_iron_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_iron_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_iron_helmet_open"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "alexs_armoury:textures/items/iron_double_axe.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "alexs_armoury:textures/items/iron_double_axe.png"
+			rotation: -86.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "alexs_armoury:textures/items/diamond_double_axe.png"
+			rotation: -86.0d
+			width: 1.0d
+			x: 3.2d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "alexs_armoury:textures/items/diamond_double_axe_gui.png"
+			rotation: -7.0d
+			width: 1.0d
+			x: 3.2d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_diamond_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_diamond_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_diamond_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/heavy_diamond_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.6d
+			y: -2.7d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/plated_helmet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.8d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/plated_chestplate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/plated_leggings"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "luckys_armory:item/plated_boots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/wrought_axe_icon"
+			rotation: -43.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/wrought_axe_icon"
+			rotation: -43.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/berserker_armor_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/berserker_armor_chest"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/berserker_armor_legs"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.8d
+		}
+		{
+			height: 1.0d
+			image: "rogues:item/berserker_armor_feet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			image: "rogues:item/stone_double_axe"
+			rotation: 5.0d
+			width: 2.0d
+			x: -1.5d
+			y: -5.8d
+		}
+		{
+			height: 2.0d
+			image: "rogues:item/stone_double_axe"
+			rotation: -88.0d
+			width: 2.0d
+			x: 1.5d
+			y: -5.8d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Тяжёлая версия незеритовой брони делается с помощью наложения еще большего количества незерита на незеритовую броню."]
+			icon: {
+				Count: 1
+				id: "rogues:netherite_double_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "191D54A7CE72C36B"
+			rewards: [{
+				id: "2B6AFC39E8361653"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2D148C12C9284095"
+				item: "minecraft:netherite_block"
+				type: "item"
+			}]
+			title: "Тяжёлая незеритовая броня"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: ["Создайте прочнкю броню из кожи и железа."]
+			icon: "mowziesmobs:wrought_axe"
+			id: "5D8B8E02E2FF8C69"
+			rewards: [{
+				id: "14707CC013EC3433"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "53A9344CA9811CE7"
+				item: "minecraft:raw_iron_block"
+				type: "item"
+			}]
+			title: "Прочная броня"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5D8B8E02E2FF8C69"]
+			description: ["Создайте создайте прочный шлем."]
+			id: "23FD7B04E6360F6D"
+			rewards: [{
+				id: "7E4FF2D078E71C34"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "375C458F57F1E7A3"
+				item: {
+					Count: 1
+					id: "luckys_armory:plated_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Прочный шлем"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5D8B8E02E2FF8C69"]
+			description: ["Создайте создайте прочный нагрудник."]
+			id: "2FECD7C264D611B1"
+			rewards: [{
+				id: "1E738A291C54E586"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "3975F2FC86C667F6"
+				item: {
+					Count: 1
+					id: "luckys_armory:plated_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Прочный нагрудник"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D8B8E02E2FF8C69"]
+			description: ["Создайте прочные поножи."]
+			id: "50E95DB7881F340D"
+			rewards: [
+				{
+					id: "1F0D4E9B9E72B5C6"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "39774697B191B237"
+					item: "born_in_chaos_v1:seedof_chaos"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "6E1BA4F676678625"
+				item: {
+					Count: 1
+					id: "luckys_armory:plated_armor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Прочные поножи"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5D8B8E02E2FF8C69"]
+			description: ["Создайте прочные ботинки."]
+			id: "63B3419AC5F9C88E"
+			rewards: [{
+				id: "0730A36B60A5BF79"
+				type: "xp"
+				xp: 400
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "00F32A869F5FB73F"
+				item: {
+					Count: 1
+					id: "luckys_armory:plated_armor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Прочные ботинки"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			description: ["Тяжёлая версия алмазная брони делается с помощью наложения еще большего количества алмазов на алмазную броню."]
+			icon: {
+				Count: 1
+				id: "rogues:diamond_double_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "013E936F2BE8E1BE"
+			rewards: [{
+				id: "02DD01195286BF72"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4E2FEAB8F27DAA50"
+				item: "minecraft:diamond_block"
+				type: "item"
+			}]
+			title: "Тяжёлая алмазная броня"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Создайте тяжёлую версию алмазной брони, которая защищает намного лучше."]
+			id: "63535BCF692E1F53"
+			rewards: [{
+				id: "6D89FCAA1197DA5B"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "25A2AF2F88F7CE17"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_diamond_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Создайте тяжёлую версию алмазной брони, которая защищает намного лучше."]
+			id: "06F6E4262BDCB21D"
+			rewards: [{
+				id: "3B8E668CEC40BE40"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "4598D370D7A4F4E9"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_diamond_armor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Создайте тяжёлую версию алмазной брони, которая защищает намного лучше."]
+			id: "7DF12C07C3A70257"
+			rewards: [{
+				id: "163EB4AF0FC32BE2"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1BE254DAA1F72964"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_diamond_armor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["013E936F2BE8E1BE"]
+			description: ["Создайте тяжёлую версию алмазной брони, которая защищает намного лучше."]
+			id: "04B2BCD5B4E56C49"
+			rewards: [{
+				id: "68CEDA18EF7644C8"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "78DE040E6992BB05"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_diamond_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			description: ["Тяжёлая версия железной брони делается с помощью наложения еще большего количества железа на железную броню."]
+			icon: {
+				Count: 1
+				id: "rogues:iron_double_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "478A5773B71C3151"
+			rewards: [{
+				id: "5F1ADD44430A2767"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "3134F4EAF69D5B58"
+				item: "minecraft:iron_block"
+				type: "item"
+			}]
+			title: "Тяжёлая железная броня"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Создайте тяжёлую версию железной брони, которая защищает намного лучше."]
+			id: "59E718E171670BF2"
+			rewards: [{
+				id: "3D5A5C071987C34F"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "468B3A1E22F0678E"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_iron_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Создайте тяжёлую версию железной брони, которая защищает намного лучше."]
+			id: "04679F17164E7CD3"
+			rewards: [{
+				id: "22647FFEC41537EC"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [{
+				id: "3C9973D8D2B69D0E"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_iron_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Создайте тяжёлую версию железной брони, которая защищает намного лучше."]
+			id: "54CA210F1FB2DA3B"
+			rewards: [{
+				id: "5428AACE7D08C9D0"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "5D965E37834BA5A2"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_iron_armor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["478A5773B71C3151"]
+			description: ["Создайте тяжёлую версию железной брони, которая защищает намного лучше."]
+			id: "02A9377B124D01AC"
+			rewards: [{
+				id: "79533DBEFA0DA711"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "70690D857262C5B8"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_iron_armor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			description: ["Броня берсерка делается чуть легче незеритовой."]
+			icon: {
+				Count: 1
+				id: "rogues:stone_double_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2316F905D5CEF896"
+			tasks: [{
+				id: "7B6FFC5D21159630"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Создайте броню берсерка."]
+			id: "0533ACC607B33EE4"
+			rewards: [{
+				id: "7DACFA6FD837B8CC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "120A621D606834C8"
+				item: {
+					Count: 1
+					id: "rogues:berserker_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Создайте броню берсерка."]
+			id: "60415FF25D84D1D9"
+			rewards: [{
+				id: "42DD8E84055850CC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "11CBEC97923BC14F"
+				item: {
+					Count: 1
+					id: "rogues:berserker_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Создайте броню берсерка."]
+			id: "5A92BB6310082A88"
+			rewards: [{
+				id: "73E74C3E190C2260"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "35EB8CFD96791D89"
+				item: {
+					Count: 1
+					id: "rogues:berserker_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2316F905D5CEF896"]
+			description: ["Создайте броню берсерка."]
+			id: "4C2E8CAE784BD9D1"
+			rewards: [{
+				id: "0EF30A02B0E65AAE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "19F567BC9F6E23DA"
+				item: {
+					Count: 1
+					id: "rogues:berserker_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "rogues:golden_double_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "42AFD5EF52761452"
+			rewards: [{
+				id: "67C97AEA77489CAA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "58F1C6A346905EFA"
+					item: {
+						Count: 1
+						id: "rogues:netherite_double_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C5356DFCF3335B9"
+					item: {
+						Count: 1
+						id: "rogues:diamond_double_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D1CEDD4634E6EF9"
+					item: {
+						Count: 1
+						id: "rogues:golden_double_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "328BE544A15E1C2F"
+					item: {
+						Count: 1
+						id: "rogues:iron_double_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F9957E3245A2AE0"
+					item: {
+						Count: 1
+						id: "rogues:stone_double_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1BEC37B77D511BC7"
+					item: {
+						Count: 1
+						id: "rogues:aeternium_double_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Двуручные топоры"
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Создайте тяжёлую версию незеритовой брони, которая защищает намного лучше."]
+			id: "315159E35808B405"
+			rewards: [{
+				id: "222DCCA92CA5E3B8"
+				type: "xp"
+				xp: 1250
+			}]
+			tasks: [{
+				id: "717DD06A3B1E7825"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_netherite_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Создайте тяжёлую версию незеритовой брони, которая защищает намного лучше."]
+			id: "54540C05EA956E7F"
+			rewards: [{
+				id: "4A391DBB7D47F959"
+				type: "xp"
+				xp: 1250
+			}]
+			tasks: [{
+				id: "70F47D899EC28002"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_netherite_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Создайте тяжёлую версию незеритовой брони, которая защищает намного лучше."]
+			id: "65A04D599786005E"
+			rewards: [{
+				id: "7D9A7693C3025F9D"
+				type: "xp"
+				xp: 1250
+			}]
+			tasks: [{
+				id: "07E8D2636B211945"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_netherite_armor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["191D54A7CE72C36B"]
+			description: ["Создайте тяжёлую версию незеритовой брони, которая защищает намного лучше."]
+			id: "5055AEE9D91172A0"
+			rewards: [{
+				id: "1829C13027B5C89C"
+				type: "xp"
+				xp: 1250
+			}]
+			tasks: [{
+				id: "69AEF93A68F3AFA8"
+				item: {
+					Count: 1
+					id: "luckys_armory:heavy_netherite_armor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			description: ["Во время рейдов вы можете выбить головоруб, благодаря которому вы сможете выбивать головы игроков."]
+			id: "5A8BCC3C79020C3C"
+			rewards: [{
+				id: "1078B1AC71B12225"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "4750285FA8B5DE54"
+				item: {
+					Count: 1
+					id: "savage_and_ravage:cleaver_of_beheading"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: ["Облейте ваш щит незеритом, создав более крепкую его версию и &l&4парируйте&r&r атаки своих врагов!"]
+			id: "04A651F5894A89B6"
+			rewards: [{
+				id: "25E15EC15D645E62"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [{
+				id: "5003ED013D8EEDE4"
+				item: {
+					Count: 1
+					id: "guarding:netherite_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+	]
+	title: "&d5.4&r: &lПуть Рыцаря"
+}

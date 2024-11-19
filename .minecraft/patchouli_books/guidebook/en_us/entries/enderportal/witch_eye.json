@@ -1,0 +1,16 @@
+{
+    "name": "Око Ведьмы",
+    "icon": "endrem:witch_eye",
+    "category": "patchouli:enderportal_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Считается, что это око видело древние рецепты пивоварения, затерянные во времени."
+        },
+        {
+            "type": "crafting",
+            "title": "Рецепт Ока ведьмы",
+            "recipe": "endrem:witch_eye"
+        }
+    ]
+}

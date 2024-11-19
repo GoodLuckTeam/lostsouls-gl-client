@@ -1,0 +1,807 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d22r"
+	group: "7A6FEFAE00EAC5F4"
+	icon: {
+		Count: 1
+		id: "minecells:insufferable_crypt_doorway"
+		tag: {
+			BlockEntityTag: { }
+		}
+	}
+	id: "361C7349D9CE2C94"
+	images: [
+		{
+			height: 1.0d
+			image: "minecells:block/colored_torch/prison"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.2857142857142918d
+			y: -0.5306122448979522d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/echo"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/air_burst_3.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5357142857142776d
+			y: -1.840136054421773d
+		}
+		{
+			height: 1.0d
+			image: "spell_power:textures/mob_effect/blood.png"
+			rotation: -10.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/cinder_essence"
+			rotation: 20.0d
+			width: 1.0d
+			x: 3.750000000000007d
+			y: 1.0646258503401356d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/flame_eye"
+			rotation: -20.0d
+			width: 1.0d
+			x: 0.202380952380949d
+			y: 1.040816326530603d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/spawn_eggs/scorpion"
+			rotation: -25.0d
+			width: 1.0d
+			x: 5.572789115646259d
+			y: -1.8826530612245023d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/cursed_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.453741496598639d
+			y: 1.6887755102040742d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.193537414966002d
+			y: 3.2227891156462576d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Изучая обычный мир, вы можете найти древний портал, войдя в который, вы попадёте в тюремные камеры. Небольшой мир, в котором когда-то держали опасных преступников."]
+			id: "03AEB33D12B22DB4"
+			rewards: [{
+				id: "6557B5BF8B5AAADC"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecells:prison"
+				icon: {
+					Count: 1
+					id: "minecells:prison_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "273157385F26DCCB"
+				title: "&dПосетите&r: Тюремные камеры"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["В тюремных камерах, вы можете встретить сильных и опасных врагов. Разберитесь с каждым из них!"]
+			id: "094E701353B804FA"
+			rewards: [{
+				id: "75BE72D569325274"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:grenadier"
+				id: "4C03A0B837F84082"
+				title: "&dУбейте&r: Гранатомётчика"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["В тюремных камерах, вы можете встретить сильных и опасных врагов. Разберитесь с каждым из них!"]
+			id: "4D41F5C89BD8169B"
+			rewards: [{
+				id: "79E598FFE90A708F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:leaping_zombie"
+				id: "67C9184E5DB61693"
+				title: "&dУбейте&r: Прыгучего зомби"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["В тюремных камерах, вы можете встретить сильных и опасных врагов. Разберитесь с каждым из них!"]
+			id: "7642AC3F434BDFBF"
+			rewards: [{
+				id: "44098876A7EBC649"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:shieldbearer"
+				id: "4F22B0AFE53187DC"
+				title: "&dУбейте&r: Щитоносца"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["В тюремных камерах, вы можете встретить сильных и опасных врагов. Разберитесь с каждым из них!"]
+			id: "5776EB5846454E71"
+			rewards: [{
+				id: "2765B8F5400F7E2E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:undead_archer"
+				id: "3B4D9927CD1DA888"
+				title: "&dУбейте&r: Ожившего лучника"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03AEB33D12B22DB4"]
+			description: ["Убивая &cмонстров&r, вы можете получить с ним еду: глаз монстра и внутренности. Их можно сьесть или использовать в создании некоторых предметов."]
+			id: "00DDCED34983095C"
+			rewards: [{
+				id: "3B94ABAC87E7C549"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "1DB3EDC7C8F44BDB"
+					item: "minecells:guts"
+					type: "item"
+				}
+				{
+					id: "6121B5BF79991CD0"
+					item: "minecells:monsters_eye"
+					type: "item"
+				}
+			]
+			title: "Лут с монстров"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "3DC0EB3DFD818921"
+			rewards: [
+				{
+					id: "5E5775D459DC1388"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "49DE0A226319E400"
+					item: {
+						Count: 1
+						id: "endermanoverhaul:savanna_hood"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "43392DC2292E7BEE"
+				item: {
+					Count: 1
+					id: "minecells:assassins_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "00A7F4596D45ACDF"
+			rewards: [{
+				id: "5EB74B3B207A9836"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "59FE3C2AF9AC6035"
+				item: {
+					Count: 1
+					id: "minecells:blood_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "5757EBCB2468894C"
+			rewards: [{
+				id: "06FA1B005620528A"
+				type: "xp"
+				xp: 200
+			}]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "6B88957DA9AF8051"
+				item: {
+					Count: 1
+					id: "minecells:broadsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "1C5C19CFD1532601"
+			rewards: [
+				{
+					id: "1E222AFB3B08A50B"
+					item: "artifacts:night_vision_goggles"
+					type: "item"
+				}
+				{
+					id: "3393C30EE94EF838"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "43855EFE92C44B29"
+				item: {
+					Count: 1
+					id: "minecells:crowbar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "014987B0F2765118"
+			rewards: [
+				{
+					id: "4EB20FF9BDAF1419"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 15
+					id: "048251C50FFF872A"
+					item: "ecologics:walnut"
+					type: "item"
+				}
+			]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "09F86803A1082B95"
+				item: {
+					Count: 1
+					id: "minecells:nutcracker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "0075259DCC7B1284"
+			rewards: [
+				{
+					count: 5
+					id: "059EF93FD52414E5"
+					item: "aquamirae:pirate_pouch"
+					type: "item"
+				}
+				{
+					id: "0805C5DBF94EB4C2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "3E486340E1D7427B"
+				item: {
+					Count: 1
+					id: "minecells:balanced_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "3DCDB30B04FA5F4C"
+			rewards: [{
+				count: 10
+				id: "29F2C7A9208D8F27"
+				item: "epicsamurai:steel_ingot"
+				type: "item"
+			}]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "57CC8874BE0F9A45"
+				item: {
+					Count: 1
+					id: "minecells:hattoris_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["В тюремных камерах можно найти много интересного оружия. С уникальными способностями и свойствами."]
+			id: "0CC09E071A5E0792"
+			rewards: [
+				{
+					id: "11C784799A2DA9C4"
+					item: "endermanoverhaul:crimson_pearl"
+					type: "item"
+				}
+				{
+					id: "579C8888E95FF6EB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Новое оружие"
+			tasks: [{
+				id: "2182CD68FABAE504"
+				item: {
+					Count: 1
+					id: "minecells:spite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["00DDCED34983095C"]
+			description: ["Через время, вы найдёте &bпортал&r в новую локацию: тропу обречённых. Она представляет из себя густой алый лес с множеством аванпостов!"]
+			id: "3A71A877A7F8A641"
+			rewards: [{
+				id: "0F0ADDD8E02C4AB9"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecells:promenade"
+				icon: {
+					Count: 1
+					id: "minecells:promenade_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "419B353B474786D7"
+				title: "&dПосетите&r: Тропу Обречённых"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A71A877A7F8A641"]
+			description: ["В одном из домов этой долины, вы сможете найти лифт, на котором можно будет спуститья вниз в подземелья."]
+			icon: "minecells:elevator_assembler"
+			id: "3CAFB4189A11B2EF"
+			rewards: [{
+				id: "0FFF4C2DD13DB19F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1FB9CCD40E9D718F"
+				title: "Спуск"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CAFB4189A11B2EF"]
+			description: ["В данном подземелье появятся новые враги. Которые будут сильнее и опаснее, чем предыдущие."]
+			id: "0F1EE0EF96BD7E03"
+			rewards: [{
+				id: "3CA9898FEEA1DC7B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:mutated_bat"
+				id: "0416AF3FD2A7D383"
+				title: "&dУбейте&r: Мутированную мышь"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3CAFB4189A11B2EF"]
+			description: ["В данном подземелье появятся новые враги. Которые будут сильнее и опаснее, чем предыдущие."]
+			id: "67C6CADB4BC8E0ED"
+			rewards: [{
+				id: "34A0F67C04867C09"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:runner"
+				id: "630A3897E32E0FEA"
+				title: "&dУбейте&r: Бегуна"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3CAFB4189A11B2EF"]
+			description: ["В подземелье вам нужно будет найти руну лозы. Она позволит вам попасть в следующую локацию: &eтюремные башни&r. Как только вы нашли её, отправляйтесь к порталу и около него ищите большую башню. В ней, вам нужно будет использовать руну на специальном растении, а затем поднятся на лифте и войти в портал тюремных башен."]
+			id: "739735329B8F7AB8"
+			rewards: [
+				{
+					id: "40C78E761A146E77"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "181ABC9E7C156BBC"
+					item: "quarkdelight:lush_moss_salad"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "456B7E7146442069"
+				item: {
+					Count: 1
+					id: "minecells:vine_rune"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["В данных башнях появятся новые враги. Которые будут сильнее и опаснее, чем предыдущие."]
+			id: "690C27A1F6005B84"
+			rewards: [{
+				id: "062CDBD22B7B1A7A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:sweeper"
+				id: "444101966AD55342"
+				title: "&dУбейте&r: Метельщика"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["В данных башнях появятся новые враги. Которые будут сильнее и опаснее, чем предыдущие."]
+			id: "69BB43BBB8C6EFEB"
+			rewards: [{
+				id: "463D0BBEA9DB371D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:inquisitor"
+				id: "7AB0A730745F7E32"
+				title: "&dУбейте&r: Инквизитора"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["В данных башнях появятся новые враги. Которые будут сильнее и опаснее, чем предыдущие."]
+			id: "0AC3952ECBE3377E"
+			rewards: [{
+				id: "4BAF9A6B91AE25F2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecells:buzzcutter"
+				id: "3C232E939865BB86"
+				title: "&dУбейте&r: Резальщика"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["739735329B8F7AB8"]
+			description: ["Войдите в локацию: &eТюремные башни&r."]
+			id: "4C3761D98359722B"
+			rewards: [{
+				id: "2C94C21C74FD1BDA"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecells:ramparts"
+				icon: {
+					Count: 1
+					id: "minecells:ramparts_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "35771AC66EFB09CD"
+				title: "&dПосетите&r: Тюремные башни"
+				type: "dimension"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["В мини-башне, отмеченной фиолетовым цветом, вы можете найти портал ведущий на локацию: &dЧёрный мост&r. Где вам нужно будет сразиться с боссом."]
+			id: "7DC4B051DD4FFCEA"
+			rewards: [{
+				id: "28C0522DE1AE558B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				dimension: "minecells:black_bridge"
+				icon: {
+					Count: 1
+					id: "minecells:black_bridge_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "48E5E5C315C194C1"
+				title: "&dПосетите&r: Чёрный мост"
+				type: "dimension"
+			}]
+			x: 11.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DC4B051DD4FFCEA"]
+			description: ["Сразитесь с боссом и победите его в неравном бою!"]
+			id: "24FB034FCD1F3F88"
+			rewards: [{
+				id: "4A017DB70FEA6D43"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				entity: "minecells:concierge"
+				icon: "minecells:concierge_respawn_rune"
+				id: "5F5C6DD1E43EF1A8"
+				title: "&dУбейте Босса&r: Привратника"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C3761D98359722B"]
+			description: ["Теперь, вам нужно вновь найти руну лоз, а затем отправится в тюремные камеры. Найти там, специальное растение. А забравшись по нему, вы увидите портал в &dневыносимую темницу&r. Где вас будет ждать главный босс мода."]
+			id: "399CFC120D142F72"
+			rewards: [{
+				id: "3203C16574B3DD1C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				dimension: "minecells:insufferable_crypt"
+				icon: {
+					Count: 1
+					id: "minecells:insufferable_crypt_doorway"
+					tag: {
+						BlockEntityTag: { }
+					}
+				}
+				id: "5154037B057DCB97"
+				title: "&dПосетите&r: Невыносимую темницу"
+				type: "dimension"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["399CFC120D142F72"]
+			description: ["Победив &dфинального босса&r, вы получите оружие, а так-же удобный инструмент для перемещения во время падения."]
+			id: "171E62447DB95FAB"
+			rewards: [{
+				id: "7503AF44AA5A639E"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [{
+				id: "2F4A4F90BE97C0A3"
+				item: {
+					Count: 1
+					id: "minecells:tentacle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+	]
+	title: "&d3.2&r: &lПодземелья"
+}

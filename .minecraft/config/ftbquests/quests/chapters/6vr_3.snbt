@@ -1,0 +1,773 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6vr_3"
+	group: "77B836E2F372761C"
+	icon: "endermanoverhaul:bubble_pearl"
+	id: "14C24ACBB0FB93E4"
+	images: [
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/void_rune"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.314285714285724d
+			y: -2.3571428571428754d
+		}
+		{
+			height: 1.0d
+			image: "create:item/unprocessed_obsidian_sheet"
+			rotation: -10.0d
+			width: 1.0d
+			x: -3.392857142857146d
+			y: -1.4000000000000057d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magic_mirror_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: -90.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/cinder_essence"
+			rotation: 110.0d
+			width: 1.0d
+			x: 2.3642857142856926d
+			y: 2.371428571428538d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:textures/particle/electricity_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/water_breathing.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "visuality:textures/particle/underwater_bubble.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/affinity_ring_blood"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4452380952380963d
+			y: 0.7619047619047379d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/arcane_essence"
+			rotation: -110.0d
+			width: 1.0d
+			x: -2.4452380952381034d
+			y: 2.3047619047618824d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "44C8C983C934BEB0"
+			rewards: [{
+				id: "7C4D16B003C31EA6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6C4BDA0B1FED55A5"
+				item: "artifacts:umbrella"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "512456BD9ECF113E"
+			rewards: [{
+				id: "1248BC034A058D88"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "79315BB67C9292C1"
+				item: "artifacts:plastic_drinking_hat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "617C44FC794E91B9"
+			rewards: [{
+				id: "35F0A9720970EB5E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "22D6070184DEC990"
+				item: "artifacts:novelty_drinking_hat"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "054C53F2662824ED"
+			rewards: [{
+				id: "2230AEAF5C5E8BF5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "16B459D8C346A85C"
+				item: "artifacts:snorkel"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "5DB4107A4B371F98"
+			rewards: [{
+				id: "6F87BF6710986195"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5FAC98CAF62029EB"
+				item: "artifacts:night_vision_goggles"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "4784E2B69A5E19DA"
+			rewards: [{
+				id: "0BB432782F112BF6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "71C72F44D66541E3"
+				item: "artifacts:villager_hat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "40727B8380F9A2D7"
+			rewards: [{
+				id: "2E473A6A22698AB5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3DFD72BDA5E9D3B7"
+				item: "artifacts:superstitious_hat"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "57A5FFB72BB92BDA"
+			rewards: [{
+				id: "44DC4DB2DBAC5128"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4930D73B6C19BCD9"
+				item: "artifacts:lucky_scarf"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "22DBD0535B0A64C9"
+			rewards: [{
+				id: "69C619EEDC42F42E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "05E3EFF5F9011F5F"
+				item: "artifacts:scarf_of_invisibility"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "5E1D79B76A1A2D3A"
+			rewards: [{
+				id: "4C3495529D39639D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "144F4A5009CE8DFC"
+				item: "artifacts:cross_necklace"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "5DE127A09C08A509"
+			rewards: [{
+				id: "34F2F3A8D1700E5A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5F3124705492943B"
+				item: "artifacts:panic_necklace"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "70A66D9B5E2627C0"
+			rewards: [{
+				id: "35ACE9EB832757BC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "117B1C00827C4E52"
+				item: "artifacts:shock_pendant"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "60EB85A31AA3EC1F"
+			rewards: [{
+				id: "3D65C9AE7CBE4047"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "08E0C68DD8AD46E3"
+				item: "artifacts:flame_pendant"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "4E7E0575C1DEA958"
+			rewards: [{
+				id: "5365A8907C6EFC50"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6EFBEF16710E0E03"
+				item: "artifacts:thorn_pendant"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "1F44B03267656D82"
+			rewards: [{
+				id: "31241A02BC106A36"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "16657E77D48210FD"
+				item: "artifacts:charm_of_sinking"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "38A2EA4D5BB0035B"
+			rewards: [{
+				id: "02CFEB8D5EA7F0E8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "08F78E70FDC0FECB"
+				item: "artifacts:cloud_in_a_bottle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "7158BB4DFD87109C"
+			rewards: [{
+				id: "37ADE6DA5B905378"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "62E4844FFBC5048D"
+				item: "artifacts:obsidian_skull"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "7FDF913E073F05AE"
+			rewards: [{
+				id: "143BCE26A9F19CA2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2AFAE996BD0478E9"
+				item: "artifacts:antidote_vessel"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "3978C2DBE1B61990"
+			rewards: [{
+				id: "3EF3212905D42624"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "50042B82B194DAC2"
+				item: "artifacts:universal_attractor"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "2C8BB51F8A0A4703"
+			rewards: [{
+				id: "79F821F392340983"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "54AC0D9BF367F5DF"
+				item: "artifacts:crystal_heart"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "3EA8F4022DEEE82F"
+			rewards: [{
+				id: "7337CAB503B4E2D7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2ACF060B0BA57741"
+				item: "artifacts:helium_flamingo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "3D1578DF95F261ED"
+			rewards: [{
+				id: "3065F99B9B78CDFD"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "08FE929E8F7BEB46"
+				item: "artifacts:digging_claws"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "2EDC7E875E426986"
+			rewards: [{
+				id: "269EB33964537D4B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1A15AD6336E1FE7E"
+				item: "artifacts:feral_claws"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "488477D975B8C132"
+			rewards: [{
+				id: "75F389CBD1BF9D06"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "12028EB5256D4DA8"
+				item: "artifacts:power_glove"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "20E373424804CEDF"
+			rewards: [{
+				id: "3742A8C86B293B5C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "216CAD3B464CA25C"
+				item: "artifacts:fire_gauntlet"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "60E012BBFD9C07E2"
+			rewards: [{
+				id: "0A2F8B740119FF84"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6315F7A7F9192098"
+				item: "artifacts:pocket_piston"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "2D30219AB7DF5C26"
+			rewards: [{
+				id: "0B3D582337E5A233"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0E08134E4E552C80"
+				item: "artifacts:vampiric_glove"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "4EB437CB7EEF956D"
+			rewards: [{
+				id: "1003C1EFDF9F0A59"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0626520978650967"
+				item: "artifacts:golden_hook"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "422E7B7E24ADCE47"
+			rewards: [{
+				id: "174CE145D3866A98"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1F2130198C4C1EFD"
+				item: "artifacts:bunny_hoppers"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "1E63D8214168C09E"
+			rewards: [{
+				id: "42F7E86C8EC2CE30"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "052049ACCF17015F"
+				item: "artifacts:aqua_dashers"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "15CE1D3E19871988"
+			rewards: [{
+				id: "70F5373FE1982035"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "42BD1C5B2E954EBD"
+				item: "artifacts:kitty_slippers"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "6A94B4DB9DDAEDEB"
+			rewards: [{
+				id: "535738288B611426"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2ECB7EDFA4118607"
+				item: "artifacts:running_shoes"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "09405EEC7A1BB001"
+			rewards: [{
+				id: "336B1C34E7DC64B5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "7099B65BF825F3FB"
+				item: "artifacts:steadfast_spikes"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			description: ["&d&k0&r В пещерах этого обычного мира, вы можете встретить мимиков, которые представляют из себя нежить в виде сундука, убив его, вы получите артефакт, который можно использовать. Также их можно найти в сундуках разных структур."]
+			hide: true
+			hide_dependency_lines: true
+			id: "2B3CB86820081AE2"
+			rewards: [{
+				id: "74214D21E796B3AA"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "613DE648C26D1EF9"
+				item: "artifacts:flippers"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+	]
+	title: "&d4.2&r: &lАртефакты"
+}

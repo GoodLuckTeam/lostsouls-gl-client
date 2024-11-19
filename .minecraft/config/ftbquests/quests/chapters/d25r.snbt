@@ -1,0 +1,719 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d25r"
+	group: "7A6FEFAE00EAC5F4"
+	icon: "cataclysm:altar_of_void"
+	id: "4B0B548567248A8D"
+	images: [
+		{
+			height: 5.0d
+			image: "cataclysm:textures/particle/shock_wave.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 3.0d
+			image: "alexsmobs:item/void_worm_eye"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/coral_chunk_red"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.4476190476190851d
+			y: 2.4397959183673663d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/materials/ambrosium_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.4401785714286035d
+			y: 0.7969387755102133d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/void_rune"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.6428571428571388d
+			y: -1.8697278911564439d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/mech_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7857142857142989d
+			y: -2.417346938775488d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/arcane_essence"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.595238095238102d
+			y: -1.9649659863945388d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/witherite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.3095238095238173d
+			y: -0.8697278911564439d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/void_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.357142857142861d
+			y: 0.7731292517006949d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/summon_crystal_ice_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.738095238095248d
+			y: 1.7493197278911694d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/enderdragon/dragon_fireball.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/enderdragon/dragon_fireball.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.180952380952384d
+			y: -0.764965986394543d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:item/void_worm_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.82380952380953d
+			y: 1.4493197278911794d
+		}
+		{
+			height: 1.0d
+			image: "minecells:item/conjunctivius_respawn_rune"
+			rotation: 180.0d
+			width: 1.0d
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:item/enderite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.663265306122433d
+			y: -1.84353741496599d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/reflection_necklace"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.520408163265287d
+			y: -0.37414965986396d
+		}
+		{
+			height: 1.5d
+			image: "cataclysm:textures/entity/deepling/deepling_warlock_mark1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/scales_gray"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7071428571428484d
+			y: 2.4819727891156447d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/pixie_dust"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.3918579931973056d
+			y: -0.7658163265306044d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/toxic_paste"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:block/end"
+			rotation: 0.0d
+			width: 9.0d
+			x: 3.5d
+			y: -5.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"6450F9CA932E4E8C"
+				"62133878B524E274"
+				"52AA00F57CB1E360"
+				"679AA7BD4B13282D"
+				"42F579E53977DF2C"
+				"35BAD166CED7B37A"
+				"1D11C0E1CE2924CD"
+				"06AE5AE758D86117"
+				"7E5E23283941E6BF"
+				"77D82C14AF67BCEE"
+				"2D1E2B60A800EDDE"
+				"56B56E26B8F48D4F"
+			]
+			description: ["Отыскав &dдвенадцать&r очей края, а также найдя крепость края, вы можете смело отправляться в мир, где практически всё состоит из пустоты - &dКрай&r."]
+			id: "6153EB0873A1A74E"
+			rewards: [{
+				id: "55A65C54E1649133"
+				ignore_reward_blocking: true
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "irons_spellbooks:cast_time_ring"
+				id: "21CA52F37B4EC5FF"
+				title: "&dПосетите&r: Край"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Это око охраняет древнее существо глубоко под водой."]
+			id: "1D11C0E1CE2924CD"
+			rewards: [{
+				id: "758C1963EEF51C9D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2657EA6BE9B5A76F"
+				item: {
+					Count: 1
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			description: ["Хранится в аду под защитой самого &bБога Пламени."]
+			id: "52AA00F57CB1E360"
+			rewards: [{
+				id: "6C977EC0FDBD5E6B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2D40CCE488CFDD7D"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			description: ["С незапамятных времён это око охраняет Иссушитель."]
+			id: "35BAD166CED7B37A"
+			rewards: [{
+				id: "65A04FBD4048D94E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2EB0748A4B315622"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			description: ["Глубоко под землёй находится древний город. Ходят слухи о жутком существе, что обитает там. Кто знает, может оно охраняет именно это око?"]
+			id: "56B56E26B8F48D4F"
+			rewards: [{
+				id: "50C6EFE6DAFF313C"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7ADD8076A85DC4A6"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			description: ["Находится далеко в заснеженных землях под защитой могучего зверя."]
+			id: "62133878B524E274"
+			rewards: [{
+				id: "28AEA2956EC97B21"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0537C9E0A1E7B030"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Око, находящееся под защитой разбойников."]
+			id: "06AE5AE758D86117"
+			rewards: [{
+				id: "30FE45486E963498"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "29DF75BF5E4E7FFC"
+				item: {
+					Count: 1
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			description: ["Находится на заброшенной фабрике глубоко под землёй под защитой &4механического чудовища."]
+			id: "7E5E23283941E6BF"
+			rewards: [{
+				id: "2BE0D33C798FC489"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "37794856E7658A95"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			description: ["Это око охраняет огромный древний голем в аду."]
+			id: "679AA7BD4B13282D"
+			rewards: [{
+				id: "76E53566F1E951DA"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "08E13FB04A4CCBCA"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Давно утеряно в огромной &eзаброшенной пирамиде&f под охраной ужасного чудовища."]
+			id: "2D1E2B60A800EDDE"
+			rewards: [{
+				id: "59A3552E81A80DB9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0E9E529F83D1A781"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			description: ["Вам придётся убить огромную змею в &aСумеречном лесу&f, чтобы заполучить это око."]
+			id: "42F579E53977DF2C"
+			rewards: [{
+				id: "0BE22C5C36D36330"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2D7C46735E63FA74"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			description: ["Это око находится под охраной магов из расы Кобольдов."]
+			id: "77D82C14AF67BCEE"
+			rewards: [{
+				id: "1A9913412059006E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "14AB70D1520622E6"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			description: ["Это око находится в древнем затопленном городе под охраной ужасного &5порождения бездны."]
+			id: "6450F9CA932E4E8C"
+			rewards: [{
+				id: "6DFE6EC965461D31"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "42B1C018AD6871EC"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6153EB0873A1A74E"]
+			description: ["Центральный остров &dКрая&r куда ведёт портал в крепости, охраняется &dЭндер-Драконом&r. Могущественным созданием, обладающее огромной силой пустоты."]
+			hide_dependency_lines: true
+			id: "16A8F491189EB1D1"
+			rewards: [
+				{
+					id: "15E4F72455EEC0DD"
+					type: "xp"
+					xp: 5000
+				}
+				{
+					count: 4
+					id: "731FAC70BE808BB0"
+					item: "irons_spellbooks:upgrade_orb"
+					type: "item"
+				}
+				{
+					id: "220CA86583F63D78"
+					item: "ends_delight:non_hatchable_dragon_egg"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.2d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "12362086E6764E29"
+				title: "&dПобедите&r: Эндер-дракона"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16A8F491189EB1D1"]
+			description: ["Засунув личинку багрового комара в &dкапсид&r, можно получить &dтаинственного червя&r. Если бросить его в пустоты это призовёт древнюю сущность, именуемую &dПустотный Червём&r..."]
+			id: "18794889FA8D5405"
+			rewards: [{
+				id: "15A3410575B7FB47"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "1E556D9E591976D7"
+				item: "alexsmobs:mysterious_worm"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["18794889FA8D5405"]
+			description: ["Одолейте &dпустотного червя&r и заполучите древние артефакты, что были в нём запечатаны."]
+			id: "071DA7912CF9E83A"
+			rewards: [
+				{
+					id: "6D05178156143E93"
+					type: "xp"
+					xp: 2000
+				}
+				{
+					id: "759515E298B091C6"
+					item: "alexsmobs:mysterious_worm"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_kill"
+				criterion: ""
+				icon: "alexsmobs:hemolymph_sac"
+				id: "4E08F0B9D2F186A6"
+				title: "&dПобедите&r: Пустотного червя"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["071DA7912CF9E83A"]
+			description: ["Заберите &dдревние артефакты&r, что были запечатаны в пустотном черве."]
+			id: "4F3FC2A1A6B1EEE6"
+			rewards: [{
+				id: "75399BEDCC130E43"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "6462B89693D86125"
+				item: "alexsmobs:void_worm_eye"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["071DA7912CF9E83A"]
+			description: ["Заберите &dдревние артефакты&r, что были запечатаны в пустотном черве."]
+			id: "43A98A87D1245D4E"
+			rewards: [{
+				id: "1D41EF72425E7642"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "568A8F8EC58C0E99"
+				item: "alexsmobs:void_worm_mandible"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"43A98A87D1245D4E"
+				"4F3FC2A1A6B1EEE6"
+			]
+			description: ["Обьедените древние артефакты, чтобы заполучить могущественную реликвию - &dРезак Пространства&r. Он может копать само пространство!"]
+			id: "128677882E7DA170"
+			rewards: [{
+				id: "2532DF7C8F1EFD58"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2C7406B4DABC353C"
+				item: {
+					Count: 1
+					id: "alexsmobs:dimensional_carver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["16A8F491189EB1D1"]
+			description: ["В &dКраю&r можно найти &dдревнюю крепость пустоты&r. В ней обитает могущественный страж, что охраняет эту крепость тысячалетиями."]
+			id: "046AD33371C52EED"
+			rewards: [{
+				id: "442C9D14997751DD"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				icon: "cataclysm:altar_of_void"
+				id: "3AEA50E24093E76E"
+				structure: "cataclysm:ruined_citadel"
+				title: "&dПосетите&r: Пустотную крепость"
+				type: "structure"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["046AD33371C52EED"]
+			description: ["Одолейта &dстража края&r и заполучите &dмогущественный артефакт&r, способный притягивать множество существ."]
+			id: "38DD5AB82C03E70D"
+			rewards: [{
+				id: "0CE590CCD329D4F8"
+				type: "xp"
+				xp: 2000
+			}]
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:abyss_eye"
+				id: "49AC1D93412DB805"
+				title: "&dПобедите&r: Стража края"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["046AD33371C52EED"]
+			description: ["Победите &dголемов&r, что охраняют эту крепость и заполучите ядро пустоты."]
+			id: "2B2C90A07E101ED4"
+			rewards: [{
+				id: "74947FAB45952DFA"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "16A4B3D280788489"
+				item: "cataclysm:void_core"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["38DD5AB82C03E70D"]
+			description: ["Заполучите &dперчатку стража энда&r."]
+			id: "2E47FB88AF4E02A4"
+			rewards: [{
+				id: "22AF7B36DD2BAF0E"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "505EA030863B2919"
+				item: "cataclysm:gauntlet_of_guard"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+	]
+	title: "&d3.4&r: &lКрай"
+}

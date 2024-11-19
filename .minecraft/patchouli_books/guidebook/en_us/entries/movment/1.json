@@ -1,0 +1,11 @@
+{
+    "name": "Кувырки",
+    "icon": "minecraft:book",
+    "category": "patchouli:movment_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Кувырки это новая система уворота от противников. Их количество зависит от тяжести надетой на вас брони."
+        }
+    ]
+}

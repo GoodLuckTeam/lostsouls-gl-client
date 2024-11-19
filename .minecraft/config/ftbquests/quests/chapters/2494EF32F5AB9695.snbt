@@ -1,0 +1,3961 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2494EF32F5AB9695"
+	group: "24431910BCDF246B"
+	icon: "farmersdelight:cooking_pot"
+	id: "2494EF32F5AB9695"
+	images: [
+		{
+			height: 1.0d
+			image: "farmersdelight:item/pumpkin_pie_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.2d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/pumpkin_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/cactus_steak"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.6d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/roast_chicken_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/shepherds_pie"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/flowering_azalea_leaves_bushy"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:textures/gui/hanging_signs/canvas.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/diamond_knife"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.2d
+		}
+		{
+			height: 1.0d
+			image: "quarkdelight:item/lush_moss_salad"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cooking_pot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/tomatoes_coiled_rope"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/tomatoes_stage3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/tomatoes_coiled_rope"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/tomatoes_coiled_rope"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/tomatoes_vine_stage3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_large_leaves"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bamboo_large_leaves"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cake_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/matcha_milkshake"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/kelp_roll"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/baked_cave_carrot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/arthropod"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/bat_wing"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/copper_pot"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/squid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/copper_cup"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/insect_sandwich"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/stuffed_squid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/glow_ink_pasta"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/baked_squid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/beef_stew_cup"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/bat_rolls"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/bat_cookie"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/chicken_soup_cup"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/flowering_azalea_leaves_bushy1"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/dumplings"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cooked_bacon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cooked_salmon_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.6d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/chicken"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/cooked_salmon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -0.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/pumpkin_seeds"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/baked_potato"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/onion"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "create:item/wheat_flour"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/raw_pasta"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cabbage_rolls"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/crab_rangoon"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "quarkdelight:item/crab_bars"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/sinigang"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cod_roll"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/seagrass"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/tall_seagrass_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/glow_berries"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/chocolate_pie"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/cactus_soup_cup"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/field_salad"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/cantaloupe_popsicle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.3d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/jelly_bottle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "ecologics:item/coconut_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/cooked_rice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/beef_patty"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/smoked_ham"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "miners_delight:item/vegan_hamburger"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "delightful:item/deluxe_cheeseburger"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/chicken_sandwich"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/egg_sandwich"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/bacon_sandwich"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/honey_glazed_ham_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:item/kangaroo_burger"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/stuffed_potato"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/mutton_wrap"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/steak_and_potatoes"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/blazefire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 17.6d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/magma_cake_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cane_base_leaves_bloomed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cane_base_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cane_base_leaves_bloomed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cane_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cane_mid"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			height: 1.3d
+			image: "mynethersdelight:block/powdery_basket_top"
+			rotation: 0.0d
+			width: 1.3d
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/powdery_cannon_hanging_sign"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 14.95d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/deviled_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/boiled_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 15.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/hoglin_trophy"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/skoglin_trophy"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 14.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/strider_stew_cup"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/broken_strider_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 15.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:block/powdery_cannon_small_leaves_bloomed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/spicy_curry"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 19.2d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/strider_stew"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/strider_and_grilled_fungus"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/striderloaf_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 20.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/bleeding_tartar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/ghasta_with_cream_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 20.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/ghast_salad"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/spicy_cotton"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/ghast_dough"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/ghasta"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/hoglin_hide"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/roast_stuffed_hoglin"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/breakfast_sampler"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/hotdog"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/cooked_loin"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "mynethersdelight:item/roasted_sausage"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/dragon_tooth_knife"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 7.7d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/end_stone_knife"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 8.2d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/liquid_dragon_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/half_dragon_egg_shell"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/non_hatchable_dragon_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/dragon_meat_stew_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/steamed_dragon_egg_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/entity/banner/flags/additionalbanners/dragon.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -15.8d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:textures/thaumcraft/dragon.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/chorus_fruit_grain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/ender_pearl_grain"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/raw_ender_mite_meat"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/dried_endermite_meat"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: 6.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/roasted_shulker_meat"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/roasted_shulker_meat_slice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/chorus_fruit"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/chorus_fruit_popsicle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/chorus_flower_pie"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/dragon_breath_soda"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/bubble_tea"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/end_mixed_salad"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/assorted_salad"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/raw_ender_sausage"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/chorus_sauce"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/enderman_gristle_stew"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/shulker_omelette"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/entity/leviathan/abyss_orb.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/smoked_dragon_leg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 10.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/raw_dragon_meat"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 9.5d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/roasted_dragon_meat_cuts"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/raw_dragon_meat_cuts"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 12.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/dragon_leg_with_sauce"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/dragon_leg_with_sauce_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: 13.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Вам понадобится кухонная плита и котёл, чтобы начать готовить."]
+			icon: "farmersdelight:cooking_pot"
+			id: "2B8FA518226E282D"
+			rewards: [{
+				id: "6E5C7CF706C9998B"
+				type: "xp"
+				xp: 145
+			}]
+			tasks: [
+				{
+					id: "7E0DA439BB72434E"
+					item: "farmersdelight:stove"
+					type: "item"
+				}
+				{
+					id: "42BEB0036B203C14"
+					item: {
+						Count: 1
+						id: "farmersdelight:skillet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15AD454589DDEC55"
+					item: "farmersdelight:cooking_pot"
+					type: "item"
+				}
+			]
+			title: "Начало готовки"
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2B8FA518226E282D"]
+			description: ["В мире вы сможете найти различные дикорастущие культуры, которые потом можно будет одомашнить."]
+			icon: "farmersdelight:wild_tomatoes"
+			id: "596EEF71B9AB67DB"
+			rewards: [{
+				id: "2C28421377B46E57"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "2798D02ED0FEB6ED"
+					item: { Count: 4, id: "minecraft:wheat_seeds" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "17D2450876A78B7F"
+					item: { Count: 4, id: "minecraft:pumpkin_seeds" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "311FC4B0712AD12D"
+					item: { Count: 4, id: "minecraft:beetroot_seeds" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "38D36177AA6A6D3D"
+					item: { Count: 4, id: "farmersdelight:cabbage_seeds" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "54E3D89A7A9DEE0D"
+					item: { Count: 4, id: "farmersdelight:tomato_seeds" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6E66E06BC7708DFC"
+					item: { Count: 4, id: "minecraft:potato" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3B466315BF55CCC6"
+					item: { Count: 4, id: "minecraft:carrot" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "156228F7FEB7D84C"
+					item: { Count: 4, id: "farmersdelight:onion" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5DF661479796A3FF"
+					item: { Count: 4, id: "farmersdelight:rice" }
+					type: "item"
+				}
+			]
+			title: "Дикие культуры"
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["596EEF71B9AB67DB"]
+			description: ["Из этих культур получится много прекрасных блюд."]
+			icon: "farmersdelight:onion"
+			id: "5951E0D2E483CF0A"
+			rewards: [{
+				id: "38CE3900FA5C67AA"
+				type: "xp"
+				xp: 345
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "7C05C751C0D37EA1"
+					item: { Count: 4, id: "minecraft:pumpkin" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "21464998AD8EB168"
+					item: { Count: 16, id: "farmersdelight:onion" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "2B40C63DBDA03CB8"
+					item: { Count: 16, id: "minecraft:carrot" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "76BBEFF664D37D71"
+					item: { Count: 16, id: "minecraft:potato" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "798E7BE227EDD2DE"
+					item: { Count: 16, id: "minecraft:beetroot" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "103B60009E5FB384"
+					item: { Count: 16, id: "farmersdelight:rice_panicle" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "321B0099EE69C6C6"
+					item: { Count: 16, id: "farmersdelight:cabbage" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "1B1A1CA38E0477BF"
+					item: { Count: 16, id: "farmersdelight:tomato" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "03D0B3554D52B6B6"
+					item: { Count: 16, id: "minecraft:wheat" }
+					type: "item"
+				}
+			]
+			title: "Первый урожай"
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			description: ["Какой же повар без ножа?"]
+			icon: {
+				Count: 1
+				id: "farmersdelight:iron_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3D5FC49E0EF25C1C"
+			rewards: [{
+				id: "1B13D07F8A3C72CC"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "33CF6CACEFA5FC3D"
+					item: "farmersdelight:cutting_board"
+					type: "item"
+				}
+				{
+					id: "18E740BA9883BF08"
+					item: {
+						Count: 1
+						id: "farmersdelight:iron_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Инструменты повара"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5951E0D2E483CF0A"
+				"3D5FC49E0EF25C1C"
+			]
+			description: ["Многие культуры можно нарезать на разделочной доске."]
+			icon: "farmersdelight:cabbage_leaf"
+			id: "782BFE97030DA698"
+			rewards: [{
+				id: "20374C004F6EB374"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "2147A61406B71AD2"
+					item: { Count: 16, id: "farmersdelight:rice" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "03CDAD7BE4423355"
+					item: { Count: 16, id: "farmersdelight:cabbage_leaf" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "18A626213FB26C39"
+					item: { Count: 16, id: "farmersdelight:pumpkin_slice" }
+					type: "item"
+				}
+			]
+			title: "Нарезание"
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2B8FA518226E282D"]
+			description: ["И много же животных вы зарезали..."]
+			icon: "minecraft:porkchop"
+			id: "128A5FBAA6F573FD"
+			rewards: [{
+				id: "7C2303AFD7B2E661"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "60675DFBA6EA59DD"
+					item: { Count: 8, id: "minecraft:beef" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0C446660CEE9A822"
+					item: { Count: 8, id: "minecraft:porkchop" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1364E85B87312E4D"
+					item: { Count: 8, id: "minecraft:chicken" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1BF9CAA3DACED18F"
+					item: { Count: 8, id: "minecraft:mutton" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1524961918A0D553"
+					item: { Count: 8, id: "minecraft:cod" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1C6B94C3FC781A8B"
+					item: { Count: 8, id: "minecraft:salmon" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "35DFE0600B3F9AC3"
+					item: { Count: 8, id: "alexsmobs:raw_catfish" }
+					type: "item"
+				}
+			]
+			title: "Сырое мясо"
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"128A5FBAA6F573FD"
+				"3D5FC49E0EF25C1C"
+			]
+			description: ["Все виды мяса можно разрезать на разделочной доске."]
+			icon: "farmersdelight:chicken_cuts"
+			id: "7F64A347BE90FB41"
+			rewards: [{
+				id: "5FF62ADE24661965"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "0D65EDFAC514F980"
+					item: { Count: 8, id: "farmersdelight:chicken_cuts" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "787C21EE0A8058D5"
+					item: { Count: 8, id: "farmersdelight:minced_beef" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "172A5944C2E25BF2"
+					item: { Count: 8, id: "farmersdelight:mutton_chops" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "32325A47B7294D3E"
+					item: { Count: 8, id: "farmersdelight:bacon" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "320D2869D1A7F4A8"
+					item: { Count: 8, id: "farmersdelight:cod_slice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7DBAB26586E31DFF"
+					item: { Count: 8, id: "farmersdelight:salmon_slice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "14289719B1DDCE73"
+					item: { Count: 8, id: "alexsdelight:raw_catfish_slice" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5AABF5AF6834065C"
+					item: { Count: 4, id: "farmersdelight:ham" }
+					type: "item"
+				}
+			]
+			title: "Колбасная нарезка"
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2B8FA518226E282D"]
+			description: ["В сборке есть не только овощи."]
+			icon: "minecraft:melon_slice"
+			id: "3D7C6DC6BDE17FC5"
+			rewards: [{
+				id: "38DD124480D1CBFC"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "254735D9C170AAD1"
+					item: { Count: 16, id: "minecraft:sweet_berries" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "564986B9C1CF73EA"
+					item: { Count: 16, id: "minecraft:apple" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "03E8089C68BBD4F1"
+					item: { Count: 16, id: "delightful:salmonberries" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "51D2342803451C77"
+					item: { Count: 16, id: "minecraft:melon_slice" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "044431104D0F07B3"
+					item: { Count: 16, id: "minecraft:cocoa_beans" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "35D63AF04AF89E01"
+					item: { Count: 16, id: "delightful:cantaloupe_slice" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "2FB6D2E0B2C1F69B"
+					item: { Count: 16, id: "delightful:acorn" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "5DA99C972518CB25"
+					item: { Count: 16, id: "ecologics:prickly_pear" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "190D72D6500627E8"
+					item: { Count: 16, id: "delightful:cactus_flesh" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "2F178284416CCE5D"
+					item: { Count: 16, id: "ecologics:coconut_slice" }
+					type: "item"
+				}
+			]
+			title: "Сладкий урожай"
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2B8FA518226E282D"]
+			description: ["В пещерах тоже можно найти еду. И это даже не гнилая плоть."]
+			icon: "miners_delight:squid"
+			id: "7E61739B7389CE66"
+			rewards: [{
+				id: "4D929B8BB616754F"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "3444EE0AD45E9518"
+					item: { Count: 8, id: "miners_delight:cave_carrot" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0C51D697994410C9"
+					item: { Count: 8, id: "miners_delight:silverfish_eggs" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0CF98D6CAC604999"
+					item: { Count: 8, id: "miners_delight:arthropod" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "571978C8E7ACBC79"
+					item: { Count: 8, id: "miners_delight:bat_wing" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2E29D5207846ED79"
+					item: { Count: 8, id: "miners_delight:moss" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7888C22D8498DA77"
+					item: { Count: 8, id: "miners_delight:squid" }
+					type: "item"
+				}
+			]
+			title: "Пещерный урожай"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7E61739B7389CE66"]
+			description: ["Если вам удастся найти разделочную доску в пещере, вы можете покромсать спрута на щупальца."]
+			icon: "miners_delight:vegan_patty"
+			id: "1B4BC85450FA2F3E"
+			rewards: [{
+				id: "777EC6FD4ED0C51D"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "282A1CB6982CF36B"
+					item: { Count: 8, id: "miners_delight:tentacles" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6CE002C563E09D6E"
+					item: { Count: 8, id: "miners_delight:vegan_patty" }
+					type: "item"
+				}
+			]
+			title: "Пещерная нарезка"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1B4BC85450FA2F3E"]
+			description: ["Вот это уже больше похоже на съедобную пищу."]
+			icon: "miners_delight:smoked_bat_wing"
+			id: "7D3479B88ED3E01C"
+			rewards: [{
+				id: "2FAC33FC619E305F"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "0149AA3E5D941D99"
+					item: { Count: 8, id: "miners_delight:smoked_bat_wing" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "109A99AD5AE68240"
+					item: { Count: 8, id: "miners_delight:cooked_arthropod" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "5591F222CE2902CC"
+					item: { Count: 8, id: "miners_delight:baked_tentacles" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6917F032DC53648F"
+					item: { Count: 8, id: "miners_delight:baked_squid" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "61B06CB8092FA529"
+					item: { Count: 8, id: "miners_delight:weird_caviar" }
+					type: "item"
+				}
+			]
+			title: "Подземные закуски"
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7D3479B88ED3E01C"]
+			description: ["У меня просто нет слов."]
+			icon: "miners_delight:insect_wrap"
+			id: "063C76FA155D5E85"
+			rewards: [{
+				id: "19F965DCE215815B"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "25484A60994E6228"
+					item: { Count: 8, id: "miners_delight:insect_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3CF3274D07EBC1B5"
+					item: { Count: 8, id: "miners_delight:insect_wrap" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4150D6E6985572DB"
+					item: { Count: 4, id: "miners_delight:seasoned_arthropods" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "055E27742F707AC0"
+					item: { Count: 4, id: "miners_delight:insect_stew" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "675D79753C94C8EB"
+					item: { Count: 4, id: "miners_delight:insect_stew_cup" }
+					type: "item"
+				}
+			]
+			title: "Насекомые..."
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7D3479B88ED3E01C"]
+			description: ["Морепродукты."]
+			icon: "miners_delight:stuffed_squid"
+			id: "4C4EB551C2A3DE4C"
+			tasks: [
+				{
+					id: "2B06542B28EC0DD1"
+					item: "miners_delight:stuffed_squid"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "54DE2BAD902EF965"
+					item: { Count: 4, id: "miners_delight:takoyaki" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "141EE94659A9F3F3"
+					item: { Count: 4, id: "miners_delight:squid_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1A3C1FDF4555EC22"
+					item: { Count: 4, id: "miners_delight:bowl_of_stuffed_squid" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2BC2C9F918FD6CCF"
+					item: { Count: 4, id: "miners_delight:glow_ink_pasta" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6108ECBFDF893973"
+					item: { Count: 4, id: "miners_delight:baked_cod_stew_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0155C76B6B0CBD0F"
+					item: { Count: 4, id: "miners_delight:fish_stew_cup" }
+					type: "item"
+				}
+			]
+			title: "Морепродукты, но под землёй"
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7D3479B88ED3E01C"]
+			description: ["Много блюд из пещерных овощей."]
+			icon: "miners_delight:cave_soup"
+			id: "5CEA0EAFF5C20A15"
+			rewards: [{
+				id: "6318CC7074FE3A60"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "7FC58FDF493E7E88"
+					item: { Count: 4, id: "miners_delight:pasta_with_veggieballs" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5676509EC5CA6F8B"
+					item: { Count: 4, id: "miners_delight:vegan_wrap" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "519444B4CF4F8385"
+					item: { Count: 4, id: "miners_delight:vegan_steak_and_potatoes" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3D7FC58A1D657552"
+					item: { Count: 4, id: "miners_delight:vegan_hamburger" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "131838C3382E0EF5"
+					item: { Count: 4, id: "miners_delight:vegetable_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1F3549E86F959B83"
+					item: { Count: 4, id: "miners_delight:cave_soup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2CE40E32F571483B"
+					item: { Count: 4, id: "miners_delight:cave_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4AAF60D64031BA78"
+					item: { Count: 4, id: "miners_delight:pumpkin_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "39FFA2D5B24B093E"
+					item: { Count: 4, id: "miners_delight:mushroom_stew_cup" }
+					type: "item"
+				}
+			]
+			title: "Вегитарианская еда"
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7D3479B88ED3E01C"]
+			description: ["Различные закуски из летучей мыши."]
+			icon: "miners_delight:bat_cookie"
+			id: "4898BBB62DFFF0C4"
+			rewards: [{
+				id: "49B49585924DEE98"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "1E86395B9691D04D"
+					item: { Count: 4, id: "miners_delight:bat_soup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2C94F0EA14D0FF40"
+					item: { Count: 4, id: "miners_delight:bat_rolls" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "066ACF7E8CC0BD6E"
+					item: { Count: 4, id: "miners_delight:bat_cookie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "598B2E3523008BE2"
+					item: { Count: 4, id: "miners_delight:bat_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "672F4EFD35C0AEF5"
+					item: { Count: 4, id: "miners_delight:improvised_barbecue_stick" }
+					type: "item"
+				}
+			]
+			title: "Летучие блюда"
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7D3479B88ED3E01C"]
+			icon: "miners_delight:beetroot_soup_cup"
+			id: "2A5ABD46B87DB2A5"
+			rewards: [{
+				id: "1DBA86F55ABC8453"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "7E5FE740D7444165"
+					item: { Count: 4, id: "miners_delight:bone_broth_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1F1BDC770080780D"
+					item: { Count: 4, id: "miners_delight:chicken_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "641925236348D045"
+					item: { Count: 4, id: "miners_delight:beef_stew_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5EE4BD1F2BF4E5EF"
+					item: { Count: 4, id: "miners_delight:noodle_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1FF2A00D249849F9"
+					item: { Count: 4, id: "miners_delight:rabbit_stew_cup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5BFD45ABFB4541A7"
+					item: { Count: 4, id: "miners_delight:beetroot_soup_cup" }
+					type: "item"
+				}
+			]
+			title: "Пещерные супы"
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3D7C6DC6BDE17FC5"]
+			description: ["Мне нечего здесь написать, они никак не связаны."]
+			icon: "delightful:cantaloupe_bread"
+			id: "6311ED2E98750500"
+			rewards: [{
+				id: "11BBC7D9E4EF4030"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "3A66D752DC6CAEE4"
+					item: { Count: 4, id: "delightful:cantaloupe_bread" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7C9D01507C1997EF"
+					item: { Count: 4, id: "delightful:cantaloupe_gummy" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "642F590BB69CA1FE"
+					item: { Count: 4, id: "delightful:salmonberry_gummy" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2B600ACC76415F51"
+					item: { Count: 4, id: "delightful:matcha" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6CA453355B4AAE3C"
+					item: { Count: 4, id: "delightful:roasted_acorn" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "36B4A34BAA782AF2"
+					item: { Count: 4, id: "delightful:cactus_steak" }
+					type: "item"
+				}
+			]
+			title: "Невероятная фруктовая еда"
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6311ED2E98750500"]
+			description: ["Десерты."]
+			icon: "delightful:salmonberry_ice_cream"
+			id: "03E5AF251C37271D"
+			rewards: [{
+				id: "47834C3829E1FBCA"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "5457B16FF5028FFC"
+					item: { Count: 4, id: "delightful:matcha_ice_cream" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "33CA11CD579372F4"
+					item: { Count: 4, id: "delightful:salmonberry_ice_cream" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "38BAC79A3A5157D6"
+					item: { Count: 4, id: "delightful:matcha_milkshake" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "034340CCF675C6A6"
+					item: { Count: 4, id: "delightful:salmonberry_milkshake" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "2BBFDD7E1A06C0D3"
+					item: { Count: 2, id: "delightful:salmonberry_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1F6DA2C5D0A5EF1E"
+					item: { Count: 4, id: "delightful:nut_butter_bottle" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5FCB5DBB2EC377F0"
+					item: { Count: 4, id: "delightful:cantaloupe_popsicle" }
+					type: "item"
+				}
+			]
+			title: "Мороженое и коктейли"
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6311ED2E98750500"]
+			description: ["Много вкусных напитков."]
+			icon: "delightful:berry_matcha_latte"
+			id: "3DD3EF1EB161690D"
+			rewards: [{
+				id: "1E02E560A047D163"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "5C20AC2F1707532C"
+					item: { Count: 4, id: "delightful:prickly_pear_juice" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "476E0E6FDE26D7BF"
+					item: { Count: 4, id: "delightful:lavender_tea" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0BCAC61081E655A9"
+					item: { Count: 4, id: "delightful:azalea_tea" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "53B7105973ABC97C"
+					item: { Count: 4, id: "delightful:ender_nectar" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "030931A57B8388DF"
+					item: { Count: 4, id: "delightful:matcha_latte" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "04996445066BFE06"
+					item: { Count: 4, id: "delightful:berry_matcha_latte" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "55A7725A1185BA31"
+					item: { Count: 4, id: "delightful:glow_jelly_bottle" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5C9FBD1B99A4CDC4"
+					item: { Count: 4, id: "delightful:jelly_bottle" }
+					type: "item"
+				}
+			]
+			title: "Фруктовые напитки"
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6311ED2E98750500"]
+			description: ["Экзотические закуски."]
+			icon: "delightful:nut_butter_and_jelly_sandwich"
+			id: "6D94358B33F4C422"
+			rewards: [{
+				id: "33D58E1D03A90916"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "52D82D1E1A5F6353"
+					item: { Count: 4, id: "delightful:nut_butter_and_jelly_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2D4D8443FB345F3C"
+					item: { Count: 4, id: "delightful:field_salad" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5C52CEB062B969EB"
+					item: { Count: 4, id: "delightful:cactus_soup" }
+					type: "item"
+				}
+			]
+			title: "Лёгкие закуски"
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2EDF0ED0F77C09AA"]
+			description: ["Роллы."]
+			icon: "farmersdelight:rice_roll_medley_block"
+			id: "5D11DDF4D0B139AD"
+			rewards: [{
+				id: "7CA90F4F1CDBE9B9"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "3FF34663F2DA0E0F"
+					item: { Count: 4, id: "farmersdelight:kelp_roll" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0A674556AB380E4F"
+					item: { Count: 8, id: "farmersdelight:kelp_roll_slice" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1481B561ABEBF8C2"
+					item: { Count: 2, id: "farmersdelight:rice_roll_medley_block" }
+					type: "item"
+				}
+			]
+			title: "Роллы"
+			x: -10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7F64A347BE90FB41"]
+			description: ["Самый простой вид еды из рыбы."]
+			icon: "farmersdelight:salmon_roll"
+			id: "2EDF0ED0F77C09AA"
+			tasks: [
+				{
+					count: 4L
+					id: "5FA3A4D8D06B22CC"
+					item: { Count: 4, id: "farmersdelight:salmon_roll" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "73FB6CEF68BA25AF"
+					item: { Count: 4, id: "farmersdelight:cod_roll" }
+					type: "item"
+				}
+			]
+			title: "Нигири"
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7F64A347BE90FB41"]
+			description: ["Из рыбы можно приготовить много вкусных блюд."]
+			icon: "alexsdelight:lobster_pasta"
+			id: "7E01C1693FBF7D36"
+			rewards: [{
+				id: "0ADC4B39156162CC"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "7CFBFD1B435E64BA"
+					item: { Count: 4, id: "farmersdelight:grilled_salmon" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "123021DD63A092E0"
+					item: { Count: 4, id: "farmersdelight:squid_ink_pasta" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1E7259A9535BFC83"
+					item: { Count: 4, id: "alexsdelight:lobster_pasta" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7C83BFB0EE4F9074"
+					item: { Count: 4, id: "quarkdelight:crab_bars" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2C3811B7B84533F2"
+					item: { Count: 4, id: "quarkdelight:crab_pasta" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "242DC31176A2BF75"
+					item: { Count: 4, id: "quarkdelight:cooked_whole_crab" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5C2A41D658747850"
+					item: { Count: 4, id: "delightful:crab_rangoon" }
+					type: "item"
+				}
+			]
+			title: "Рыбный промысел"
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E01C1693FBF7D36"]
+			description: ["Например, суп."]
+			icon: "farmersdelight:fish_stew"
+			id: "0593D9994DB72412"
+			rewards: [{
+				id: "3BF316457EF54534"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "7A739874ACDAB1F1"
+					item: { Count: 4, id: "farmersdelight:baked_cod_stew" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0D1BE523F9D9E391"
+					item: { Count: 4, id: "delightful:sinigang" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "49D0BED7EDFBE3BE"
+					item: { Count: 4, id: "farmersdelight:fish_stew" }
+					type: "item"
+				}
+			]
+			title: "Рыбные супы"
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["782BFE97030DA698"]
+			description: ["Салаты, в которых нет мяса."]
+			icon: "quarkdelight:lush_moss_salad"
+			id: "03B328D518D76C1D"
+			rewards: [{
+				id: "74B5A6F43169EF90"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "18F4D8732BAADA59"
+					item: { Count: 4, id: "farmersdelight:mixed_salad" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "315C777E8FD93C8A"
+					item: { Count: 4, id: "farmersdelight:fruit_salad" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "699FA1EBD1B9A44A"
+					item: { Count: 4, id: "alexsdelight:maggot_salad" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A2D234D0D5B39AE"
+					item: { Count: 4, id: "quarkdelight:lush_moss_salad" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6AE1DFBF3ABF8694"
+					item: { Count: 4, id: "farmersdelight:cooked_rice" }
+					type: "item"
+				}
+			]
+			title: "Салатики"
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["782BFE97030DA698"]
+			description: ["Простые овощные блюда."]
+			icon: "farmersdelight:fried_rice"
+			id: "0201336357E5E802"
+			rewards: [{
+				id: "6870A3C17219FA22"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "686751FD7FBB9F16"
+					item: "farmersdelight:ratatouille"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "375D8199D03CE6A2"
+					item: { Count: 4, id: "alexsdelight:gongylidia_bruschetta" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5D6FC4DE9FAB672B"
+					item: { Count: 4, id: "farmersdelight:fried_rice" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0515BDF685E8362E"
+					item: { Count: 4, id: "farmersdelight:mushroom_rice" }
+					type: "item"
+				}
+			]
+			title: "Ововщной микс"
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["782BFE97030DA698"]
+			description: ["Супы без мяса."]
+			icon: "farmersdelight:tomato_sauce"
+			id: "2334A140C9F1F703"
+			rewards: [{
+				id: "21AAFCF1171DE619"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "0DB97178F817316C"
+					item: { Count: 4, id: "quarkdelight:miso_with_bamboo_sprouts" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "485371119385AC29"
+					item: { Count: 4, id: "alexsdelight:acacia_blossom_soup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3B6E9E5FD66180D8"
+					item: { Count: 4, id: "farmersdelight:pumpkin_soup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "006CEFB7F962F7D3"
+					item: { Count: 4, id: "ecologics:tropical_stew" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "080BAB6BF8776A98"
+					item: { Count: 4, id: "quarkdelight:cavern_explorer_stew" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "127244CADFA9183C"
+					item: { Count: 4, id: "farmersdelight:tomato_sauce" }
+					type: "item"
+				}
+			]
+			title: "Вегитарианские супы"
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["7F64A347BE90FB41"]
+			description: ["Жареные вариации нарезанного мяса."]
+			icon: "farmersdelight:beef_patty"
+			id: "37BDDCD402F302F0"
+			rewards: [{
+				id: "6E10F97D501D0683"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "2CB3ACB78483EF2C"
+					item: { Count: 4, id: "farmersdelight:beef_patty" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "70BFF01FE23D0CA7"
+					item: { Count: 4, id: "farmersdelight:cooked_chicken_cuts" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "55CA2514BC4F12D9"
+					item: { Count: 4, id: "farmersdelight:cooked_bacon" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1485BD4A4CEF4C6A"
+					item: { Count: 4, id: "farmersdelight:cooked_mutton_chops" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3F19FE280A7988A1"
+					item: { Count: 4, id: "farmersdelight:smoked_ham" }
+					type: "item"
+				}
+			]
+			title: "Жареное мясо"
+			x: -10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["57A9AB031C71147D"]
+			description: ["Выглядит вкусно."]
+			icon: "farmersdelight:dumplings"
+			id: "5377E6E15B478D1A"
+			rewards: [{
+				id: "0E7FD3881F7F90DC"
+				type: "xp"
+				xp: 750
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "376C96B937930800"
+					item: { Count: 4, id: "farmersdelight:dumplings" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "06E0B45B1FCABF34"
+					item: { Count: 4, id: "farmersdelight:cabbage_rolls" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "34F6AA97EE223882"
+					item: { Count: 4, id: "farmersdelight:beef_stew" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4AF978F6693870C8"
+					item: { Count: 4, id: "farmersdelight:chicken_soup" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "41BF894591EB5CFB"
+					item: { Count: 4, id: "farmersdelight:pasta_with_meatballs" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "304103DC3F8D06BC"
+					item: { Count: 4, id: "farmersdelight:pasta_with_mutton_chop" }
+					type: "item"
+				}
+			]
+			title: "Простые мясные блюда"
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3D5FC49E0EF25C1C"]
+			description: ["Из теста можно приготовить много чего интересного."]
+			icon: "farmersdelight:wheat_dough"
+			id: "57A9AB031C71147D"
+			rewards: [{
+				id: "270AA84D598C4D00"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "3424FFB41514DEBA"
+					item: { Count: 8, id: "farmersdelight:wheat_dough" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "07BAA2F6CD598926"
+					item: { Count: 8, id: "farmersdelight:raw_pasta" }
+					type: "item"
+				}
+			]
+			title: "Тесто"
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["37BDDCD402F302F0"]
+			description: ["Блюда из жареного мяса."]
+			icon: "farmersdelight:steak_and_potatoes"
+			id: "050CB60EE372AA1A"
+			rewards: [{
+				id: "55FAE001DB8C498D"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "43E67439ADED852B"
+					item: { Count: 4, id: "farmersdelight:mutton_wrap" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "64061BC8B8101499"
+					item: { Count: 4, id: "farmersdelight:roasted_mutton_chops" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7B5778FF2E729F5E"
+					item: { Count: 4, id: "farmersdelight:steak_and_potatoes" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2E05DE3A05AC0274"
+					item: { Count: 4, id: "farmersdelight:barbecue_stick" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "788721C61D31E46B"
+					item: { Count: 4, id: "farmersdelight:stuffed_potato" }
+					type: "item"
+				}
+			]
+			title: "Блюда из жареного мяса"
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["37BDDCD402F302F0"]
+			description: ["Самые сложные блюда из Farmer's Delight. Их даже можно поставить."]
+			icon: "farmersdelight:honey_glazed_ham_block"
+			id: "3262029D3D3C9CEA"
+			rewards: [{
+				id: "4C55349EBB63008F"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					id: "5E15633518C2497F"
+					item: "farmersdelight:roast_chicken_block"
+					type: "item"
+				}
+				{
+					id: "1B1DDEE442E38EEF"
+					item: "farmersdelight:shepherds_pie_block"
+					type: "item"
+				}
+				{
+					id: "760E4E2F659EB395"
+					item: "farmersdelight:honey_glazed_ham_block"
+					type: "item"
+				}
+			]
+			title: "Праздничные блюда"
+			x: -13.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3D7C6DC6BDE17FC5"]
+			description: ["Различные виды пирогов."]
+			icon: "farmersdelight:apple_pie"
+			id: "7166483A365411DC"
+			rewards: [{
+				id: "7BB2697C417F383B"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "49ADB08ED9D8FE4D"
+					item: { Count: 4, id: "minecraft:pumpkin_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "19A6D4116933550D"
+					item: { Count: 4, id: "farmersdelight:apple_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "727151D728DB79F9"
+					item: { Count: 4, id: "farmersdelight:chocolate_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6CE3294FAF51753A"
+					item: { Count: 4, id: "farmersdelight:sweet_berry_cheesecake" }
+					type: "item"
+				}
+			]
+			title: "Пироги"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["37BDDCD402F302F0"]
+			description: ["Да, много же здесь калорий."]
+			icon: "delightful:deluxe_cheeseburger"
+			id: "43E7483A278132C7"
+			rewards: [{
+				id: "1DD29DE7D358991A"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "23D4F9062D6E977F"
+					item: { Count: 4, id: "alexsmobs:kangaroo_burger" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "55D6C294D28D3D70"
+					item: { Count: 4, id: "farmersdelight:hamburger" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "01F5A4968696A6F4"
+					item: { Count: 4, id: "delightful:cheeseburger" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "73B56F908B473AA7"
+					item: { Count: 4, id: "delightful:deluxe_cheeseburger" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "34E74C9EA83F04ED"
+					item: { Count: 4, id: "alexsdelight:bison_burger" }
+					type: "item"
+				}
+			]
+			title: "Бургеры"
+			x: -12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37BDDCD402F302F0"]
+			description: ["Простые в крафте бутерброды."]
+			icon: "farmersdelight:bacon_sandwich"
+			id: "50598156247D288B"
+			rewards: [{
+				id: "6D9A6CDF19E7A3DD"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "1F1343C1F855BF0F"
+					item: { Count: 4, id: "farmersdelight:egg_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0571A4CCC7BA143E"
+					item: { Count: 4, id: "farmersdelight:chicken_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "078A9F8845C4D008"
+					item: { Count: 4, id: "farmersdelight:bacon_sandwich" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "77952D5537F30109"
+					item: { Count: 4, id: "alexsdelight:bunfungus_sandwich" }
+					type: "item"
+				}
+			]
+			title: "Сэндвичи"
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			description: ["Даже в Энде можно начать готовить."]
+			icon: {
+				Count: 1
+				id: "ends_delight:dragon_tooth_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2AEAF6DDFF7A9319"
+			rewards: [{
+				id: "7B96446446DEC435"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "56C3E1440C7A2320"
+					item: {
+						Count: 1
+						id: "ends_delight:end_stone_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7CD929816C44F988"
+					item: {
+						Count: 1
+						id: "ends_delight:purpur_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Эндерские ножи"
+			x: -16.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2AEAF6DDFF7A9319"]
+			description: ["Наконец-то! Омлет из дракона."]
+			id: "0F650394A4F921FA"
+			rewards: [{
+				id: "5FE86F59BB9A22ED"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "44B2C7FF022A708C"
+				item: "ends_delight:non_hatchable_dragon_egg"
+				type: "item"
+			}]
+			title: "Странное яйцо"
+			x: -16.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0F650394A4F921FA"]
+			description: ["Лишь бы не вытекло из рук."]
+			id: "51FEABC00A6ECB3C"
+			rewards: [{
+				id: "6B4A5AFC6955C2F9"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				count: 2L
+				id: "33139621B07003B6"
+				item: "ends_delight:liquid_dragon_egg"
+				type: "item"
+			}]
+			title: "Жидкое яйцо дракона"
+			x: -17.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0F650394A4F921FA"]
+			description: ["Интересная тарелка."]
+			id: "3DF9740478031A26"
+			rewards: [{
+				id: "40E4600D7A3D0FA5"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				count: 2L
+				id: "3088FE6BAD4F0502"
+				item: "ends_delight:half_dragon_egg_shell"
+				type: "item"
+			}]
+			title: "Необычная тарелка"
+			x: -15.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"51FEABC00A6ECB3C"
+				"3DF9740478031A26"
+			]
+			description: ["Наверное, дорогое блюдо."]
+			id: "0112F2A42DC31731"
+			rewards: [{
+				id: "2A341E357947A4C5"
+				type: "xp"
+				xp: 650
+			}]
+			tasks: [
+				{
+					id: "15397D5842795151"
+					item: "ends_delight:dragon_meat_stew_block"
+					type: "item"
+				}
+				{
+					id: "32B1BAFB544D4B4B"
+					item: "ends_delight:steamed_dragon_egg_block"
+					type: "item"
+				}
+			]
+			x: -16.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2AEAF6DDFF7A9319"]
+			description: ["Самый дорогой стейк в вашей жизни."]
+			icon: "ends_delight:raw_dragon_meat"
+			id: "0B0357E8878289BA"
+			rewards: [{
+				id: "543930C35A1212B1"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "09ACD69F9EA8740A"
+					item: "ends_delight:raw_dragon_meat"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "534A8B75222AE5CC"
+					item: { Count: 3, id: "ends_delight:dragon_leg" }
+					type: "item"
+				}
+			]
+			title: "Драконье мясо"
+			x: -16.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0B0357E8878289BA"]
+			description: ["Главное - не пережарьте."]
+			icon: "ends_delight:smoked_dragon_leg"
+			id: "7DECB368A061FB29"
+			rewards: [{
+				id: "348AB48A3C3C2306"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "06B1C8B10D742ECF"
+					item: { Count: 3, id: "ends_delight:raw_dragon_meat_cuts" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "19557C7F9462E2DD"
+					item: { Count: 3, id: "ends_delight:roasted_dragon_meat_cuts" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "1397A26858F36232"
+					item: { Count: 3, id: "ends_delight:smoked_dragon_leg" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "7757CA41A6FE8BDE"
+					item: { Count: 3, id: "ends_delight:roasted_dragon_meat" }
+					type: "item"
+				}
+			]
+			title: "Драконьи стейки"
+			x: -16.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DECB368A061FB29"]
+			description: ["Самый дорогой ужин."]
+			icon: "ends_delight:dragon_leg_with_sauce_block"
+			id: "4B4FA526D0F6D8B9"
+			rewards: [{
+				id: "161954E3C5E8D45E"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "50AD6A2C119C3AA4"
+					item: "ends_delight:dragon_leg_with_sauce_block"
+					type: "item"
+				}
+				{
+					id: "1333C25CC5531854"
+					item: "ends_delight:roasted_dragon_steak"
+					type: "item"
+				}
+			]
+			title: "Блюда из дракона"
+			x: -17.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DECB368A061FB29"]
+			description: ["Шашлык в энде... Интересно."]
+			icon: "ends_delight:end_barbecue_stick"
+			id: "56919F21DD7A422C"
+			rewards: [{
+				id: "19B0B666358397D6"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "09CBB95781716CB9"
+					item: { Count: 3, id: "ends_delight:end_barbecue_stick" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6C0B6D55A20F2A92"
+					item: { Count: 3, id: "ends_delight:dragon_leg_with_sauce" }
+					type: "item"
+				}
+			]
+			title: "Эндерский шашлык"
+			x: -14.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["2AEAF6DDFF7A9319"]
+			description: ["Даже в энде можно что-то выращивать."]
+			icon: "ends_delight:ender_pearl_grain"
+			id: "372559BECDC24D75"
+			rewards: [{
+				id: "260EA51E84530FEE"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "6A306F789797AD26"
+					item: { Count: 3, id: "ends_delight:dried_chorus_flower" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "0B369E6D168508E9"
+					item: { Count: 3, id: "ends_delight:chorus_succulent" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "15FE055DAFBAF2F6"
+					item: { Count: 3, id: "ends_delight:chorus_fruit_grain" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "7D4D1943D527BEA4"
+					item: { Count: 3, id: "ends_delight:ender_pearl_grain" }
+					type: "item"
+				}
+			]
+			title: "Семена края"
+			x: -14.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2AEAF6DDFF7A9319"]
+			description: ["Он больше не бесполезен."]
+			icon: "ends_delight:raw_ender_mite_meat"
+			id: "2221208B9CC502D5"
+			rewards: [{
+				id: "59F0AD2C50F64064"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "56E616F700DD3182"
+					item: { Count: 3, id: "ends_delight:raw_ender_mite_meat" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "13E5AAAA35B4C452"
+					item: { Count: 3, id: "ends_delight:dried_endermite_meat" }
+					type: "item"
+				}
+			]
+			title: "Мясо эндермита"
+			x: -14.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"2221208B9CC502D5"
+				"372559BECDC24D75"
+			]
+			description: ["Теперь вы сполна можете им отомстить."]
+			icon: "ends_delight:shulker_meat"
+			id: "60B85AECB1EC2983"
+			rewards: [{
+				id: "5C7DAA0DE07D7635"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "3EFD729BBFF6EF2F"
+					item: { Count: 3, id: "minecraft:chorus_fruit" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5C8CCF4F0BD39972"
+					item: { Count: 3, id: "minecraft:shulker_shell" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "4518C5AB27F2D5F3"
+					item: "ends_delight:shulker_meat"
+					type: "item"
+				}
+			]
+			title: "Внутренности шалкера"
+			x: -13.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["60B85AECB1EC2983"]
+			description: ["Различные простые блюда из того, что можно найти в энде."]
+			icon: "ends_delight:shulker_soup"
+			id: "074373C972191A68"
+			rewards: [{
+				id: "53E0C668DE2A7000"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "712ED6C14644D0A8"
+					item: { Count: 3, id: "ends_delight:ender_congee" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5A177ED8D589A001"
+					item: { Count: 3, id: "ends_delight:ender_noodle" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "624A7C2B01012F5E"
+					item: { Count: 3, id: "ends_delight:shulker_soup" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "48211CF542030FC7"
+					item: { Count: 3, id: "ends_delight:enderman_gristle_stew" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "68C04E1306C4BFF9"
+					item: { Count: 3, id: "ends_delight:dragon_breath_and_chorus_soup" }
+					type: "item"
+				}
+			]
+			title: "Супчики из энда"
+			x: -11.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["60B85AECB1EC2983"]
+			description: ["Омлет из шалкера... Звучит забавно."]
+			icon: "ends_delight:stir_fried_shulker_meat"
+			id: "5FA0E76CC4D17D4E"
+			rewards: [{
+				id: "5ABB2F116FB13C8F"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "03C15D1B20662BAA"
+					item: { Count: 3, id: "ends_delight:stir_fried_shulker_meat" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "29B3599C223F57A7"
+					item: { Count: 3, id: "ends_delight:shulker_omelette" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "32B45A6885BA518B"
+					item: { Count: 3, id: "ends_delight:grilled_shulker_block" }
+					type: "item"
+				}
+			]
+			title: "Жаркое из шалкера"
+			x: -11.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["60B85AECB1EC2983"]
+			description: ["Пироги."]
+			icon: "ends_delight:stuffed_rice_cake"
+			id: "29691F38EE7E0198"
+			rewards: [{
+				id: "269F233A21DA07FB"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "72497DB8B6C11A3F"
+					item: { Count: 4, id: "ends_delight:chorus_flower_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1B2376575ABE77AC"
+					item: { Count: 4, id: "ends_delight:chorus_fruit_pie" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "45528E30CAFFFAF5"
+					item: { Count: 4, id: "ends_delight:stuffed_rice_cake" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "571E8C19C1240E84"
+					item: { Count: 3, id: "ends_delight:chorus_fruit_popsicle" }
+					type: "item"
+				}
+			]
+			title: "Пирожки из энда"
+			x: -11.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["29691F38EE7E0198"]
+			description: ["Вкусные напитки из края."]
+			icon: "ends_delight:bubble_tea"
+			id: "16C4F400DC69DA26"
+			rewards: [{
+				id: "692A738E29F8BBFF"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "491B459E9B1070CA"
+					item: { Count: 3, id: "ends_delight:chorus_fruit_milk_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "0F6FA1846EE8F7B6"
+					item: { Count: 3, id: "ends_delight:bubble_tea" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "0D29BB33EAC25AD3"
+					item: { Count: 3, id: "ends_delight:chorus_fruit_wine" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "2C80D45C5FFB40A7"
+					item: { Count: 3, id: "ends_delight:dragon_breath_soda" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "750EC1FCFD219717"
+					item: { Count: 3, id: "ends_delight:chorus_flower_tea" }
+					type: "item"
+				}
+			]
+			title: "Напитки края"
+			x: -9.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5FA0E76CC4D17D4E"]
+			description: ["Салаты из эндерских растений."]
+			icon: "ends_delight:end_mixed_salad"
+			id: "788A4762FD349F11"
+			rewards: [{
+				id: "083353A7EB35B665"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "56E924C712C2D4C9"
+					item: { Count: 2, id: "ends_delight:end_mixed_salad" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "49EDA0A68051E1C9"
+					item: { Count: 2, id: "ends_delight:assorted_salad" }
+					type: "item"
+				}
+			]
+			title: "Салаты края"
+			x: -9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["074373C972191A68"]
+			description: ["Абсолютно не связанные между собой блюда."]
+			icon: "ends_delight:ender_sausage"
+			id: "2795A693D7426E37"
+			rewards: [{
+				id: "692F60356A8F5096"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "4CB4384117DDAEBF"
+					item: { Count: 3, id: "ends_delight:chorus_sauce" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "54B4565B67543F39"
+					item: { Count: 3, id: "ends_delight:ender_sausage" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "54EFF49261BCBD52"
+					item: { Count: 3, id: "ends_delight:ender_bamboo_rice" }
+					type: "item"
+				}
+			]
+			title: "Эндер-соус"
+			x: -9.0d
+			y: 5.5d
+		}
+		{
+			description: ["Хоглин, как оказалось, очень даже полезен."]
+			icon: "mynethersdelight:hoglin_hide"
+			id: "71D13F8ED724184A"
+			rewards: [{
+				id: "5F08B1459C896230"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "7D0CF584BED7B29C"
+					item: "mynethersdelight:hoglin_hide"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "726F772B3765BEA1"
+					item: { Count: 3, id: "mynethersdelight:hoglin_loin" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "322630EAEE4431AD"
+					item: { Count: 3, id: "mynethersdelight:hoglin_sausage" }
+					type: "item"
+				}
+			]
+			title: "Огромный адский свин"
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["71D13F8ED724184A"]
+			description: ["Первые блюда из хоглина."]
+			icon: "mynethersdelight:raw_stuffed_hoglin"
+			id: "08F5B42A93472C9D"
+			rewards: [{
+				id: "4C93881B3CEB177D"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "331B2001AD8A3B00"
+					item: { Count: 3, id: "mynethersdelight:cooked_loin" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "1DEFDB8BD4033B85"
+					item: { Count: 3, id: "mynethersdelight:roasted_sausage" }
+					type: "item"
+				}
+				{
+					id: "4920E9CA5CBA7554"
+					item: "mynethersdelight:raw_stuffed_hoglin"
+					type: "item"
+				}
+			]
+			title: "Внутренности хоглина"
+			x: 4.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["08F5B42A93472C9D"]
+			description: ["Фаршированный хоглин - это вкусно."]
+			icon: "mynethersdelight:roast_stuffed_hoglin"
+			id: "43A2E8E5E1F40FD5"
+			rewards: [{
+				id: "5B8FEE084A7D5761"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "7A56E4EB528C11B0"
+					item: { Count: 3, id: "mynethersdelight:hotdog" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "140761B8F8E56B9E"
+					item: { Count: 3, id: "mynethersdelight:blue_tenderloin_steak" }
+					type: "item"
+				}
+				{
+					id: "1C93A3298C0C318F"
+					item: "mynethersdelight:roast_stuffed_hoglin"
+					type: "item"
+				}
+			]
+			title: "Фаршированный хоглин"
+			x: 4.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["08F5B42A93472C9D"]
+			description: ["Порции фаршированного хоглина."]
+			icon: "mynethersdelight:plate_of_stuffed_hoglin_snout"
+			id: "6615AB6958CDE71C"
+			rewards: [{
+				id: "5F1086508F246394"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "37EC4FB1A233FEFC"
+					item: "mynethersdelight:plate_of_stuffed_hoglin_snout"
+					type: "item"
+				}
+				{
+					id: "30D1CA99400FEC09"
+					item: "mynethersdelight:plate_of_stuffed_hoglin_ham"
+					type: "item"
+				}
+				{
+					id: "3C6E4DD538C51B8C"
+					item: "mynethersdelight:plate_of_stuffed_hoglin"
+					type: "item"
+				}
+			]
+			title: "Нарезанный хоглин"
+			x: 6.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["71D13F8ED724184A"]
+			description: ["Почему?"]
+			id: "4CBD140354E40E45"
+			rewards: [{
+				id: "60BFA49CD095DD09"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				id: "14145503423401BE"
+				item: "mynethersdelight:strider_rock"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["71D13F8ED724184A"]
+			description: ["Дьявольские яйца..."]
+			icon: "mynethersdelight:deviled_egg"
+			id: "295C8DC11B22B1B6"
+			rewards: [{
+				id: "3FE4260EB057F6AB"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "536E5C9C5F17CE27"
+					item: "mynethersdelight:boiled_egg"
+					type: "item"
+				}
+				{
+					id: "40C1F32CC7DEC4A6"
+					item: "mynethersdelight:deviled_egg"
+					type: "item"
+				}
+			]
+			title: "Дьявольские яйца"
+			x: 2.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["295C8DC11B22B1B6"]
+			icon: "mynethersdelight:ghasta"
+			id: "25C5C1B8CDE2EB21"
+			rewards: [{
+				id: "6A9DAB519DF3E3A1"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "0F1A4D05AA350D3E"
+					item: "mynethersdelight:ghasmati"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7BA55766C081E8AC"
+					item: "mynethersdelight:ghasta"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5EE8A085CABFD047"
+					item: { Count: 2, id: "mynethersdelight:ghast_dough" }
+					type: "item"
+				}
+			]
+			title: "Итальянская гаста"
+			x: 2.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["4CBD140354E40E45"]
+			description: ["Лавомерку тоже можно порубить на мясо."]
+			id: "4E9605F744F69B14"
+			rewards: [{
+				id: "4544D0D65FAB7810"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "25130523678624D1"
+					item: "mynethersdelight:strider_slice"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "761E64E68521321A"
+					item: "mynethersdelight:minced_strider"
+					type: "item"
+				}
+			]
+			title: "Нарезка лавомерок"
+			x: 5.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["25C5C1B8CDE2EB21"]
+			icon: "mynethersdelight:ghasta_with_cream"
+			id: "1C4597EAA70A7111"
+			rewards: [{
+				id: "4A29D7BF74226C2B"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "370B6107E2F3CAEC"
+					item: { Count: 3, id: "mynethersdelight:spicy_cotton" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "245B36099D5806C1"
+					item: { Count: 3, id: "mynethersdelight:plate_of_ghasta_with_cream" }
+					type: "item"
+				}
+				{
+					id: "10C649BC5AEB5CC7"
+					item: "mynethersdelight:ghasta_with_cream"
+					type: "item"
+				}
+			]
+			title: "Очень странные блюда"
+			x: 0.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["25C5C1B8CDE2EB21"]
+			icon: "mynethersdelight:ghast_salad"
+			id: "5B20FAAB0E962133"
+			rewards: [{
+				id: "4948DD4DEF6FA07B"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "2A7B38620421B5B3"
+					item: { Count: 3, id: "mynethersdelight:ghast_salad" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6A8446B4A5A4F5B4"
+					item: { Count: 3, id: "mynethersdelight:spicy_noodle_soup" }
+					type: "item"
+				}
+			]
+			title: "Блюда из гасты"
+			x: 0.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["4E9605F744F69B14"]
+			description: ["Несколько интересных блюд из лавомерки."]
+			icon: "mynethersdelight:strider_with_grilled_fungus"
+			id: "73F751C3DBC2E636"
+			rewards: [{
+				id: "6A13C90EBCD9CEDE"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "617B4C81202FE269"
+					item: { Count: 3, id: "mynethersdelight:strider_with_grilled_fungus" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "234A60BC526308C6"
+					item: { Count: 3, id: "mynethersdelight:strider_stew" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "1D0355889512E89C"
+					item: { Count: 3, id: "mynethersdelight:crimson_stroganoff" }
+					type: "item"
+				}
+			]
+			title: "Блюда из лавомерки"
+			x: 7.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["4E9605F744F69B14"]
+			description: ["Много-много разных рулетов."]
+			icon: "mynethersdelight:striderloaf"
+			id: "41F0B8A5BEB41CC0"
+			rewards: [{
+				id: "38D498B39128DD89"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "71DAA5295525DAED"
+					item: { Count: 3, id: "mynethersdelight:bleeding_tartar" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "42782598C3E637F1"
+					item: { Count: 3, id: "mynethersdelight:striderloaf" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "45095940AF2027B8"
+					item: { Count: 3, id: "mynethersdelight:plate_of_striderloaf" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "53EA2464687DC4E0"
+					item: { Count: 3, id: "mynethersdelight:plate_of_cold_striderloaf" }
+					type: "item"
+				}
+			]
+			title: "Рулеты из лавомерки"
+			x: 7.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["71D13F8ED724184A"]
+			description: ["Будьте осторожны."]
+			icon: "mynethersdelight:bullet_pepper"
+			id: "1722389078675E47"
+			rewards: [{
+				id: "42389D50DC03A9A2"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "19F01E4A24BBD9E1"
+					item: { Count: 3, id: "mynethersdelight:powder_cannon" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "740B7534E23EA548"
+					item: { Count: 3, id: "mynethersdelight:bullet_pepper" }
+					type: "item"
+				}
+			]
+			title: "Пороховой бамбук"
+			x: 4.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["1722389078675E47"]
+			description: ["Аский фастфуд."]
+			icon: "mynethersdelight:chilidog"
+			id: "01B6247D19E974DB"
+			rewards: [{
+				id: "0883EBBD586CABB7"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "6AA2297FE1FA3B53"
+					item: { Count: 3, id: "mynethersdelight:spicy_skewer" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "1A2398A43B68D82C"
+					item: { Count: 3, id: "mynethersdelight:chilidog" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "067C20ADC7794CB5"
+					item: { Count: 3, id: "mynethersdelight:spicy_hoglin_stew" }
+					type: "item"
+				}
+			]
+			title: "Адские закуски"
+			x: 4.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["01B6247D19E974DB"]
+			description: ["Те самые острые крылышки."]
+			icon: "mynethersdelight:hot_wings_bucket"
+			id: "10F09A92D0107DBF"
+			rewards: [{
+				id: "116197C49465D97D"
+				type: "xp"
+				xp: 325
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "726F0A206937D47D"
+					item: { Count: 2, id: "mynethersdelight:hot_wings" }
+					type: "item"
+				}
+				{
+					id: "2EE28E196053430F"
+					item: "mynethersdelight:hot_wings_bucket"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "70DFE68D5BB96DB6"
+					item: { Count: 2, id: "mynethersdelight:spicy_curry" }
+					type: "item"
+				}
+			]
+			title: "Острые крылышки"
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["01B6247D19E974DB"]
+			description: ["Абсолютно не связанные между собой блюда."]
+			icon: "mynethersdelight:rock_soup"
+			id: "6708D4288C5B1F71"
+			rewards: [{
+				id: "70A66FCA0DCB1C84"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "5791568E8F2F243B"
+					item: { Count: 3, id: "mynethersdelight:rock_soup" }
+					type: "item"
+				}
+				{
+					id: "13C26C038DCBAA68"
+					item: "mynethersdelight:magma_cake"
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "1A5CBB56ECBEFBD2"
+					item: { Count: 3, id: "mynethersdelight:burnt_roll" }
+					type: "item"
+				}
+			]
+			title: "Каменный суп"
+			x: 5.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["08F5B42A93472C9D"]
+			description: ["Знаменитый завтрак с видом на Незер."]
+			icon: "mynethersdelight:sausage_and_potatoes"
+			id: "6D0EB1A5C4C4A913"
+			rewards: [{
+				id: "7880A940E07A88FB"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "061F2B2EA50E8643"
+					item: { Count: 3, id: "mynethersdelight:sausage_and_potatoes" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "555B0DA070C22044"
+					item: { Count: 3, id: "mynethersdelight:breakfast_sampler" }
+					type: "item"
+				}
+			]
+			title: "Адский завтрак"
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["71D13F8ED724184A"]
+			description: ["Чашки адских супов."]
+			icon: "miners_delight:rock_soup_cup"
+			id: "2AD1B75D43A10E7A"
+			rewards: [{
+				id: "69E0D204B53AC5ED"
+				type: "xp"
+				xp: 450
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "155969AEA587DC62"
+					item: { Count: 3, id: "miners_delight:strider_stew_cup" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "7A669985A487E7B6"
+					item: { Count: 3, id: "miners_delight:spicy_noodle_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "6628E5A7A42A3D77"
+					item: { Count: 3, id: "miners_delight:rock_soup_cup" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "0C75495D9C352B9B"
+					item: { Count: 3, id: "miners_delight:spicy_hoglin_stew_cup" }
+					type: "item"
+				}
+			]
+			title: "Адские чашки"
+			x: 7.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["71D13F8ED724184A"]
+			description: ["Трофеи за истребление хоглинов."]
+			icon: "mynethersdelight:hoglin_trophy"
+			id: "27239A694562172E"
+			rewards: [{
+				id: "4C5096C41BAC618B"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "55EED2016B77157B"
+					item: "mynethersdelight:hoglin_trophy"
+					type: "item"
+				}
+				{
+					id: "620476E9899603EF"
+					item: "mynethersdelight:waxed_hoglin_trophy"
+					type: "item"
+				}
+				{
+					id: "2D530D8AB64F28A5"
+					item: "mynethersdelight:zoglin_trophy"
+					type: "item"
+				}
+				{
+					id: "0BF5CEA3E5447AC3"
+					item: "mynethersdelight:skoglin_trophy"
+					type: "item"
+				}
+			]
+			title: "Убийца хоглинов"
+			x: 1.0d
+			y: 14.5d
+		}
+	]
+	title: "&d2.1&r: &lКулинария"
+}

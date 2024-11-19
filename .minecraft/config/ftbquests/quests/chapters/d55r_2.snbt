@@ -1,0 +1,3930 @@
+{
+	autofocus_id: "0179D5430F3433C3"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d55r_2"
+	group: "5EB751CA5EA0FA30"
+	icon: {
+		Count: 1
+		id: "iceandfire:dragonsteel_fire_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4BDF99544A49ED0B"
+	images: [
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/upgrade_orb_lightning"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mowziesmobs:item/icecrystal"
+			rotation: 20.0d
+			width: 1.0d
+			x: 0.5357142857143202d
+			y: -1.8000000000000114d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/copper_helmet"
+			rotation: 15.0d
+			width: 1.0d
+			x: -2.521428571428551d
+			y: 0.1428571428571317d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/amethyst_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.464285714285694d
+			y: -0.8571428571428683d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:textures/particle/electricity_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0071428571428385d
+			y: -2.114285714285728d
+		}
+		{
+			height: 1.0d
+			image: "alexscaves:item/pure_darkness"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.435714285714262d
+			y: 1.6571428571428442d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "apotheosis:textures/items/gems/ice.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "apotheosis:textures/items/gems/ice.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "apotheosis:textures/items/gems/ice.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "apotheosis:textures/items/gems/ice.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/lightning_bottle"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/arcane_essence"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.47619047619053134d
+			y: -5.12619047619048d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/magical_eye"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.4666666666666117d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/blaze_spell_book"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.580952380952425d
+			y: -1.9190476190476247d
+		}
+		{
+			height: 1.0d
+			image: "naturalist:item/bucket_content/snail/light_gray"
+			rotation: 180.0d
+			width: 1.0d
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "create:item/copper_sheet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.609523809523864d
+			y: 0.22380952380951413d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/cyclops_skull"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.209523809523851d
+			y: -0.9761904761904958d
+		}
+		{
+			height: 1.0d
+			image: "artifacts:item/antidote_vessel"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "ends_delight:item/roasted_dragon_steak"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "herbalbrews:item/lavender_tea"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:textures/particles/pixie_dust.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.18095238095242d
+			y: -1.6190476190476417d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/water_breathing.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.642857142857174d
+			y: 2.002380952380939d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/rice_panicles_stage2"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.007142857142895309d
+			y: 5.2095238095237875d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.007142857142895309d
+			y: 6.752380952380925d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: -90.0d
+			width: 1.0d
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/ice_skates"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.1833333333333727d
+			y: 7.9595238095237875d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/accessories/ice_ring"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0166666666667084d
+			y: 9.364285714285693d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/lightning_stew"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/summon_crystal_lightning_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0785714285713937d
+			y: 9.05476190476189d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 180.0d
+			width: 1.0d
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/summon_crystal_ice_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/summon_crystal_ice_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/lightning_dragon_heart"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/lightning_dragon_heart"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/dragonbone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.880952380952323d
+			y: 8.528571428571396d
+		}
+		{
+			height: 1.0d
+			image: "quarkdelight:item/miso_with_bamboo_sprouts"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/wild_rice_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			height: 10.0d
+			image: "iceandfire:textures/logo.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: -9.5d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&6Древние записи&r, записанные могучими охотниками на драконов были утеряны и разбросаны по всему миру. Ваша задача находить эти записи и востановить &6знания минувших эпох&r."]
+			id: "1050ADF1C264EC38"
+			rewards: [{
+				id: "10787EA124585B34"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.2d
+			subtitle: "Записи прошлых веков..."
+			tasks: [
+				{
+					id: "3C526A8FB61E13DD"
+					item: "iceandfire:manuscript"
+					type: "item"
+				}
+				{
+					id: "57AD5EA07D312174"
+					item: "iceandfire:bestiary"
+					type: "item"
+				}
+				{
+					id: "470F2F62233833DE"
+					item: "iceandfire:lectern"
+					type: "item"
+				}
+			]
+			title: "Древние записи"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1050ADF1C264EC38"]
+			description: ["В нашем мире с давних времён существует могущественная раса, которая стоит на вершине иерархии во всём мире - драконы. Они делятся на три типа: &6огненные&r, &bледяные&r и &dгрозовые&r. Их зубы могут прокусить металл, их когти могут срубить деревья."]
+			id: "0179D5430F3433C3"
+			rewards: [{
+				id: "3F0BC7E0B1F102D9"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:dragon_skull_fire"
+				id: "16072EB620C373DF"
+				title: "&6Победите&r: Огненого дракона"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1050ADF1C264EC38"]
+			description: ["В нашем мире с давних времён существует могущественная раса, которая стоит на вершине иерархии во всём мире - драконы. Они делятся на три типа: &6огненные&r, &bледяные&r и &dгрозовые&r. Их зубы могут прокусить металл, их когти могут срубить деревья."]
+			id: "1A6D6EA172DB63A1"
+			rewards: [{
+				id: "258A00BEE126FC5B"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:dragon_skull_ice"
+				id: "1383918164A82586"
+				title: "&bПобедите&r: Ледяного дракона"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1050ADF1C264EC38"]
+			description: ["В нашем мире с давних времён существует могущественная раса, которая стоит на вершине иерархии во всём мире - драконы. Они делятся на три типа: &6огненные&r, &bледяные&r и &dгрозовые&r. Их зубы могут прокусить металл, их когти могут срубить деревья."]
+			id: "31F7D7956905A110"
+			rewards: [{
+				id: "1112A42DFBC6EA38"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:dragon_skull_lightning"
+				id: "47AD387F792322E2"
+				title: "&dПобедите&r: Грозового дракона"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4FFA7AF20E05678A"]
+			description: ["Создайте комплект брони из &cчешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "49761EAAB5D1F6A6"
+			rewards: [{
+				id: "2F1DD41FF57888F2"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&cКрасный комплект"
+			tasks: [
+				{
+					id: "0623A3949C6B3644"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24BE2985F41D2D1E"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2ED57AB0B71837DB"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "317B13FC7377A051"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_red_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["503C907A60861EE9"]
+			description: ["Создайте комплект брони из &6чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "6779ED5EB60CF3AB"
+			rewards: [{
+				id: "62F82B5F67F32F7C"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&6Бронзовый комплект"
+			tasks: [
+				{
+					id: "38259D89CF79A207"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "378B1C41DF73E031"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0EF5C50837B2141A"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FF5969EAB33B721"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_bronze_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7EB2ED772BB8BBE8"]
+			description: ["Создайте комплект брони из &aчешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "0599031E366DFD14"
+			rewards: [{
+				id: "0187FE88CA495175"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&aЗелёный комплект"
+			tasks: [
+				{
+					id: "5D03246A12F3DA24"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "792ABF37FC9334C9"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B04AD453767AACE"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "50A531D6E110F123"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_green_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1141A722D356C088"]
+			description: ["Создайте комплект брони из &7чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "34C8EE7B485AA260"
+			rewards: [{
+				id: "1D1E21F190BE8FCA"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "Серый комплект"
+			tasks: [
+				{
+					id: "134F68701EECAA6D"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74A2287BDBD48F5B"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C5E2501703CF774"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3469EA63DFCB0015"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_gray_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0179D5430F3433C3"]
+			description: ["После победы над огненым драконом, вы можете ощутить себя настоящим &cдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "4FFA7AF20E05678A"
+			rewards: [{
+				id: "6F6065CFF408D633"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&cКрасная"
+			tasks: [{
+				id: "73CC148F9646A254"
+				item: "iceandfire:dragonscales_red"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0179D5430F3433C3"]
+			description: ["После победы над огненым драконом, вы можете ощутить себя настоящим &aдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "7EB2ED772BB8BBE8"
+			rewards: [{
+				id: "693865EF8D07B122"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&aЗелёная"
+			tasks: [{
+				id: "76DD94E65914C0A5"
+				item: "iceandfire:dragonscales_green"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0179D5430F3433C3"]
+			description: ["После победы над огненым драконом, вы можете ощутить себя настоящим &6драконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "503C907A60861EE9"
+			rewards: [{
+				id: "6BBC7CA1241F9D47"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&6Бронзовая"
+			tasks: [{
+				id: "0757E354A46FE90C"
+				item: "iceandfire:dragonscales_bronze"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0179D5430F3433C3"]
+			description: ["После победы над огненым драконом, вы можете ощутить себя настоящим &7драконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "1141A722D356C088"
+			rewards: [{
+				id: "2B0EBDF970099500"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "Серая"
+			tasks: [{
+				id: "24DABBC39F68AC6E"
+				item: "iceandfire:dragonscales_gray"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A6D6EA172DB63A1"]
+			description: ["После победы над ледяным драконом, вы можете ощутить себя настоящим &bдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "5ADF05F11C9318F3"
+			rewards: [{
+				id: "1297D4D07A01E8E6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&bСиняя"
+			tasks: [{
+				id: "7E42750EF1AAA960"
+				item: "iceandfire:dragonscales_blue"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1A6D6EA172DB63A1"]
+			description: ["После победы над ледяным драконом, вы можете ощутить себя настоящим &bдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "164DF16E07F16AEE"
+			rewards: [{
+				id: "00BCE259DA7326EF"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "Белая"
+			tasks: [{
+				id: "7ABE303C294D8353"
+				item: "iceandfire:dragonscales_white"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1A6D6EA172DB63A1"]
+			description: ["После победы над ледяным драконом, вы можете ощутить себя настоящим &bдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "4EAC2783BE9D4065"
+			rewards: [{
+				id: "742AD56951CA9C57"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&9Сапфировая"
+			tasks: [{
+				id: "2B93629C00CF502C"
+				item: "iceandfire:dragonscales_sapphire"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1A6D6EA172DB63A1"]
+			description: ["После победы над ледяным драконом, вы можете ощутить себя настоящим &bдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "5E21323CD1DA1EB1"
+			rewards: [{
+				id: "2B3BE3EC75DFB3FA"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "Серебряная"
+			tasks: [{
+				id: "358D107FE0550AA0"
+				item: "iceandfire:dragonscales_silver"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5ADF05F11C9318F3"]
+			description: ["Создайте комплект брони из &bчешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "0CFAF0FAF993C3DF"
+			rewards: [{
+				id: "1DB1CBDC7F39374C"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&bСиний комплект"
+			tasks: [
+				{
+					id: "39DE324F26429DD6"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "619C2DEAB3C8E1E8"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3492F1958D3BDD66"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38755F8C8512734C"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_blue_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["164DF16E07F16AEE"]
+			description: ["Создайте комплект брони из чешуи дракона, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "6827A0BFE8BBD247"
+			rewards: [{
+				id: "43DA9914E7593BEB"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "Белый комплект"
+			tasks: [
+				{
+					id: "0119B5583518C266"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DCC10D0DB9B3CCD"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "612B78F754BCC287"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "22BE4E5EBAF363A9"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_white_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4EAC2783BE9D4065"]
+			description: ["Создайте комплект брони из &9чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "333C13FB45EE4774"
+			rewards: [{
+				id: "4D0D57D831F9720E"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&9Сапфировый комплект"
+			tasks: [
+				{
+					id: "7DDBEF1D5E2C7EFB"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29CCC77B59179678"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BAAF744786F8B48"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2DB2AB65EFDF596F"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_sapphire_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5E21323CD1DA1EB1"]
+			description: ["Создайте комплект брони из &7чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "54CB4EF25126011A"
+			rewards: [{
+				id: "41C6BEB09E311BBC"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&7Серебряный комплект"
+			tasks: [
+				{
+					id: "0F06BED0F5F8FBAA"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "143F4A12B4A33048"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40DE0BE7AE73CF51"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "05BD90A5DA7C9D25"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_silver_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из чешуи дракона"
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["31F7D7956905A110"]
+			description: ["После победы над грозовым драконом, вы можете ощутить себя настоящим &1драконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "12CA2605B7A13566"
+			rewards: [{
+				id: "6FD07F0AFC554935"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&1Электрическая"
+			tasks: [{
+				id: "79880FE87748100E"
+				item: "iceandfire:dragonscales_electric"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["31F7D7956905A110"]
+			description: ["После победы над грозовым драконом, вы можете ощутить себя настоящим &dдраконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "7153C282E7490BD6"
+			rewards: [{
+				id: "15D446B2653893CF"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&dАметистовая"
+			tasks: [{
+				id: "2F7FE8A6006BCD08"
+				item: "iceandfire:dragonscales_amythest"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["31F7D7956905A110"]
+			description: ["После победы над грозовым драконом, вы можете ощутить себя настоящим &6драконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "5C3C55360EAE3AE1"
+			rewards: [{
+				id: "13D718F3CDCE7ECC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&6Медная"
+			tasks: [{
+				id: "36B93475003683CB"
+				item: "iceandfire:dragonscales_copper"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["31F7D7956905A110"]
+			description: ["После победы над грозовым драконом, вы можете ощутить себя настоящим &7драконоборцем&r! Заберите чешую дракона, чтобы создать комплект могучей брони из его чешуи."]
+			id: "4623789A4EE01FDA"
+			rewards: [{
+				id: "327A96CE359A5B90"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			subtitle: "&7Чёрная"
+			tasks: [{
+				id: "1BE82471BD99404F"
+				item: "iceandfire:dragonscales_black"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["12CA2605B7A13566"]
+			description: ["Создайте комплект брони из &1чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "379C8E43BFC6678D"
+			rewards: [{
+				id: "4FB57879DDCF67B6"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&1Электрический комплект"
+			tasks: [
+				{
+					id: "4B14911536FAD439"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "527139B409430488"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "780ECBE9D852A7B2"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E2D16D604DA9EBE"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_electric_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7153C282E7490BD6"]
+			description: ["Создайте комплект брони из &dчешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "48A284AAE8CE703D"
+			rewards: [{
+				id: "6DCA45FC693C06E7"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&dАметистовый комплект"
+			tasks: [
+				{
+					id: "6587BB478713D3D6"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "41B190C72FA42E94"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7AA61C868DBD95D5"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0FAEA12C7C85510B"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_amythest_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5C3C55360EAE3AE1"]
+			description: ["Создайте комплект брони из &6чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "67CB9892113FA601"
+			rewards: [{
+				id: "7EF48C7B363FBD88"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&6Медный комплект"
+			tasks: [
+				{
+					id: "21A42E1DB034A488"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "793DEB01808B4BD4"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3BC452A8A6AFE41C"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0352481DDE12A937"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_copper_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4623789A4EE01FDA"]
+			description: ["Создайте комплект брони из &7чешуи дракона&r, чтобы все кто видели вас знали, что с вами лучше не связываться."]
+			id: "7573E48E9BEFFB00"
+			rewards: [{
+				id: "22346E30C5901553"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&7Чёрный комплект"
+			tasks: [
+				{
+					id: "7DA311F68B947740"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4120825F7B62C8D2"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11F05A60DA3399BF"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E4D30C06B1952FF"
+					item: {
+						Count: 1
+						id: "iceandfire:armor_black_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0179D5430F3433C3"
+				"1A6D6EA172DB63A1"
+				"31F7D7956905A110"
+			]
+			dependency_requirement: "one_completed"
+			description: ["В подземельях этого мира, вы можете найти логова самых &6древних&r и &6могучих&r драконов. В их логовах таятся очень ценные сокровища, но их охраняют самые древник драконы. Осмелитесь ли вы бросить им вызов и &6одолеть их&r, чтобы заполучить &6яйцо дракона&r и &6вырастить&r своего великого и сильнейшего дракона?"]
+			id: "7B44018BC4C3DE5F"
+			rewards: [{
+				id: "2F6BDBFB1D3E58E0"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "57A7136D28A51BB5"
+				title: "Яйца драконов"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &cсамку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &cбестиарии&r."]
+			id: "7C46763C2EC5FD81"
+			rewards: [{
+				id: "08B1539F99C96C63"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&cКрасное"
+			tasks: [{
+				id: "4B2E643CD5E5DCA9"
+				item: "iceandfire:dragonegg_red"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &aсамку&r дракона и заполучите одно из двенадцати! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &aбестиарии&r."]
+			id: "7785E672EA6342AB"
+			rewards: [{
+				id: "0AF5C729F6F06F6B"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&aЗелёное"
+			tasks: [{
+				id: "6B6440E059851E0A"
+				item: "iceandfire:dragonegg_green"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &6самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &6бестиарии&r."]
+			id: "5AA75E6F5C50AFB7"
+			rewards: [{
+				id: "04567476730A08F0"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&6Бронзовое"
+			tasks: [{
+				id: "46ED2121B3DB6B2F"
+				item: "iceandfire:dragonegg_bronze"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &7самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &7бестиарии&r."]
+			id: "0880DEC1118DCC89"
+			rewards: [{
+				id: "7FB4E716D6C27188"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&7Серое"
+			tasks: [{
+				id: "30E5CBA1B486D9EE"
+				item: "iceandfire:dragonegg_gray"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &bсамку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &bбестиарии&r."]
+			id: "21A60BD5532EF9F6"
+			rewards: [{
+				id: "7012F89952A7F814"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&bСинее"
+			tasks: [{
+				id: "4166A23BD826E6C5"
+				item: "iceandfire:dragonegg_blue"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &rсамку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &rбестиарии&r."]
+			hide_dependency_lines: true
+			id: "690B35169E2F654D"
+			rewards: [{
+				id: "4F9E0E6C59752528"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "Белое"
+			tasks: [{
+				id: "3E17269E63999B27"
+				item: "iceandfire:dragonegg_white"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &9самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &9бестиарии&r."]
+			hide_dependency_lines: true
+			id: "61444A4D9FA7B3DA"
+			rewards: [{
+				id: "2E81C1A3EB6B5B08"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&9Сапфировое"
+			tasks: [{
+				id: "1E55EDB68924C4C6"
+				item: "iceandfire:dragonegg_sapphire"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &7самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &7бестиарии&r."]
+			hide_dependency_lines: true
+			id: "5C593430DA232A34"
+			rewards: [{
+				id: "7C40767E500A16C6"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&7Серебряное"
+			tasks: [{
+				id: "1CE493B09BC3AF8C"
+				item: "iceandfire:dragonegg_silver"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &1самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &1бестиарии&r."]
+			hide_dependency_lines: true
+			id: "59B6D295D8F2F07D"
+			rewards: [{
+				id: "5BB97870524CA9EE"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&1Электрическое"
+			tasks: [{
+				id: "776F5E8DC47E5377"
+				item: "iceandfire:dragonegg_electric"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &dсамку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &dбестиарии&r."]
+			hide_dependency_lines: true
+			id: "03DA8E6659757DE9"
+			rewards: [{
+				id: "4E868C36DE24D2DF"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&dАметистовое"
+			tasks: [{
+				id: "29BE105FF44A82E1"
+				item: "iceandfire:dragonegg_amythest"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &6самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &6бестиарии&r."]
+			id: "6C7A7F08F1F4FD1C"
+			rewards: [{
+				id: "7B082B8C42A18776"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&6Медное"
+			tasks: [{
+				id: "40EC12D57D9F21B7"
+				item: "iceandfire:dragonegg_copper"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B44018BC4C3DE5F"]
+			description: ["Одолейте древнюю &7самку&r дракона и заполучите одно из двенадцати яиц! И начните растить своего собственного дракона. Про то как это делать можно прочитать в &7бестиарии&r."]
+			hide_dependency_lines: true
+			id: "698D3529F746CA03"
+			rewards: [{
+				id: "684CBA1DEF85076E"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&7Чёрное"
+			tasks: [{
+				id: "6E2E2BF1E57D4394"
+				item: "iceandfire:dragonegg_black"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7785E672EA6342AB"
+				"0880DEC1118DCC89"
+				"61444A4D9FA7B3DA"
+				"5AA75E6F5C50AFB7"
+				"698D3529F746CA03"
+				"7C46763C2EC5FD81"
+				"59B6D295D8F2F07D"
+				"690B35169E2F654D"
+				"03DA8E6659757DE9"
+				"5C593430DA232A34"
+				"21A60BD5532EF9F6"
+				"6C7A7F08F1F4FD1C"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"&6-&r Чтобы растить ручного дракона, вам понадобятся такие вещи как: посох управления драконом&r, горн дракона&r, флейта дракона&r и пища для дракона&r."
+				""
+				"&6-&r Для дракона, вы также сможете создать броню. А когда его рост дойдёт до третьей стадии, вы сможете на нём летать, а также создавать драконью сталь."
+			]
+			hide_dependency_lines: true
+			id: "11933C553C2A43A2"
+			rewards: [{
+				id: "06D94EA0443A80D4"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "rsquare"
+			size: 1.2d
+			tasks: [{
+				id: "5DDE47AA72EFFE9B"
+				title: "Информация о личном драконе"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["&6Посох управления&r, нужен для того, чтобы контролировать движения дракона. Вы можете приказать ему летать, охранять вас, следовать за вами, сидеть и т.д."]
+			id: "1C8D3981C9926FB7"
+			rewards: [{
+				id: "416BCD75522BD76A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "331C86BA89F16D59"
+				item: "iceandfire:dragon_stick"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["При помощи &6рога дракона&r, вы можете поместить в него дракона и освободить в любой нужный момент."]
+			id: "6BE44648875B11C5"
+			rewards: [{
+				id: "7608F047AE4F54F4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "10999E33E37F7C27"
+				item: "iceandfire:dragon_horn"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["&6Флейта дракона&r нужна в том случае, если ваш дракон взлетел в небеса, а спускаться не хочет. Чтобы его опустить на землю достаточно посвистеть в флейту."]
+			id: "3AB5C392A3F8E3E1"
+			rewards: [{
+				id: "2CC436C0363046C6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "01D5FC840795D822"
+				item: "iceandfire:dragon_flute"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["&6Драконья&r еда поможет вашему дракону расти быстрее."]
+			id: "7ECBE787B68EAF9A"
+			rewards: [{
+				id: "1EB1588E960A94B9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6CA1664730BC1AF1"
+				item: "iceandfire:dragon_meal"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["Откройте новую информацию о драконьей стали и кузне в бестиарии, а затем постройте кузню с помощью которой, вы будете ковать &cдраконью сталь&r."]
+			icon: "iceandfire:dragonforge_fire_core"
+			id: "07D6B144C3BAA21B"
+			rewards: [
+				{
+					id: "65AE294DE6DA2B68"
+					type: "xp"
+					xp: 10000
+				}
+				{
+					id: "1BF2FDCC7E86F6BF"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:blaze_storm"
+									index: 0
+									level: 10
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&cСоздание драконьей стали"
+			tasks: [
+				{
+					count: 8L
+					id: "19F9D04D5C550BA7"
+					item: { Count: 8, id: "iceandfire:dragon_bone_block" }
+					type: "item"
+				}
+				{
+					count: 17L
+					id: "657B3C6356069985"
+					item: { Count: 17, id: "iceandfire:dragonforge_fire_brick" }
+					type: "item"
+				}
+				{
+					id: "4607A8DB1A926EBC"
+					item: "iceandfire:dragonforge_fire_input"
+					type: "item"
+				}
+				{
+					id: "35B8DB443780409A"
+					item: "iceandfire:dragonforge_fire_core_disabled"
+					type: "item"
+				}
+			]
+			title: "Драконья кузня"
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["Откройте новую информацию о драконьей стали и кузне в бестиарии, а затем постройте кузню с помощью которой, вы будете ковать &bдраконью сталь&r."]
+			icon: "iceandfire:dragonforge_ice_core"
+			id: "735328E1D55DC57D"
+			rewards: [
+				{
+					id: "03760A13502DCE49"
+					type: "xp"
+					xp: 10000
+				}
+				{
+					id: "2607E05D23B560C8"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:frost_step"
+									index: 0
+									level: 8
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&bСоздание драконьей стали"
+			tasks: [
+				{
+					count: 8L
+					id: "1827F2BCAA2EB950"
+					item: { Count: 8, id: "iceandfire:dragon_bone_block" }
+					type: "item"
+				}
+				{
+					count: 17L
+					id: "576F5A6BB835AE99"
+					item: { Count: 17, id: "iceandfire:dragonforge_ice_brick" }
+					type: "item"
+				}
+				{
+					id: "10FEFB9673D1D515"
+					item: "iceandfire:dragonforge_ice_input"
+					type: "item"
+				}
+				{
+					id: "06A59E89ACBB49EF"
+					item: "iceandfire:dragonforge_ice_core_disabled"
+					type: "item"
+				}
+			]
+			title: "Драконья кузня"
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["11933C553C2A43A2"]
+			description: ["Откройте новую информацию о драконьей стали и кузне в бестиарии, а затем постройте кузню с помощью которой, вы будете ковать &dдраконью сталь&r."]
+			icon: "iceandfire:dragonforge_lightning_core"
+			id: "7C104C2D2F1FD1A2"
+			rewards: [
+				{
+					id: "0BBC5A0D8EF0F838"
+					type: "xp"
+					xp: 10000
+				}
+				{
+					id: "1E57ED255175D5BE"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:thunderstorm"
+									index: 0
+									level: 8
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "&dСоздание драконьей стали"
+			tasks: [
+				{
+					count: 8L
+					id: "56049BD0823BDAFA"
+					item: { Count: 8, id: "iceandfire:dragon_bone_block" }
+					type: "item"
+				}
+				{
+					count: 17L
+					id: "6B0F4778A1822307"
+					item: { Count: 17, id: "iceandfire:dragonforge_lightning_brick" }
+					type: "item"
+				}
+				{
+					id: "5F5FD88AA182B259"
+					item: "iceandfire:dragonforge_lightning_input"
+					type: "item"
+				}
+				{
+					id: "599AD42A68FF185B"
+					item: "iceandfire:dragonforge_lightning_core_disabled"
+					type: "item"
+				}
+			]
+			title: "Драконья кузня"
+			x: -2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["07D6B144C3BAA21B"]
+			description: ["Используя железо и &cкровь дракона&r, создайте драконью сталь. А затем изготовьте из неё броню и инструменты."]
+			id: "188C019760FC849D"
+			rewards: [{
+				id: "5DB2B9F6B21CE213"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&cОгненая драконья сталь"
+			tasks: [{
+				id: "37F3E438ED63B393"
+				item: "iceandfire:dragonsteel_fire_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["735328E1D55DC57D"]
+			description: ["Используя железо и &bкровь дракона&r, создайте драконью сталь. А затем изготовьте из неё броню и инструменты."]
+			id: "2DDCD0D0F96DBC07"
+			rewards: [{
+				id: "395E5B0BF8CE7531"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&bЛедяная драконья сталь"
+			tasks: [{
+				id: "1C04628DC3AEEB51"
+				item: "iceandfire:dragonsteel_ice_ingot"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["7C104C2D2F1FD1A2"]
+			description: ["Используя железо и &dкровь дракона&r, создайте драконью сталь. А затем изготовьте из неё броню и инструменты."]
+			id: "116C490ADB7B6AD3"
+			rewards: [{
+				id: "22D19BABBFCDAF96"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "&dГрозовая драконья сталь"
+			tasks: [{
+				id: "5B63E68CC110246E"
+				item: "iceandfire:dragonsteel_lightning_ingot"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["188C019760FC849D"]
+			description: ["Создайте броню и инструменты из &cдраконьей стали&r."]
+			id: "1E97CA32D74269B8"
+			rewards: [{
+				id: "3EA4524AAD4CE8AF"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					id: "3F9CE55F7D035DF5"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32119533FE20597F"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D312A4A8E9C2922"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Инструменты из драконостали"
+			x: -0.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2DDCD0D0F96DBC07"]
+			description: ["Создайте броню и инструменты из &bдраконьей стали&r."]
+			id: "258BFF29CB5486F8"
+			rewards: [{
+				id: "61ECF0AAC3677A89"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					id: "3EC60AF1FB4B784C"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72FB80734170C3D7"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C7C76860B6DD1BF"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Инструменты из драконостали"
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["116C490ADB7B6AD3"]
+			description: ["Создайте броню и инструменты из &dдраконьей стали&r."]
+			id: "0CFE26AD23EA5001"
+			rewards: [{
+				id: "3227082AC60CDA1B"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					id: "3CC85CF494B8D404"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E0968180E3D5FD4"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "197A3ADF3E2DA143"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Инструменты из драконостали"
+			x: -3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["188C019760FC849D"]
+			description: ["Создайте броню и инструменты из &cдраконьей стали&r."]
+			id: "45E97F13A097FB32"
+			rewards: [{
+				id: "1913DDBA5D79A816"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					id: "78E281F5F4892AE8"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EA857CE80E7F5C1"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1E3E53FC24F51351"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48CD0E55B0126FE7"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_fire_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из драконостали"
+			x: 0.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2DDCD0D0F96DBC07"]
+			description: ["Создайте броню и инструменты из &bдраконьей стали&r."]
+			id: "6A8464695BDD9B9D"
+			rewards: [{
+				id: "6FD7F2275489907A"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					id: "0E209EDAEAD0234D"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57D9F389417D091B"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "352FCED2F198D7AC"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "299E7E42981E84F6"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_ice_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из драконостали"
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["116C490ADB7B6AD3"]
+			description: ["Создайте броню и инструменты из &dдраконьей стали&r."]
+			id: "2045E4A6728C750B"
+			rewards: [{
+				id: "102113DBD3629542"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					id: "023EA164EAE709B1"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B00A435258BC8D3"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32A2D5377565CA87"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F87F557BCF085F7"
+					item: {
+						Count: 1
+						id: "iceandfire:dragonsteel_lightning_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Броня из драконостали"
+			x: -2.0d
+			y: 11.0d
+		}
+		{
+			description: ["Путешествуя в пустнях, вы сможете обнаружить загадочный храм со змеиными статуями. Отгодав загадки и пройдя тяжелые испытания, вы сможете попасть в подвал храма, где вас будет ждать &aмедуза горгона&r..."]
+			id: "2555C82BAA2865CD"
+			rewards: [
+				{
+					id: "72AFCDF118084FD1"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "2F93407325901205"
+					item: "minecraft:stone"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "Древнее существо, способная окаменять существ..."
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: {
+					Count: 1
+					id: "iceandfire:gorgon_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "65DA213AFD50D2EB"
+				title: "&aПобедите&r: Горгону"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"В тёмном дубовом лесу обитает раса фей, именуемых&d пикси&r. Они живут в маленьких домиках в виде пеньков, а также грибов. Они умеют делать волшебную, вкусную пыльцу. А также они любят красть вещи у людей..."
+				"Также вы можете подружится с пикси и сделать ее своим другом, покормив ее тортиком."
+			]
+			id: "619E47CCB5F361E9"
+			rewards: [
+				{
+					id: "1528C69556C70DAC"
+					type: "xp"
+					xp: 650
+				}
+				{
+					count: 5
+					id: "604B0C1694A5D849"
+					item: "born_in_chaos_v1:magical_holiday_candy"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			subtitle: "Друг или враг?"
+			tasks: [{
+				entity: "iceandfire:pixie"
+				icon: "iceandfire:pixie_jar_0"
+				id: "003C53C0A774350F"
+				title: "&dПобедите&r: Пикси"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["619E47CCB5F361E9"]
+			description: ["Убив &dпикси&r, вы получите пыльцу, из которой можно будет приготовить &dамброзию&r."]
+			id: "4105C6C9192BBFF7"
+			rewards: [{
+				id: "65C75B20F20695A8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "35D60B9556ADF844"
+				item: "iceandfire:pixie_dust"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["619E47CCB5F361E9"]
+			description: ["Убив &dпикси&r, с маленьким шансом вы можете получить её крылья. Их можно использовать для создания волшебной палочки."]
+			id: "65EAE938D91FF0F5"
+			rewards: [{
+				id: "4C0CEC7318939A3A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "73129425AFDF4EC3"
+				item: "iceandfire:pixie_wings"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["65EAE938D91FF0F5"]
+			description: ["Создайте &dволшебную палочку пикси&r."]
+			id: "5D77F808FB789F64"
+			rewards: [{
+				id: "19B47013827D5D69"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "38C1BC49D35F475C"
+				item: {
+					Count: 1
+					id: "iceandfire:pixie_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4105C6C9192BBFF7"]
+			description: ["Приготовьте &dамброзию&r."]
+			id: "307A7F690F13334A"
+			rewards: [{
+				id: "175740632CDF110E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "242913A1AA44456D"
+				item: "iceandfire:ambrosia"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			description: ["На равнинах и горах, можно изредка встретить пасущих овец и других животных, &6циклопа&r. Они обладают большими размерами силой, что ставит их чуть ниже драконов."]
+			id: "474E2DF13B4D268C"
+			rewards: [{
+				id: "4D08D093EACD8B96"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				icon: "iceandfire:cyclops_skull"
+				id: "7C7C26AB1D03343D"
+				title: "&6Победите&r: Циклопа"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["474E2DF13B4D268C"]
+			description: ["&6Глаз циклопа&r владеет особым свойством. Победите циклопа и заполучите его глаз!"]
+			id: "4D457489109A6432"
+			rewards: [{
+				id: "754310B167F7FA44"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "6339DC711161AF22"
+				item: {
+					Count: 1
+					id: "iceandfire:cyclops_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			description: ["В &bморях&r и &bокеанах&r, можно найти небольшие островки на которых живут русалки и поют песни своим прекрасным голосом. Но когда, кто-то рядом с ними проплывает их голос начинает воздействовать на их мозг заставляя самостоятельно двигаться к ним. А потом они показывают своё истинное лицо &bсирены&r."]
+			id: "4F6275DED10DAB34"
+			rewards: [{
+				id: "31609A63379E2F50"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "iceandfire:siren"
+				icon: {
+					Count: 1
+					id: "relics:aqua_walker"
+					tag: {
+						abilities: {
+							walking: {
+								points: 0
+								stats: {
+									time: 54.83898d
+								}
+							}
+						}
+					}
+				}
+				id: "3D542FEC1037ABCD"
+				title: "&bПобедите&r: Сирену"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F6275DED10DAB34"]
+			description: ["Одолев сирену, вы можете получить её &bслезу&r. Которую можно использовать для создания магического артефакта."]
+			id: "3081D7B146082323"
+			rewards: [{
+				id: "62A1917991D9D6EB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "13B3306B170058C5"
+				item: "iceandfire:siren_tear"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4F6275DED10DAB34"]
+			description: ["Победив &bсирену&r, вы получите её чешую, которую можно будет соеденить с &bчешуёй левиафана&r и создать мощную броню."]
+			id: "6902AED5587882DC"
+			rewards: [{
+				id: "79F02FB56F4D380E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5881CCC38FD5101D"
+				item: "iceandfire:shiny_scales"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"3081D7B146082323"
+				"6902AED5587882DC"
+			]
+			description: ["Создайте &bмогучую флейту сирены&r."]
+			id: "1FEF7345C422F415"
+			rewards: [{
+				id: "7A157815732AB37E"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "5335FCDEA31B5C09"
+				item: {
+					Count: 1
+					id: "iceandfire:siren_flute"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			description: ["В &bморях&r и &bокеанах&r обиют морские драконы, именуемые левиафанами. Они очень быстры и сильны, а также гигантских размеров!"]
+			id: "68827799A12D6F5C"
+			rewards: [{
+				id: "1B19C0B47C93B2B4"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_sea_serpent"
+				criterion: ""
+				icon: "iceandfire:seaserpent_skull"
+				id: "5BB7AB612746282B"
+				title: "&bПобедите&r: Левиафана"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &bчешую&r."]
+			id: "25966E7B57F97BA1"
+			rewards: [{
+				id: "1153FF19FCE86EB1"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&bСиняя"
+			tasks: [{
+				id: "59A243548973607A"
+				item: "iceandfire:sea_serpent_scales_blue"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &6чешую&r."]
+			id: "46D1B23EA92DFBC0"
+			rewards: [{
+				id: "216638D9BFE06D9B"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&6Бронзовая"
+			tasks: [{
+				id: "0C23E8F52CF8E662"
+				item: "iceandfire:sea_serpent_scales_bronze"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &1чешую&r."]
+			id: "46A5FB31B70E248C"
+			rewards: [{
+				id: "032F5C6630E82484"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&1Тёмно-синяя"
+			tasks: [{
+				id: "19F9896FAF4CDA80"
+				item: "iceandfire:sea_serpent_scales_deepblue"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &2чешую&r."]
+			id: "5455DBF690ED02F4"
+			rewards: [{
+				id: "4F7728BD2D8050DE"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&2Зелёная"
+			tasks: [{
+				id: "3EA7470737F39377"
+				item: "iceandfire:sea_serpent_scales_green"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &dчешую&r."]
+			id: "64BE381FFF7D45F7"
+			rewards: [{
+				id: "3EDF22F1BD76920F"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&dПурпурная"
+			tasks: [{
+				id: "6F7FC7E6FB4BB89C"
+				item: "iceandfire:sea_serpent_scales_purple"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &cчешую&r."]
+			id: "343E1E09687C2717"
+			rewards: [{
+				id: "4074BC8519F38B70"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&cКрасная"
+			tasks: [{
+				id: "6EE0E4CD441CFF46"
+				item: "iceandfire:sea_serpent_scales_red"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68827799A12D6F5C"]
+			description: ["Убив левиафана, вы получите его &bчешую&r."]
+			id: "2BDE73120475DD87"
+			rewards: [{
+				id: "22DF887A838BFB93"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "&bБирюзовая"
+			tasks: [{
+				id: "1E4828B173E41FCC"
+				item: "iceandfire:sea_serpent_scales_teal"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["25966E7B57F97BA1"]
+			description: ["Создайте комплект &bморской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "07E257D6CEA58227"
+			rewards: [{
+				id: "0C5CC4FE5CF6CAF8"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&bСиняя"
+			tasks: [
+				{
+					id: "7852EAD4D1911B1B"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_blue_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D6F38A24B4C56D0"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_blue_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24D95C833FB57D61"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_blue_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "62619FEBAC1B4DBB"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_blue_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["46D1B23EA92DFBC0"]
+			description: ["Создайте комплект &6морской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "5AEF483DC14DC7A7"
+			rewards: [{
+				id: "1FDDC14CD496EF6B"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&6Бронзовая"
+			tasks: [
+				{
+					id: "38B39EE1A0678C96"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_bronze_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5860D00CA6E027AB"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_bronze_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60FD248D744B1A72"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_bronze_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71C66C327C3B1B83"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_bronze_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["46A5FB31B70E248C"]
+			description: ["Создайте комплект &1морской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "234F92A0F8D245E0"
+			rewards: [{
+				id: "44E55FFAF8927634"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&1Тёмно-синяя"
+			tasks: [
+				{
+					id: "38786CDF34418818"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_deepblue_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B31DF07151C07EF"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_deepblue_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2282DBB725F220A4"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_deepblue_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2A0CAF433B2ED274"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_deepblue_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 6.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["5455DBF690ED02F4"]
+			description: ["Создайте комплект &2морской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "54BCBA93CF61381B"
+			rewards: [{
+				id: "39E2F9C669465C49"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&2Зелёная"
+			tasks: [
+				{
+					id: "4A0F8E568223AD6D"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_green_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6BB2157A97064A18"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_green_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6FDF4E7AD4ABFD99"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_green_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E0200EB7D73DE24"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_green_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 7.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["64BE381FFF7D45F7"]
+			description: ["Создайте комплект &dморской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "268C8F8048F99B46"
+			rewards: [{
+				id: "7BEDA9CD8312308F"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&dПурпурная"
+			tasks: [
+				{
+					id: "168681D180ADFB63"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_purple_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11D18C9AB3C3E569"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_purple_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71C76A0D7A5ACFF8"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_purple_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71A574FBD1AADA86"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_purple_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 8.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["343E1E09687C2717"]
+			description: ["Создайте комплект &cморской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "0764CCDD7FEBC4DA"
+			rewards: [{
+				id: "1816B0297728D5AE"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&cКрасная"
+			tasks: [
+				{
+					id: "07BD4A5068A1EB2E"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_red_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46410969849187FF"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_red_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "36603070EEE43EE5"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_red_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A490A990A3823B7"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_red_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 9.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2BDE73120475DD87"]
+			description: ["Создайте комплект &bморской брони&r из блестящей чешуи, а также чешуи левиафана."]
+			id: "0E85DC247D5F6CDC"
+			rewards: [{
+				id: "449A9A11196A36AF"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "&bБирюзовая"
+			tasks: [
+				{
+					id: "0FABCDDFEFF934F7"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_teal_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4E727A982C785B88"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_teal_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11C8F03517FC145D"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_teal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74F7D6022371D16D"
+					item: {
+						Count: 1
+						id: "iceandfire:tide_teal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Морская броня"
+			x: 10.0d
+			y: 6.5d
+		}
+		{
+			description: ["В &eпустынях&r и &aджунглях&r, можно найти логово мирмексов. Этим логовом управляет &6королева&r, все рабочии и стражники выполняют её приказы."]
+			id: "36A99F64857B21D7"
+			rewards: [{
+				id: "11ACDFD59EBD8A49"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "iceandfire:myrmex_queen"
+				icon: "iceandfire:myrmex_desert_egg"
+				id: "497FE0F5033F5956"
+				title: "&eПобедите&r: Королеву мирмексов"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36A99F64857B21D7"]
+			description: ["Убивая приспешников королевы, вы будете получать хитин. Из которого можно создать &6броню мирмексов&r."]
+			id: "71C9599025F42AFB"
+			rewards: [{
+				id: "6EA45AF767587D49"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "03E0C1613FE98BE1"
+				item: "iceandfire:myrmex_desert_chitin"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["36A99F64857B21D7"]
+			description: ["Убивая приспешников королевы, вы будете получать хитин. Из которого можно создать &2броню мирмексов&r."]
+			id: "353C7E49ADF67BF3"
+			rewards: [{
+				id: "6E07B12B3AB0F54C"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "208CF4CB8E674817"
+				item: "iceandfire:myrmex_jungle_chitin"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["71C9599025F42AFB"]
+			description: ["Создайте броню &6мирмекса&r."]
+			id: "59C29E3B955B8449"
+			rewards: [{
+				id: "7044E15568BD44FA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4024B8DA62D13586"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_desert_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["71C9599025F42AFB"]
+			description: ["Создайте броню &6мирмекса&r."]
+			id: "5720372F5FE12A07"
+			rewards: [{
+				id: "3FA50DCAEF24A494"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "088566BF0B2C37B1"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_desert_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["71C9599025F42AFB"]
+			description: ["Создайте броню &6мирмекса&r."]
+			id: "3B55C9A41E94825E"
+			rewards: [{
+				id: "2B11CC290EA59CA5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "15C9028B14F38147"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_desert_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["71C9599025F42AFB"]
+			description: ["Создайте броню &6мирмекса&r."]
+			id: "0E65A2873121FE90"
+			rewards: [{
+				id: "7939D10023CA3B31"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "611F8C2B05BFABEF"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_desert_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["353C7E49ADF67BF3"]
+			description: ["Создайте броню &2мирмекса&r."]
+			id: "4C36EF046EC72D6D"
+			rewards: [{
+				id: "7CAC0D4A201F92CE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "65E7A1241BE3D457"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_jungle_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["353C7E49ADF67BF3"]
+			description: ["Создайте броню &2мирмекса&r."]
+			id: "7C4EEE4A53E2A5C7"
+			rewards: [{
+				id: "1A54F639947290DB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4A692EC339F427A7"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_jungle_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["353C7E49ADF67BF3"]
+			description: ["Создайте броню &2мирмекса&r."]
+			id: "227A16C1E794FF69"
+			rewards: [{
+				id: "12E922EA0B29E350"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1654EBDAB2B53ADB"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_jungle_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["353C7E49ADF67BF3"]
+			description: ["Создайте броню &2мирмекса&r."]
+			id: "3D09FAAE6A19976D"
+			rewards: [{
+				id: "6F308BE6D071EE23"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14FBD07C0B7803F3"
+				item: {
+					Count: 1
+					id: "iceandfire:myrmex_jungle_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			description: ["Иногда вам могут попасться старые особняки, в которых остались призраки их &bхозяев&r, которые ночью могут встретится, защищая свой дом. "]
+			id: "33334A51A383F8BE"
+			rewards: [{
+				id: "0EB4B397DAAF5055"
+				type: "xp"
+				xp: 1000
+			}]
+			shape: "diamond"
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_ghost"
+				criterion: ""
+				id: "1DD732E645A65BA4"
+				title: "&bПобедите&r: Призрака"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["33334A51A383F8BE"]
+			description: ["С маленьким шансом, после убийства призрака, вы можете получить &bфантомный слиток&r."]
+			id: "2F85E5A410CB7C52"
+			rewards: [{
+				id: "68F57D881C7D7AF2"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "5DAB098A21913FC3"
+				item: "iceandfire:ghost_ingot"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2F85E5A410CB7C52"]
+			description: ["Обьедените меч из кости дракона и фантомный слиток, чтобы получить &bфантомный клинок&r."]
+			id: "2D788BCA763E68F6"
+			rewards: [
+				{
+					id: "5898660DA058F097"
+					type: "xp"
+					xp: 1000
+				}
+				{
+					id: "36A2DC654D6FE531"
+					item: {
+						Count: 1
+						id: "alexsmobs:ghostly_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "73B312928885B4B2"
+				item: {
+					Count: 1
+					id: "iceandfire:ghost_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			description: ["В пустынях под песком обитают &eплотоядные черви&r, которые охотятся на всё, что движется над песком..."]
+			id: "7CE179A962FC3C2D"
+			rewards: [{
+				id: "20E9DCB1DFF6B4EE"
+				type: "xp"
+				xp: 750
+			}]
+			shape: "diamond"
+			tasks: [{
+				entity: "iceandfire:deathworm"
+				icon: "iceandfire:deathworm_tounge"
+				id: "65DDDC15D20E1951"
+				title: "&eПобедите&r: Плотоядного червя"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7CE179A962FC3C2D"]
+			description: ["Убив плотоядного червя, вы получите &eхитин&r. Который можно использовать для создания брони."]
+			id: "3CECB3BAFED1E23D"
+			rewards: [{
+				id: "6F43B2633FE1FC64"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "01B5E5E4B51F057C"
+				item: "iceandfire:deathworm_chitin_yellow"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7CE179A962FC3C2D"]
+			description: ["Убив плотоядного червя, вы получите &eхитин&r. Который можно использовать для создания брони."]
+			id: "55EBD8B1F83A6956"
+			rewards: [{
+				id: "1F3589CEF04BF5DD"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "55EA4C9C7AC5483B"
+				item: "iceandfire:deathworm_chitin_red"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7CE179A962FC3C2D"]
+			description: ["Убив плотоядного червя, вы получите &eхитин&r. Который можно использовать для создания брони."]
+			id: "7A4358D94A9CE9CE"
+			rewards: [{
+				id: "2366B4670DB1C79A"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "418FEB537764DCAF"
+				item: "iceandfire:deathworm_chitin_white"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7A4358D94A9CE9CE"]
+			description: ["Создайте комплект брони их хитина пустынного червя."]
+			id: "3DD457633883E2A3"
+			rewards: [{
+				id: "51A6A5A012FD5A87"
+				type: "xp"
+				xp: 350
+			}]
+			subtitle: "Белая"
+			tasks: [
+				{
+					id: "2D5183DC5FD89A95"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0246B153C58F96C5"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "653F3820626BBA71"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "672A6B1B032A2D89"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_white_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Хитиновая броня"
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3CECB3BAFED1E23D"]
+			description: ["Создайте комплект брони их хитина &eпустынного червя&r."]
+			id: "269EBC3BD17F4D78"
+			rewards: [{
+				id: "67DB27DC470D07D8"
+				type: "xp"
+				xp: 350
+			}]
+			subtitle: "&eТелесная"
+			tasks: [
+				{
+					id: "384FF6B7077CF7D7"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_yellow_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C65DCA23D5DBD50"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_yellow_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7332F0DF9F5D3808"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_yellow_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52438636C839049B"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_yellow_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Хитиновая броня"
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["55EBD8B1F83A6956"]
+			description: ["Создайте комплект брони их хитина &cпустынного червя&r."]
+			id: "19430A891A62692E"
+			rewards: [{
+				id: "6085EAA47AAE7117"
+				type: "xp"
+				xp: 350
+			}]
+			subtitle: "&cКрасная"
+			tasks: [
+				{
+					id: "53521BB361892239"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_red_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FAED4718977B586"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_red_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "41C2E990CBEEA080"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_red_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1BE3DD7E9C329992"
+					item: {
+						Count: 1
+						id: "iceandfire:deathworm_red_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Хитиновая броня"
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			description: ["На &aболотах&r обитает могучее существо - &aГидра&r, которое можно отрастить 9 голов. Из-за быстрой регенерации ей всё равно на любые раны, кроме &cогня&r."]
+			id: "2E4BF7CDD48F7ECA"
+			rewards: [
+				{
+					id: "171AA1BCDF9C3C69"
+					type: "xp"
+					xp: 3000
+				}
+				{
+					id: "681481D5FBBC90A7"
+					item: {
+						Count: 1
+						id: "irons_spellbooks:scroll"
+						tag: {
+							ISB_Spells: {
+								data: [{
+									id: "irons_spellbooks:poison_splash"
+									index: 0
+									level: 10
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_hydra"
+				criterion: ""
+				id: "3B2CD9AB5C323D02"
+				title: "&aПобедите&r: Гидру"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2E4BF7CDD48F7ECA"]
+			description: ["Убив &aгидру&r, вы получите её &aсердце&r, что является могучим артефактом."]
+			id: "6EDC503C8C472640"
+			rewards: [{
+				id: "163F27F46F92171C"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "2E7F84FEE66908E7"
+				item: "iceandfire:hydra_heart"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			description: ["В саваннах можно встретить существ, от которых произошли курицы - &6Василисков&r. Их глаза обладают иссушающими свойствами, поэтому не советую смотреть им в глаза."]
+			id: "77B36844A2421C33"
+			rewards: [
+				{
+					id: "298872A7DE658E59"
+					item: "minecells:monsters_eye"
+					type: "item"
+				}
+				{
+					id: "78920738B1F89A3D"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "iceandfire:cockatrice"
+				icon: "iceandfire:cockatrice_skull"
+				id: "02C2B0876BE0DF35"
+				title: "&6Победите&r: Василиска"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["77B36844A2421C33"]
+			description: ["Убив василиска, вы получите &6кость иссушителя&r."]
+			id: "773377791C28B571"
+			rewards: [{
+				id: "26C874F6D08EAFE2"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "6EA3931648F044E9"
+				item: "iceandfire:witherbone"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["773377791C28B571"]
+			description: ["Создайте комплект инструментов из кости &6дракона&r и кости &6иссушителя&r."]
+			id: "6FE12FF0EFEE7525"
+			rewards: [{
+				id: "2F381EAAC0D99EB6"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "279AD5FC99BA27C5"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["773377791C28B571"]
+			description: ["Создайте комплект инструментов из кости &6дракона&r и кости &6иссушителя&r."]
+			id: "62A893EB7E47BFB4"
+			rewards: [{
+				id: "181050332D34546F"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "470E2A8896CFF1A7"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["773377791C28B571"]
+			description: ["Создайте комплект инструментов из кости &6дракона&r и кости &6иссушителя&r."]
+			id: "43DA52F807C059C5"
+			rewards: [{
+				id: "1FB1E0903B4ADFFD"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				id: "3FA15A3FA94AE8EF"
+				item: {
+					Count: 1
+					id: "iceandfire:dragonbone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Оружие из кости дракона"
+			x: -6.0d
+			y: 6.5d
+		}
+	]
+	title: "&d6.6&r: &lДраконы"
+}

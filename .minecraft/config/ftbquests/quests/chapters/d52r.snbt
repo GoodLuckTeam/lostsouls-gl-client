@@ -1,0 +1,357 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "d52r"
+	group: "5EB751CA5EA0FA30"
+	icon: {
+		Count: 1
+		id: "betterarcheology:diamond_brush"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "56FE4E099D6DD7BF"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:item/diamond"
+			rotation: -35.0d
+			width: 1.0d
+			x: -1.3734693877551294d
+			y: -0.4465986394557717d
+		}
+		{
+			height: 1.0d
+			image: "iceandfire:item/copper_ingot"
+			rotation: -20.0d
+			width: 1.0d
+			x: -0.16938775510207904d
+			y: -0.4670068027210803d
+		}
+		{
+			height: 1.0d
+			image: "relics:item/magma_walker_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "naturalist:item/monarch"
+			rotation: -30.0d
+			width: 1.0d
+			x: -0.3530612244898279d
+			y: -3.528231292516999d
+		}
+		{
+			height: 1.0d
+			image: "irons_spellbooks:item/dragonskin_spell_book"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.1775510204081385d
+			y: -3.4465986394557753d
+		}
+		{
+			height: 1.0d
+			image: "endrem:item/magical_eye"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.5448979591836363d
+			y: -2.6914965986394463d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/enchanted_book"
+			rotation: -30.0d
+			width: 1.0d
+			x: 2.644897959183645d
+			y: -4.488435374149645d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/enchanted_book"
+			rotation: 50.0d
+			width: 1.0d
+			x: 3.530612244897931d
+			y: -3.2598639455782177d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/enchanted_book"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.387755102040792d
+			y: -1.802721088435355d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.201020408163238d
+			y: -0.3054421768707414d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Первым делом, создайте кисть: &6обычную&r, &7железную&r или &bалмазную&r. Они отличаются лишь скоростью и прочностью."]
+			id: "70172FEA595B0811"
+			rewards: [
+				{
+					id: "15BB6DE043E82FFE"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 3
+					id: "1F628FDEA255F7CA"
+					item: "spelunkery:copper_nugget"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "045ABE83F4E72463"
+				item: {
+					Count: 1
+					id: "minecraft:brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Первым делом, создайте кисть: &6обычную&r, &7железную&r или &bалмазную&r. Они отличаются лишь скоростью и прочностью."]
+			id: "6E5D3D566A48D7A7"
+			rewards: [
+				{
+					id: "47D1998862244043"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 3
+					id: "60088837757FC501"
+					item: "minecraft:iron_nugget"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "63F6006ACC8B6F7D"
+				item: {
+					Count: 1
+					id: "betterarcheology:iron_brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			description: ["Первым делом, создайте кисть: &6обычную&r, &7железную&r или &bалмазную&r. Они отличаются лишь скоростью и прочностью."]
+			id: "4E27C6B0AE38A4B3"
+			rewards: [
+				{
+					id: "1DE87B641A17A728"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 3
+					id: "3EAB7B561D18A535"
+					item: "spelunkery:diamond_shard"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "15F5515F2C7DE95D"
+				item: {
+					Count: 1
+					id: "betterarcheology:diamond_brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4E27C6B0AE38A4B3"
+				"6E5D3D566A48D7A7"
+				"70172FEA595B0811"
+			]
+			description: ["При помощи кисти, рыхля такие места как: подозрительный &eпесок&r, &8гравий&r, &cкрасный песок&r, а также землю с окаменелостями, вы сможете найти осколки артефакта."]
+			id: "00BD59FD78A0512B"
+			min_required_dependencies: 1
+			rewards: [{
+				id: "3FB4739D1E8259E8"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "6A9F540D3C586FAF"
+				item: "betterarcheology:artifact_shards"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["00BD59FD78A0512B"]
+			description: ["Вы можете создать стол археолога, тем самым дав новую профессию жителю - &6Археолог&r."]
+			id: "2C7DF54477839828"
+			rewards: [{
+				id: "2E79490549029657"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "405C9B2C17A428FE"
+				item: "betterarcheology:archeology_table"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2C7DF54477839828"
+				"00BD59FD78A0512B"
+			]
+			description: ["Из осколков артефакта, вы можете создать полноценный артефакт, положив его на стол археолога, а также добавив кисть, вы сможете получить книга зачарования."]
+			id: "476A16C4AE845E09"
+			rewards: [
+				{
+					id: "49787BF5F6ED035A"
+					item: {
+						Count: 1
+						id: "minecraft:iron_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15377054985DE936"
+					type: "xp"
+					xp: 300
+				}
+			]
+			tasks: [{
+				id: "4103B1557FEB9247"
+				item: "betterarcheology:unidentified_artifact"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["476A16C4AE845E09"]
+			description: ["Из данного мода есть три артефекта, являющихся аналогами зачарованных книг. Каждый из них имеет свои свойства."]
+			id: "0B9411244587AEA7"
+			rewards: [{
+				id: "1C8261DA0ACA6FDF"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "629BCAC9E48439DD"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "betterarcheology:soaring_winds"
+							lvl: 1s
+						}]
+						display: {
+							Lore: ["{\"color\":\"dark_gray\",\"translate\":\"enchantment.betterarcheology.soaring_winds.desc\"}"]
+							Name: "{\"translate\":\"item.betterarcheology.identified_artifact\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["476A16C4AE845E09"]
+			description: ["Из данного мода есть три артефекта, являющихся аналогами зачарованных книг. Каждый из них имеет свои свойства."]
+			id: "32A0573CB1191287"
+			rewards: [{
+				id: "5E19C8757CCC3E44"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6B780CE2B43596A5"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "betterarcheology:tunneling"
+							lvl: 1s
+						}]
+						display: {
+							Name: "{\"translate\":\"item.betterarcheology.identified_artifact\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["476A16C4AE845E09"]
+			description: ["Из данного мода есть три артефекта, являющихся аналогами зачарованных книг. Каждый из них имеет свои свойства."]
+			id: "102834370B4469FF"
+			rewards: [{
+				id: "58BD04708AF673D5"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4ECC572348FE9EC8"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "betterarcheology:penetrating_strike"
+							lvl: 1s
+						}]
+						display: {
+							Name: "{\"translate\":\"item.betterarcheology.identified_artifact\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+	]
+	title: "&d6.2&r: &lАрхеология"
+}

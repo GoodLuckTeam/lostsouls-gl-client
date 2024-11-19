@@ -1,0 +1,14 @@
+{
+    "name": "Потерянный путеводитель",
+    "landing_text": "Привет $(playername) и добро пожаловать в сборку Lost Souls!",
+    "model": "patchouli:book_purple",
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "use_blocky_font": true,
+    "link_color": "CF37EC",
+    "text_overflow_mode": "resize",
+    "progress_bar_color": "EBB538",
+    "progress_bar_background": "D8A434",
+    "version": 1,
+    "creative_tab": "minecraft:ingredients",
+    "use_resource_pack": false
+}
