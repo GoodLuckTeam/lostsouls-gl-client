@@ -1,4 +1,5 @@
 # LOST SOULS by GoodLuck
+<img width=256 height=256 src="https://github.com/GoodLuckTeam/lostsouls-gl-client/blob/main/.minecraft/%D0%9B%D0%BE%D0%B3%D0%BE%20%D1%81%20%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC.%20%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20%D1%84%D0%BE%D0%BD.png">
 
 ## Инструкция по устаноке
 > [!NOTE]
@@ -34,3 +35,16 @@
 > 1. Minecraft аргументы: --server 5.83.140.18:25565
 > 2. Выбор Java: *Нажмите* [Изменить] => [Обзор] => *папка jdk-17*
 > 3. Выделение памяти: 8196 мб.
+>
+
+### DISCORD
+Нужна помощь в использовании? Хотите внести свой вклад? Если вы хотите пообщаться с разработчиками или другими людьми в сообществе, присоединяйтесь к нашему серверу Discord:
+
+<table>
+  <tbody>
+    <tr>
+      <td><img width=64 height=64 src="https://cdn.worldvectorlogo.com/logos/discord.svg"></td>
+      <td><h1>https://discord.gg/goodluck</h1></td>
+    </tr>
+  </tbody>
+</table> 
