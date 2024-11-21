@@ -23,3 +23,13 @@
 ### UPDATE
 > [!IMPORTANT]  
 > Все изменения [CHANGELOG](https://github.com/GoodLuckTeam/lostsouls-gl-client/blob/main/CHANGELOG.md).
+
+### PROPERTIES
+> [!CAUTION]
+> **Полезные настройки**
+> Скачайте и установите [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+>
+> Настройки TLauncher:
+> 1. Minecraft аргументы: --server 5.83.140.18:25565
+> 2. Выбор Java: *Нажмите* [Изменить] => [Обзор] => *папка jdk-17*
+> 3. Выделение памяти: 8196 мб.
