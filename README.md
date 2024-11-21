@@ -22,11 +22,12 @@
 
 ### UPDATE
 > [!IMPORTANT]  
-> Все изменения [CHANGELOG](https://github.com/GoodLuckTeam/lostsouls-gl-client/blob/main/CHANGELOG.md).
+> **Все изменения** [CHANGELOG](https://github.com/GoodLuckTeam/lostsouls-gl-client/blob/main/CHANGELOG.md).
 
 ### PROPERTIES
 > [!CAUTION]
-> **Полезные настройки**
+> **ПОЛЕЗНЫЕ НАСТРОЙКИ**
+> 
 > Скачайте и установите [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 >
 > Настройки TLauncher:
