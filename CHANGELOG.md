@@ -1,3 +1,14 @@
+## [v0.1.3] - 2024-11-22
+
+### Removed
+- Mod Ftb Chunks
+- Mod Ftb Library
+- Mod Ftb Team
+- Mod Ftb quests
+  
+  `Возвращено до более старых версий, так как вызывало конфликт модов.`
+
+
 ## [v0.1.2] - 2024-11-21
 ### Changed
 - Mod Ice&Fire
