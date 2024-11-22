@@ -4,7 +4,7 @@
 - Mod Ftb Chunks
 - Mod Ftb Library
 - Mod Ftb Team
-- Mod Ftb quests
+- Mod Ftb Quests
   
   `Возвращено до более старых версий, так как вызывало конфликт модов.`
 
@@ -28,3 +28,5 @@
 - Mod Botania
 - Mod Carry on
 - Mod Jade
+- Mod Ftb Chunks
+- Mod Ftb Quests
